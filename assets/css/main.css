@@ -5,7 +5,8 @@ body
 {
   background: white;
   margin: 0px;
-  font-family: 'Rambla', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12pt;
 }
 
 h1
@@ -248,7 +249,7 @@ footer
   position: relative;
   top:35px;
   margin: auto;
-  font-size:10pt;
+  font-size:11pt;
   text-align:center;
 }
 
