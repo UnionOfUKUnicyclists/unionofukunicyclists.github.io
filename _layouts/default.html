@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<!--[if lte IE 7]> <html lang="en-GB" class="no-js lte-ie7"> <![endif]-->
+<!--[if IE 8]> <html lang="en-GB" class="no-js ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en-GB" class="no-js ie9"> <![endif]-->
+<!--[if IE 10]><!--> <html lang="en-GB" class="no-js"> <!--<![endif]-->
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+    <section id="content">
+    {{ content | markdownify }}
+    </section>
+    {% include footer.html %}
+  </body>
+</html>

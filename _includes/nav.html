@@ -1,0 +1,54 @@
+<header>
+  <script>
+  jQuery(document).ready(function() {
+    /* Set Default menu selection */
+    uuuMenuSetBreadcrumbs('{{page.menu_top}}', '{{page.menu_bottom}}');
+  });
+  </script>
+<header>
+  <div id="uuu_logo">
+    <div id="social_container">
+      <a href="http://www.facebook.com/{{ site.facebook_page }}"><img src="{{ "/assets/img/facebook-icon.png" | prepend:site.baseurl }}"></a>
+      <a href="http://twitter.com/{{ site.twitter_username }}"><img src="{{ "/assets/img/twitter-icon.png" | prepend:site.baseurl }}"></a>
+    </div>
+  </div>
+</header>
+
+{% assign sorted_pages = site.pages | sort:"dir" %}
+<nav>
+  <ul id="top_level_nav">
+    <li>UUU
+      {% include bottom_nav_list.html tld="uuu" %}
+    </li>
+    <li>
+      <a href="{{ "/clubs/" | append:site.baseurl }}">Clubs</a>
+      <div class="bottom_level_nav"></div>
+    </li>
+    <li>
+      <a href="{{ "/events/" | append:site.baseurl }}">Events</a>
+      <div class="bottom_level_nav"></div>
+    </li>
+    <li>Flatland
+      {% include bottom_nav_list.html tld="flatland" %}
+    </li>
+    <li>Freestyle
+      {% include bottom_nav_list.html tld="freestyle" %}
+    </li>
+    <li>Hockey
+      {% include bottom_nav_list.html tld="hockey" %}
+    </li>
+    <li>Muni
+      {% include bottom_nav_list.html tld="muni" %}
+    </li>
+    <li>Road
+      {% include bottom_nav_list.html tld="road" %}
+    </li>
+    <li>Street
+      {% include bottom_nav_list.html tld="street" %}
+    </li>
+    <li>Trials
+      {% include bottom_nav_list.html tld="trials" %}
+    </li>
+  </ul>
+</nav>
+<div id="bottom_bar"> </div>

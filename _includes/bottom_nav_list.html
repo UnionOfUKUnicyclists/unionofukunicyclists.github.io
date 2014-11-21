@@ -1,0 +1,15 @@
+{% comment %}
+This is used to generate the list of menu items by
+iterating other the list of pages matching a particular
+``include.tld`` (a top level directory in the site source tree).
+{% endcomment %}
+<div class="bottom_level_nav">
+  <ul>
+    {% for p in sorted_pages %}
+      {% assign current_top_level_dir = p.dir | split:"/" [1] %}
+      {% if current_top_level_dir[1] == include.tld %}
+      <li><a href="{{ p.dir | prepend:site.baseurl}}/">{{p.menu_bottom}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

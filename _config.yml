@@ -1,0 +1,71 @@
+# Site settings
+title: "The Union of UK Unicyclists"
+email: webmaster@unicycle.org.uk
+description: > # this means to ignore newlines until "baseurl:"
+  The website of the Union of UK Unicyclists
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.unicycle.org.uk" # the base hostname & protocol for your site
+twitter_username: UUUnicyclists
+github_username:  UnionOfUKUnicyclists
+facebook_page: theunionofukunicyclists
+
+# Build settings
+markdown: kramdown
+
+# Pages use the "default.html" layout by default
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+# Set menu top level defaults
+  -
+    scope:
+      path: "uuu"
+      type: "pages"
+    values:
+      menu_top: "UUU"
+  -
+    scope:
+      path: "flatland"
+      type: "pages"
+    values:
+      menu_top: "Flatland"
+  -
+    scope:
+      path: "freestyle"
+      type: "pages"
+    values:
+      menu_top: "Freestyle"
+  -
+    scope:
+      path: "hockey"
+      type: "pages"
+    values:
+      menu_top: "Hockey"
+  -
+    scope:
+      path: "muni"
+      type: "pages"
+    values:
+      menu_top: "Muni"
+  -
+    scope:
+      path: "road"
+      type: "pages"
+    values:
+      menu_top: "Road"
+  -
+    scope:
+      path: "street"
+      type: "pages"
+    values:
+      menu_top: "Street"
+  -
+    scope:
+      path: "trials"
+      type: "pages"
+    values:
+      menu_top: "Trials"
