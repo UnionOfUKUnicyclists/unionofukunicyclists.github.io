@@ -1,0 +1,32 @@
+named:
+  - role: "Chairperson"
+    name: "Kris Abraham"
+    email: "chairperson@unicycle.org.uk"
+
+  - role: "Secretary"
+    name: "Daniel Liew"
+    email: "secretary@unicycle.org.uk"
+
+  - role: "Treasurer"
+    name: "Joe Baxter"
+    email: "treasurer@unicycle.org.uk"
+
+  - role: "Webmaster"
+    name: "Daniel Liew"
+    email: "webmaster@unicycle.org.uk"
+
+  - role: "IUF representative"
+    name: "Alan Hogan"
+    email: "iuf@unicycle.org.uk"
+
+# FIXME: These email addresses shouldn't contain roles anymore.
+other:
+  - name: "Brendan Le Foll"
+    email: "trials@unicycle.org.uk"
+
+  - name: "James Sandercock"
+    email: "road@unicycle.org.uk"
+
+  # Still active?
+  - name: "Andrew Lenden"
+    email: "road@unicycle.org.uk"

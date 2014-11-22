@@ -1,0 +1,36 @@
+{{ content | markdownify }}
+
+<h2>Specific roles</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Role</th>
+      <th>Name</th>
+      <th>Contact</th>
+    </tr>
+  </thead>
+{%for person in site.data.committee.named %}
+  <tr>
+    <td>{{person.role}}</td>
+    <td>{{person.name}}</td>
+    <td><a href="mailto:{{person.email}}">{{person.email}}</a></td>
+  </tr>
+{% endfor %}
+</table>
+
+<h2>Other committee members</h2>
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Contact</th>
+    </tr>
+  </thead>
+{%for person in site.data.committee.other %}
+  <tr>
+    <td>{{person.name}}</td>
+    <td><a href="mailto:{{person.email}}">{{person.email}}</a></td>
+  </tr>
+{% endfor %}
+</table>
