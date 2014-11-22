@@ -1,0 +1,254 @@
+20:07:45 <delcypher> #startmeeting 12th UUU IRC Meeting
+20:07:45 <izqit> Meeting started Wed Aug 13 20:07:45 2014 UTC and is due to finish in 60 minutes.  The chair is delcypher. Information about MeetBot at http://wiki.debian.org/MeetBot.
+20:07:45 <izqit> Useful Commands: #action #agreed #info #idea #link #topic #startvote.
+20:07:45 <izqit> The meeting name has been set to '12th_uuu_irc_meeting'
+20:08:00 <delcypher> #info delcypher is Dan Liew (Secretary)
+20:08:17 <delcypher> #info arfoll is Brendan Le Foll (Trials rep)
+20:08:23 <joe_treasurer> #info joe_treasurer is Joe Baxter
+20:08:29 <delcypher> #info kris is Kris Abraham (Chairperson)
+20:09:13 <joe_treasurer> #info joe_treasurer is Joe Baxter (treasurer and muni rep)
+20:09:18 <delcypher> #info abbythesmall is Abby Williams who recently volunteered to help the UUU
+20:09:26 <delcypher> #topic Bank account status
+20:09:44 <delcypher> #info This finally sorted. Joe, Kris and Dan have online access.
+20:09:53 <joe_treasurer> yes
+20:10:00 <arfoll> WOOO!
+20:10:01 <delcypher> joe_treasurer: Anything you want to add before I move to the next topic?
+20:10:15 * arfoll distributes drinks all around
+20:10:33 <joe_treasurer> i was advised to set up telephone banking. Do the commitee wish me to proceed
+20:11:05 <kris> surely online banking superseeds telephone?
+20:11:06 <delcypher> joe_treasurer: Can you remind of the reason you wanted that? I think you mentioned it a while ago but I don't remember what it was.
+20:12:23 <joe_treasurer> advised by the branch and internet banking helpline, as with telephone banking security set up you can talk to them if you have issues logging in etc. i had real trouble with that £6 fee i managed to get refunded due to not having telephone security set up
+20:13:10 <joe_treasurer> the security questions which were set were all relating to Luke Dutton... so i couldnt access our own account over the phone
+20:13:23 <delcypher> joe_treasurer: Okay Joe. Does that mean each of us (i.e. Kris and I) have to fill in more forms... eurgh
+20:13:28 <delcypher> ?
+20:14:16 <joe_treasurer> i will look into it. i believe i should just be able to set it up and inform each of you of the security details
+20:14:28 <delcypher> joe_treasurer: I think enabling telephone banking is okay provided there is something in place which means no one person named for telephone can abuse it
+20:15:03 <joe_treasurer> yeah. i will look into putting limited on it when i set it up
+20:15:06 <delcypher> #action joe_treasurer will look into enabling telephone banking. This is mainly for sorting out broken logins
+20:15:10 <delcypher> okay great next topic
+20:15:16 <delcypher> #topic Website stuff
+20:15:54 <delcypher> #info Gavin MacGregor has resigned of UUU website, after quite a few years of service.
+20:15:54 <kris> are we getting a new webmaster? do we need one?
+20:16:13 <delcypher> #info delcypher is the temporary webmaster, although he still needs to sort out access.
+20:16:33 <arfoll> kris: we just bully delcypher into doing it :) much easier :)
+20:16:49 <kris> Result!
+20:17:21 <delcypher> kris: We do need one. arfoll and I were discussing before the meeting a radical change to how the UUU website works which would result in much easier maintenance, free webhosting and best of all NO PHP!
+20:18:03 <arfoll> and u had nothing to do with that php did u....
+20:18:07 <kris> NO PHP sounds awsome!!
+20:18:20 <kris> i have no idea :-(
+20:18:36 <delcypher> I think it may be best to leave the discussion of this to our mailing list because I don't want to bog the meeting down in technical details
+20:19:04 <arfoll> i think me & delcypher essentially have a plan, should be ok
+20:19:17 <kris> delcypher: easyer maintenance sounds like a plan though! gavin said he spent alot of time on it
+20:19:20 <kris> i agree
+20:19:26 <delcypher> #action delcypher will discuss proposal to change UUU website (use statically generated HTML via Jekyll hosted on GitHub)
+20:20:00 <delcypher> Great anything else we want to discuss about this before we move on to the next topic?
+20:20:58 <delcypher> I'll take the silence as a no. Next topic.
+20:21:09 <delcypher> #topic Street Rep (Jason Auld) has resigned
+20:22:05 <delcypher> #info Jason recently emailed the committee members to announcing his resignation, citing his lack of contributions
+20:22:32 <delcypher> Do we want to say any more on this, before the next topic?
+20:22:57 <kris> Not much to add
+20:23:14 <joe_treasurer> move on
+20:23:38 <kris> By by Jason X
+20:23:48 <delcypher> #topic The State of the UUU. Where are we going?
+20:24:33 <delcypher> #info Until very recently the UUU was pretty much dead. We hardly post on facebook/twitter about events, none of us attended Unicon and the plan BUC fell flat due our own inaction
+20:24:43 <arfoll> well i think we're not doing anything atm. We have a website that's fairly unused, we dont reply to emails much and we're not planning a BUC
+20:25:16 <kris> Its true we have gone stale
+20:25:22 <delcypher> #info We need to evaluate what the UUU's role actually is. Possibly smaller goals?
+20:25:25 <arfoll> i think we should do another BUC possibly at BJC, we where quite good at doing BUC
+20:25:45 <kris> BJC comitte asked us if we would like to do a colaboration
+20:26:01 <joe_treasurer> I agree theres a lack of life in uuu. BUC has proved harder to organise than originally thought
+20:26:01 <kris> i think that is a good achivable target
+20:26:09 <abbythesmall> it would be cool to hold a BUC.
+20:26:27 <joe_treasurer> although we should not be put off. its never going to be easy as we have found it. especially as we are so spread out
+20:27:18 <delcypher> kris: I know, we really should of taken them up on the offer. It is the last topic on the agenda but I think holding unicycle events at BJC may be a sensible way forward. We can always decide to start organise BUC as a separate thing if we find we have the man power.
+20:27:33 <arfoll> i'd like to think we could do a trials only event but honestly I dont think theres enough people that would come
+20:28:12 <joe_treasurer> unless we aproach JUST or another well backed club who have experiance and man power to pull a BUC off
+20:28:14 <delcypher> arfoll: Unfortunately yes. arfoll and I posted about "Tarty days" a few months ago which is pretty much a trials only event and we were the only unicyclists there :(
+20:28:17 <abbythesmall> its people knowing its happening, i never knew there were BUC's or other unicycle events around.
+20:28:35 <kris> delcypher: iagree, i would like to do it with BJC, sounds like it would be much easier
+20:28:43 <arfoll> abbythesmall: I really think we lack riders who are willing to travel a bit
+20:29:00 <abbythesmall> well that is also  true.
+20:29:02 <arfoll> tartydays is exactly the kind of event i think we could do (maybe on smaller scale) but I dont think we'd get many riders
+20:29:03 <kris> abbythesmall: it is difficult to advertise, we found that at the last buc
+20:29:16 <abbythesmall> yes i do understand that. :)
+20:30:08 <kris> but BJC has loads of unicyclists apparently, Rodger recons they have a bigger trials course then buc ...or have done in the past
+20:30:09 <delcypher> abbythesmall: Yes part of the problem is we don't publicise events very well. You probably saw it on the topic list but one thing I was proposing was you could be our "social network" officer if you wanted to help promote events online
+20:30:46 <delcypher> oh man we seem to be in three topics at once
+20:30:59 <kris> i think plan A should be to contact the bjc comitte appologise for the late responce and see what we could sort out
+20:31:06 <joe_treasurer> BJC had Voodoo and JUST there with loads of unicycles and trails equipment
+20:31:41 <abbythesmall> yes  i had seen that!
+20:33:37 <arfoll> honestly i dont think we should rely on others
+20:33:57 <arfoll> realistically the biggest need for things is street & trials
+20:34:10 <arfoll> the rest needs essentially a large hall and games being organised
+20:34:18 <arfoll> maybe we should do a BUC without street & trials
+20:34:30 <delcypher> hmm okay let's get this meeting back on track... too many things going at once. Let's just jump to BUC topic and then jump back to others.
+20:34:45 <delcypher> #topic BUC2015, maybe hold at BJC?
+20:35:15 <delcypher> arfoll: Without street and trials BUC doesn't have much left. Hockey, muni and flatland!
+20:35:28 <joe_treasurer> and muni is off site
+20:35:48 <kris> I think we should deffinatly talk to them to see what proposals there are then we can make a decission
+20:35:48 <joe_treasurer> most people would come for trials and street i think
+20:36:05 <arfoll> ok then who do we have to organise street?
+20:36:06 <joe_treasurer> i agree
+20:36:15 <delcypher> kris: Thanks kris. That seems like a sensible suggestion
+20:36:52 <joe_treasurer> i think Jason would actually organise the Street comp if we had a BUC
+20:37:17 <delcypher> #action kris will contact the BJC committee to find out what options are available for holding unicycle competitions at BJC
+20:37:26 <kris> arfoll: i honestly think jason might organise some of the street, i know hes stood down as rep but im sure he would get involved for the day to help out
+20:37:39 <arfoll> honestly i dont think jason did a very good job at buc
+20:38:01 <abbythesmall> i would volunteer , but i'm no idea when it comes to street!
+20:38:36 <kris> arfoll: maybe one of the Hawkes brothers then?
+20:38:59 <delcypher> arfoll: Well I think the experience has taught us we need to bring in more people to help us. During BUC we had people offering to help next time so we might be able to get more help next time around.
+20:39:03 <arfoll> yes well they did the speed trials & street IMHO so I think we should ask them or others
+20:39:43 <kris> cool...minor details
+20:39:47 <arfoll> but I still think our biggest issue is attendance
+20:40:00 <arfoll> how do we convince people to come. especially if BJC entry is quite expensive no?
+20:40:52 <delcypher> arfoll: BJC does have staff. Perhaps they could also help?
+20:41:24 <kris> arfoll: we will have to ask, maybe two day tickets just for buc along side bjc. i duno
+20:41:38 <delcypher> arfoll: Also I think you can buy tickets for a single day. This would suit unicyclists who are only interested in one event
+20:41:43 <arfoll> yeah i guess, lots of questions
+20:41:55 <joe_treasurer> they might do a BUC ticket
+20:42:12 <delcypher> kris: Do you think you could compile a list of questions to ask the BJC team, as you can see we already have a bunch piling up.
+20:42:29 <joe_treasurer> jas and i were there for 2 nights last time for a voodoo show. couldnt stand much longer... different crowd to unicyclists
+20:42:46 <joe_treasurer> although its well attended, they have man power and a big budget
+20:43:03 <kris> delcypher: no problem, ill get on it tomorrow feal rude having left it so long already
+20:43:54 <delcypher> kris: Okay here's a link to a google docs document to get started https://docs.google.com/a/unicycle.org.uk/document/d/1VkNTHLnLQP0UQVavPqaZ7S6PgMuwEdd4S2JFAj98seI/edit
+20:44:19 <kris> delcypher: sexy!
+20:44:24 <delcypher> #action kris will compile a list of questions to ask the BJC team in the following doc https://docs.google.com/a/unicycle.org.uk/document/d/1VkNTHLnLQP0UQVavPqaZ7S6PgMuwEdd4S2JFAj98seI/edit
+20:45:14 <delcypher> kris: It's probably going to require more discussion to figure out what to ask but I suggest we switch topic because we're running out of time and there's two really important topics I want to get to
+20:45:36 <delcypher> kris: We can always discuss on the mailing list afterwards
+20:45:40 <kris> delcypher: ok
+20:46:07 <delcypher> #topic Abby Williams recently got in touch offering to help out the UUU
+20:46:21 <arfoll> abbythesmall: what would you like to do?
+20:46:48 <abbythesmall> i don't really mind!  whatever needs doing really
+20:47:12 <kris> abbythesmall: appreciate the help! thanks for getting in contact
+20:47:26 <abbythesmall> thats okay :)
+20:48:05 <delcypher> abbythesmall: Out of curiosity. What sort of unicycling are interested in. .e.g Trials, street, freestyle...?
+20:49:49 <abbythesmall> not to sure really,   i'm not the best at it,  but i'm learning!  road and muni really at the moment, but trying to branch out
+20:50:20 <arfoll> where are you located roughly? have you been to any rides/events?
+20:51:12 <abbythesmall> south east, and no i haven't, usually i don't see them till its too late!
+20:53:40 <arfoll> ok well since we dont seem to know what we're doing & you're not sure what you want to do why dont we keep inviting you to our meetings and when something pops up you'd like to do then shout
+20:53:47 <arfoll> you're not into making websites by any chance?
+20:54:31 <abbythesmall> that sounds good to me, from scratch unfortunately no!
+20:54:54 <delcypher> delcypher: Damn! Looks like I'm going to be dragged into doing the website again
+20:55:43 <arfoll> abbythesmall: well maybe we can use your help for filling out the content and other things
+20:55:55 <abbythesmall> sure, sounds good
+20:56:03 <arfoll> shall we move on?
+20:56:05 <delcypher> So does have any suggestions for things Abby can do?
+20:56:26 <joe_treasurer> move on
+20:56:50 <delcypher> I did suggest that she could add upcomming events to our calendar and maybe post about them on facebook/twitter
+20:57:47 <delcypher> Hmm we're running out of time so I guess we'll have to discuss this topic more on the mailing list
+20:58:30 <delcypher> #action For now abbythesmall will join the UUU meetings and will let us know if anything we need doing sounds interesting to her
+20:58:57 <delcypher> #topic Vote to remove slect discipline reps (muni, trials, street, road, flatland, freestyle) if they aren't effective
+20:59:29 <arfoll> originally me & dan discussed as to whether discipline reps where effective
+20:59:42 <delcypher> #info We have a problem. We have quite a few discipline reps (we even have two road reps) but a few don't really contribute much and delay setting up meetings because they never reply to the doodle polls
+20:59:51 <arfoll> to be honest considering I'm the only discipline rep here...
+21:00:04 <arfoll> well joe is super rep & banker :)
+21:00:13 <delcypher> arfoll: Technically joe_treasurer is our muni guy
+21:00:28 <kris> OK lets be honest the only active uuu comitte members are here tonight
+21:01:10 <kris> but that doesent mean we should alienate them by kicking the rest out, we might need there help at buc
+21:01:12 <arfoll> so whilst that annoys me a little, i'm not sure this is really an issue
+21:01:53 <kris> if they dont respond to polls and attend meetings tey dont have a say in what goes on.
+21:01:55 <arfoll> hopefully they can be relied on for BUC help, they're all quite keen riders so I think theyd' help (jas included)
+21:02:22 <arfoll> kris: course, but we have no one begging to take their places so
+21:02:54 <kris> arfoll: exactly, leave them there untill atleast the next buc comittee meeting
+21:02:59 <joe_treasurer> i havent done anything as muni rep
+21:03:32 <arfoll> what I was more getting at when talking with dan was more if discipline reps where needed
+21:03:43 <delcypher> joe_treasurer: Yes, but you haven't needed to. No one has contacted you (AFAIK) about muni related things and there wasn't a muni event at the last BUC. But you've done plenty of work as our treasurer.
+21:03:57 <arfoll> or whether we should reshape the role into UUU comittee members generally
+21:04:05 <arfoll> or whether this is just a general waste of time :)
+21:04:18 <kris> arfoll: i dont tink its an issue at the moment
+21:04:33 <arfoll> fair enough
+21:04:41 <delcypher> arfoll: The UUU as a whole waste of time, or the discipline reps as a whole?
+21:04:54 <kris> leave it as it is, no good will come from changing it at this time
+21:05:08 <arfoll> splitting disciplines into roles
+21:06:04 <delcypher> arfoll: I suppose an alternative would just to have members of the committee that just do anything that is needed.
+21:06:22 <delcypher> kris: We should probably at least do something about the road rep stuff.
+21:06:32 <arfoll> delcypher: that's exactly what i meant
+21:06:38 <delcypher> kris: We have two, but only one seems to reply to e-mails.
+21:07:10 <kris> delcypher: true im happy to go with just the one if we think thats a good plan?
+21:07:16 <arfoll> well shall we just demote the other one?
+21:07:29 <arfoll> joe! obviously korean internet is not as good as its reputation
+21:07:45 <delcypher> oh no, we've lost Joe.
+21:08:38 <joe_treasurer> think it crashed
+21:08:43 <delcypher> I think the restructure of the UUU discipline rep roles to just committee members makes sense
+21:09:01 <delcypher> although as kris said. I'm not sure how useful doing this right now will be.
+21:09:18 <arfoll> so lets leave it for AGM whenever that happens
+21:09:29 <arfoll> joe_treasurer: impossible. it was a mirage :)
+21:09:43 <arfoll> shall we all agree to go with one road rep though?
+21:09:55 <joe_treasurer> why even have reps?
+21:11:19 <delcypher> arfoll: Yeah. Shall I send a polite e-mail to Andrew Lenden and offer him just being a committee member instead?
+21:11:41 <arfoll> sounds fair
+21:11:50 <kris> i think demoting or kicking out reps could just alienate peple right now. pluss arfoll & joe_treasurer  are the only two that ever have any input at the moment anyway so why waste time changing it no good will come of it & no bad comes from leaving it as it is for now.
+21:12:27 <delcypher> joe_treasurer: I think the original idea is they would represent the interests of the different disciplines, but really that only happended whilst we were organising BUC
+21:12:45 <kris> james isnt exactly mr motivator
+21:13:53 <joe_treasurer> move on?
+21:14:56 <delcypher> Hmm well we can't reach a consensus right now. We could vote for it, but I'm not sure anyone outside the UUU really cares
+21:15:19 <joe_treasurer> just keep it for now
+21:15:51 <arfoll> i think keeping it demotivates current members but also means we cant take on new ones like abby
+21:16:13 <arfoll> unless all new members are just comittee members and we slowly phase out discipline reps
+21:16:40 <abbythesmall> i was going to suggest new member just becoming  memebers
+21:16:45 <joe_treasurer> well abby isnt going to be a discipline rep so whats the problem?
+21:16:59 <joe_treasurer> yeah, they dont need a specfic role
+21:17:39 <kris> well i am happy either way, i guess they arent active and hevent been since the start and werent much help at the last buc so if every one else would like im happy to re name the disiplin reps ans comitee members
+21:17:50 <joe_treasurer> keeping it doesnt demotivate anyone IMO
+21:18:24 <arfoll> personally it demotivates me when half the comittee doesnt turn up but maybe i'm alone in that
+21:18:54 <kris> arfoll: agree with yopu on that
+21:19:14 <joe_treasurer> yes thats true but keeping them, loosing them, or renaming their roles doesnt effect me
+21:19:15 <delcypher> arfoll: You are not alone. Every person who does't bother to fill in/turn up to a meeting I organise is annoying
+21:19:27 <joe_treasurer> yes its annoying
+21:19:58 <kris> ok lets wrap this up i have work @ sillyoclock
+21:20:02 <arfoll> i'd rather the commitee be a small group of active people who want to do things rather than a bunch of people feeeling forced because of a role they signed up for as they where keen
+21:20:04 <kris> past my bed time
+21:20:08 <joe_treasurer> im going to have to soon can we move on
+21:20:20 <delcypher> joe_treasurer: This is the last topic. After this, the meeting is over
+21:20:29 <joe_treasurer> exactly arfoll
+21:20:48 <kris> arfoll: you make a good point
+21:20:57 <arfoll> ok well lets leave it for the mailing list
+21:21:08 <delcypher> arfoll: I agree. I think we should just make all the discipline reps "committee" members right now and be done with it.
+21:21:36 <delcypher> No one here is going to be offended by that and the people here and those who are active.
+21:21:50 <arfoll> ok well lets vote for it and go to bed?
+21:21:58 <delcypher> arfoll: yeah I need sleep
+21:22:17 <kris> delcypher: i do like the idea that they wont recive emails (if they ever did) and not respond to them
+21:22:17 <delcypher> #startvote Should all discipline reps be made just "committee" members? yes no
+21:22:17 <izqit> Begin voting on: Should all discipline reps be made just "committee" members? Valid vote options are yes, no.
+21:22:17 <izqit> Vote using '#vote OPTION'. Only your last vote counts.
+21:22:28 <delcypher> #vote yes
+21:22:33 <joe_treasurer> #vote yes
+21:22:33 <arfoll> #vote yes
+21:22:40 <kris> #vote yes
+21:22:47 <abbythesmall> #vote yes
+21:22:50 <delcypher> #endvote
+21:22:50 <izqit> Voted on "Should all discipline reps be made just "committee" members?" Results are
+21:22:50 <izqit> yes (5): abbythesmall, kris, joe_treasurer, arfoll, delcypher
+21:22:55 <delcypher> okay that's settled
+21:23:04 <abbythesmall> didn't know if i was allowed!
+21:23:28 <delcypher> #action discipline rep roles will be made into "committee members"
+21:23:42 <arfoll> abbythesmall: i think you just got ratified as a committee member
+21:24:00 <kris> delcypher: make abbythesmall a committee member
+21:24:00 <delcypher> abbythesmall: Technically no, but the vote was unanimous anyway so it doesn't matter
+21:24:01 <abbythesmall> ahhh
+21:24:21 <abbythesmall> i thought not >.<
+21:24:31 <delcypher> kris: Right now?
+21:24:53 <arfoll> personally i think theres no rush or need
+21:25:05 <arfoll> we've already rushed people to join and it wasnt exactly a success
+21:25:15 <kris> delcypher: yeh it was a technicality for the vote
+21:25:18 <abbythesmall> no rush!
+21:25:31 <kris> delcypher: thats why i sugested it
+21:25:57 <arfoll> when people start to contribute & have joined a few meetings lets invite them to join
+21:25:58 <delcypher> abbythesmall: Don't worry I'll still email you about meetings. Hopefully we'll start having them more frequently now
+21:26:11 <kris> abbythesmall: really apprciate you coming along and having your input. hope to see you again soon.
+21:26:25 <delcypher> Anyway I think I'm not the only one who needs sleep, so shall we end the meeting here?
+21:26:41 <abbythesmall> thats alright, it was good to be here!
+21:26:47 <arfoll> abbythesmall: yes thanks alot for joining, it's good to have fresh optimisim and faces
+21:26:53 <delcypher> abbythesmall: You should come along to a unicycle ride sometime
+21:27:04 <arfoll> delcypher: we should organise a ride :)
+21:27:13 <abbythesmall> i'd love to let me know and i'll try to be there, should be moving to the south west soon.
+21:27:21 <arfoll> abbythesmall: btw I'm in reading so might not be that far, and dan is in london
+21:27:22 <kris> delcypher: agreed end
+21:27:25 <joe_treasurer> cool. thanks guys. appologies i didnt reply to the doodlepoll. ill try to sort out picking up email while im abroad
+21:27:35 <arfoll> cya joe
+21:27:42 <abbythesmall> oh thats god to know!
+21:27:43 <joe_treasurer> bye folks!
+21:27:45 <abbythesmall> good ..
+21:27:52 <delcypher> joe_treasurer: You have an android phone right? You can just add your account as another google account
+21:28:02 <delcypher> joe_treasurer: You'll get e-mails pushed to your phone that way
+21:28:06 <delcypher> #endmeeting

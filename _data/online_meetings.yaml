@@ -1,7 +1,9 @@
 # The order of meetings here does not matter
 # because they get sorted in the template
 
-# FIXME: Add missing 2014 meetings
+- date: 2014-08-13
+  agenda_url: "https://docs.google.com/document/d/1I5iAcHrLmyo_52DiIhP7-n7s40dm-6lK0XuOFB3gS5o/pub"
+  minutes_url: irc/uuu.2014-08-13-20.07.html
 
 - date: 2013-10-16
   agenda_url: "https://docs.google.com/document/d/1OBN4_EXRap3DIW5DJT2jkCBsX0ohS-ZdcG_I1DSalJs/pub"
