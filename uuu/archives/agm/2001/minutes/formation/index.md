@@ -32,7 +32,7 @@ The following resolutions were made:
 * Decisions concerning the formation of the UK unicycling organisation would be made at this meeting by a show of hands.
 The name "Union of UK Unicyclists" (UUU or U cubed) was chosen, winning by a small margin over United Kingdom Unicyclists (UKU).
 
-*A steering committee would be elected at this meeting, to hold their posts until the first AGM.
+* A steering committee would be elected at this meeting, to hold their posts until the first AGM.
 The first AGM will be held at the European Unicycling convention ("Eurocycle") later this year. It is likely that subsequent AGMs would be held at the British Unicycling Conventions.
 
 * The day to day running of the organisation will be implemented by the committee. Any decisions requiring input from the group will be made by a show of hands at group meetings. Elections and core decisions will be held at the AGM and will be by personal or proxy vote by all members.
