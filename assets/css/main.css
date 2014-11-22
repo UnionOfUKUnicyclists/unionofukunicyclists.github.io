@@ -30,8 +30,6 @@ p
 #uuu_logo
 {
   position: relative;
-  background-image: url('{{ "/assets/img/site_logo.gif" | prepend:site.baseurl}}');
-  background-repeat: no-repeat;
   margin: 10px auto 0px auto;
   width: 800px;
   height: 160px;

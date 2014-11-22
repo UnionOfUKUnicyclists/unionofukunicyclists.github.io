@@ -1,7 +1,5 @@
 ---
-menu_top: "UUU"
-menu_bottom: "About Us"
-title: "Hello World"
+title: "Welcome"
 ---
 
-Hello World
+Welcome to the website for the Union of UK Unicyclists.
