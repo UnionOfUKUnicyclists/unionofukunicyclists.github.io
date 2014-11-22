@@ -1,0 +1,186 @@
+=============
+##uuu Meeting
+=============
+
+
+Meeting started by delcypher at 18:15:25 UTC.  The full logs are
+available at uuu/2013/uuu.2013-01-20-18.15.log.html .
+
+
+
+Meeting summary
+---------------
+
+* Note Committee members present  (delcypher, 18:15:36)
+  * delcypher is Dan Liew - Secretary  (delcypher, 18:15:51)
+  * gkmac is Gavin - Webmaster  (gkmac, 18:16:01)
+  * arfoll is Brendan Le Foll - Trials rep  (arfoll, 18:16:14)
+  * Sam___ is Sam Goodburn - Freestyle rep  (Sam____, 18:16:31)
+  * iuf is Alan Hogan - IUF Rep  (delcypher, 18:17:09)
+
+* Progress report for temporary UUU website content  (delcypher,
+  18:17:27)
+  * ACTION: Sam____ JoeBaxter iuf will write about the Freestyle,Muni
+    and road disciplines.  (delcypher, 18:24:10)
+  * ACTION: delcypher will contact JasonAuld SimonBerry as they were not
+    present about website content.  (delcypher, 18:24:46)
+
+* Progress report on IUF role  (delcypher, 18:25:06)
+  * iuf has heard back from the Internation Unicycling Federation (IUF).
+    He will be listed as the official rep from January.  (delcypher,
+    18:25:39)
+  * IUF have not informed iuf rep (Alan Hogan) about the role but he
+    will hopefully find out more when he meets Olaf in April.
+    (delcypher, 18:27:00)
+
+* Progress report on website improvements.  (delcypher, 18:27:47)
+  * delcypher has made a simple mock-up that could be used in the
+    future.  (delcypher, 18:28:11)
+  * The mock up (for those who haven't seen it) is here -->
+    http://www.doc.ic.ac.uk/~dsl11/modern-ui-content-fixedwidth/
+    (delcypher, 18:29:53)
+  * ACTION: gkmac is currently integrating the mock-up into the phpBB
+    styles engine.  (delcypher, 18:31:41)
+  * Kris Abraham - UUU Chairperson has just joined.  (delcypher,
+    18:36:41)
+  * gkmac thinks approximate 3 weeks for Doku Wiki integration.
+    (delcypher, 18:37:24)
+
+* UUU Events calendar  (delcypher, 18:38:37)
+  * delcypher suggested to the committee a few weeks ago about having
+    their own events calendar (powered by Google Calendar)  (delcypher,
+    18:39:05)
+  * ACTION: delcypher will merge all event calendars into a single event
+    calendar and share this calendar with other committee members.
+    (delcypher, 18:49:12)
+  * ACTION: delcypher will write documentation on how to add events to
+    google calendar  (delcypher, 18:49:26)
+  * ACTION: delcypher will provide gkmac with the code for calendar
+    widget and ical links.  (delcypher, 18:51:33)
+
+* Gaining control of the UUU Bank account  (delcypher, 18:54:29)
+  * JoeBaxter has contacted HSBC and is getting the signatories changed
+    which requires each new signator to visit a HSBC branch and prove
+    their identity.  (delcypher, 18:55:36)
+  * JoeBaxter chairperson and delcypher are to be the signatories.
+    (delcypher, 18:56:00)
+  * JoeBaxter is having trouble contacting the correct person at HSBC
+    (not returning calls). JoeBaxter will continue to try and make
+    contact.  (delcypher, 18:59:38)
+  * ACTION: chairperson will ask if his HSBC branch knows anything.
+    (delcypher, 19:02:22)
+
+* registering UUU as a charity  (delcypher, 19:05:05)
+  * This will not be sorted out by the time BUC comes around because
+    HMRC have 6-8 week turn around time and because the bank account
+    needs sorting first.  (delcypher, 19:05:45)
+
+* Progress report on finding lvel testers, a record of achievers and
+  certificate templates  (delcypher, 19:08:39)
+  * ACTION: delcypher will attempt to contact JUST, Sarah Miller and
+    Connie Cotter (if e-mail address can be located) about unicycle
+    skill levels system.  (delcypher, 19:20:07)
+
+* How are committee members selected.  (delcypher, 19:21:12)
+  * ACTION: chairperson will speak to Barry Gates and see if he wishes
+    to continue being hockey rep.  (delcypher, 19:27:28)
+  * ACTION: Committee positions will be publically offered (by Facebook
+    and forum) until BUC. At BUC the draft constitution can be voted on
+    and then put into effect which establishes the system for voting,
+    etc...  (delcypher, 19:28:54)
+  * ACTION: Until BUC (when the constitution can be decided on) new
+    committee positions will be publicly offered (via
+    Forum/Facebook/Twitter). Voting will take place on IRC (open to
+    all).  (delcypher, 19:40:47)
+
+* Should we have a Road unicycling representative?  (delcypher,
+  19:41:10)
+  * We have reps for most other disciplines, but not road unicycling.
+    (delcypher, 19:41:41)
+  * ACTION: The UUU will publically advertise for a road representative
+    position  (delcypher, 19:49:06)
+
+* Promoting events on facebook/twitter. Should we have each discipline
+  rep responsible for posting about events for their discipline.
+  (delcypher, 19:50:45)
+  * If an event is multi-discipline obviously only one rep needs to post
+    about it  (delcypher, 19:51:19)
+  * ACTION: to be resolved later.  (delcypher, 19:57:09)
+
+* BUC  (delcypher, 19:57:13)
+  * Awaiting on hockey hall  (delcypher, 19:57:31)
+  * Liam McNally has been spending his time (thanks Liam!) finding a
+    hall for us. Cardiff and Vale College looks promising.  (delcypher,
+    19:58:38)
+  * Ending meeting, there are a few topics left so we'll have to deal
+    with them next time  (delcypher, 20:02:08)
+
+
+
+Meeting ended at 20:02:15 UTC.
+
+
+
+Action items, by person
+-----------------------
+
+* chairperson
+  * chairperson will ask if his HSBC branch knows anything.
+  * chairperson will speak to Barry Gates and see if he wishes to
+    continue being hockey rep.
+* delcypher
+  * delcypher will contact JasonAuld SimonBerry as they were not present
+    about website content.
+  * delcypher will merge all event calendars into a single event
+    calendar and share this calendar with other committee members.
+  * delcypher will write documentation on how to add events to google
+    calendar
+  * delcypher will provide gkmac with the code for calendar widget and
+    ical links.
+  * delcypher will attempt to contact JUST, Sarah Miller and Connie
+    Cotter (if e-mail address can be located) about unicycle skill
+    levels system.
+* gkmac
+  * gkmac is currently integrating the mock-up into the phpBB styles
+    engine.
+  * delcypher will provide gkmac with the code for calendar widget and
+    ical links.
+* iuf
+  * Sam____ JoeBaxter iuf will write about the Freestyle,Muni and road
+    disciplines.
+* JoeBaxter
+  * Sam____ JoeBaxter iuf will write about the Freestyle,Muni and road
+    disciplines.
+* Sam____
+  * Sam____ JoeBaxter iuf will write about the Freestyle,Muni and road
+    disciplines.
+* **UNASSIGNED**
+  * Committee positions will be publically offered (by Facebook and
+    forum) until BUC. At BUC the draft constitution can be voted on and
+    then put into effect which establishes the system for voting, etc...
+  * Until BUC (when the constitution can be decided on) new committee
+    positions will be publicly offered (via Forum/Facebook/Twitter).
+    Voting will take place on IRC (open to all).
+  * The UUU will publically advertise for a road representative position
+  * to be resolved later.
+
+
+
+People present (lines said)
+---------------------------
+
+* delcypher (137)
+* arfoll (65)
+* chairperson (60)
+* gkmac (32)
+* JoeBaxter (20)
+* CJCrates (16)
+* Sam____ (13)
+* iuf (12)
+* canadam_ (7)
+* izqit (2)
+* Guest98982 (1)
+
+
+
+Generated by `MeetBot`_ 0.1.4

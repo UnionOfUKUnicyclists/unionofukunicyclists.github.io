@@ -1,0 +1,42 @@
+# The order of meetings here does not matter
+# because they get sorted in the template
+
+# FIXME: Add missing 2014 meetings
+
+- date: 2013-10-16
+  agenda_url: "https://docs.google.com/document/d/1OBN4_EXRap3DIW5DJT2jkCBsX0ohS-ZdcG_I1DSalJs/pub"
+  minutes_url: irc/uuu.2013-10-16-19.00.html
+
+# For some reason we didn't have proper minutes for this one
+- date: 2013-08-30
+  agenda_url: "https://docs.google.com/document/d/13XXxB6cQ3lwV8_AR_KugIRnWDKxLw3OEcXJ9tBkldi4/pub"
+  minutes_url: irc/uuu.2013-08-30-xx.xx.txt
+
+- date: 2013-05-04
+  agenda_url: "https://docs.google.com/document/d/1adMB1kMNU4C-zgX7Lk1epsy7dXGG73ahR99UWF9fqZQ/pub"
+  minutes_url: irc/uuu.2013-05-04-18.29.html
+
+- date: 2013-03-22
+  agenda_url: "https://docs.google.com/document/d/1v9iMglLwGi3gBjNn2202H6bm3hj5FwJlAbzO9oDjhGs/pub"
+  minutes_url: irc/uuu.2013-03-22-21.12.html
+
+- date: 2013-02-10
+  agenda_url: "https://docs.google.com/document/d/1UlLIudl4ovwl92ZyDGNZUhPtA9QHEV6_pdqeEJNsl2k/pub"
+  minutes_url: irc/uuu.2013-02-10-20.10.html
+
+- date: 2013-01-20
+  agenda_url: "https://docs.google.com/document/d/1gt25Hz-oDc0NBKgAxO_fTQsEBYpvtaBo8a3c-vLkrJE/pub"
+  minutes_url: irc/uuu.2013-01-20-18.15.html
+
+- date: 2012-12-07
+  agenda_url: "https://docs.google.com/document/d/1BZPkqiM9tP0ex8YQerQ8ZwIlv3uw0lDu1Pyka7dxuz4/pub"
+  minutes_url: irc/uuu.2012-12-07-19.14.html
+
+- date: 2012-10-28
+  agenda_url: "https://docs.google.com/document/d/1YfvrqiThiE19_xvBERSnZnISe6FPag4Go0BLPhRml7k/pub"
+  minutes_url: irc/uuu.2012-10-28-20.20.html
+
+- date: 2012-10-21
+  agenda_url: "https://docs.google.com/document/d/1Pbe-pMD9MAb7v64bciqbUYhFfr2slutga2F0tLck_z4/pub"
+  minutes_url: irc/uuu.2012-10-21-19.10.html
+

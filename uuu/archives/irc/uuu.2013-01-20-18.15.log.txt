@@ -1,0 +1,365 @@
+18:15:25 <delcypher> #startmeeting
+18:15:25 <izqit> Meeting started Sun Jan 20 18:15:25 2013 UTC.  The chair is delcypher. Information about MeetBot at http://wiki.debian.org/MeetBot.
+18:15:25 <izqit> Useful Commands: #action #agreed #help #info #idea #link #topic.
+18:15:25 <gkmac> Yes, we should start.
+18:15:36 <delcypher> #topic Note Committee members present
+18:15:51 <delcypher> #info delcypher is Dan Liew - Secretary
+18:15:59 <delcypher> All committee members please note who you are like I did above.
+18:16:01 <gkmac> #info gkmac is Gavin - Webmaster
+18:16:14 <arfoll> #info arfoll is Brendan Le Foll - Trials rep
+18:16:31 <Sam____> #info Sam___ is Sam Goodburn - Freestyle rep
+18:16:56 <JoeBaxter> Joe Baxter - Treasurer
+18:17:09 <delcypher> #info iuf is Alan Hogan - IUF Rep
+18:17:27 <delcypher> #topic Progress report for temporary UUU website content
+18:17:47 <delcypher> Sam____: and arfoll Any luck writing stuff?
+18:18:02 <delcypher> Oh and JoeBaxter , sorry I keep forgetting Muni
+18:18:34 <arfoll> delcypher: mine is prety much written, but not moved it onto your new gdocs
+18:18:43 <arfoll> i think I already shared it with you
+18:19:03 <Sam____> As of yet I've done nothing. I'm going to just improve the current one a bit.
+18:19:13 <JoeBaxter> Mine is almost ready. I'd like to compare with others first but I can upload it sometime soon
+18:19:27 <delcypher> arfoll: You don't need to move to GDocs because I already did it.
+18:19:57 <delcypher> Sam____: I've made a shared document for you to use for freestyle it's here --> https://docs.google.com/a/unicycle.org.uk/document/d/1IG2S0kfWE_zPns13PlU2EHo3UTJ8S1CQAAspdkjGLTM/edit
+18:20:05 <arfoll> delcypher: cool, well after meeting i'll call it done ;-)
+18:20:26 <Sam____> Thanks Dan I'll save the link.
+18:20:34 <delcypher> JoeBaxter: You can just upload it and we can all see it. The URL for the Muni document is here --> https://docs.google.com/a/unicycle.org.uk/document/d/1UzkYiCkA0SUIGeZcz4sFhjagVlMkKb8FqZyRN3-0o1Y/edit
+18:21:03 <delcypher> iuf: Alan are you still here?
+18:21:12 <iuf> yes
+18:21:30 <delcypher> iuf: Alan would you be interested in writing the Road description at all, seeing as you're a roadie?
+18:21:52 <iuf> ok, I will try to come up with something :)
+18:21:54 <delcypher> iuf: Doesn't need much just a brief description of what it's all about and maybe a few youtube links to good riding videos
+18:22:09 <JoeBaxter> Will do
+18:22:11 <delcypher> iuf: The link to the Road unicycling document is here --> https://docs.google.com/a/unicycle.org.uk/document/d/1moKZokAv8QJavZUTwIJ6Q7K8iw92JUnu5GoEH6aTd9I/edit
+18:22:26 <iuf> will do, I have some stuff from the china trip I will use
+18:22:42 <delcypher> iuf: Awesome :D
+18:23:48 <iuf> I have heard from the IUF btw
+18:24:03 <iuf> from Jan I will be listed as official rep
+18:24:10 <delcypher> #action Sam____ JoeBaxter iuf will write about the Freestyle,Muni and road disciplines.
+18:24:46 <delcypher> #action delcypher will contact JasonAuld SimonBerry as they were not present about website content.
+18:24:55 <delcypher> iuf: Awesome I'll quickly jump to that topic then.
+18:25:06 <delcypher> #topic Progress report on IUF role
+18:25:39 <delcypher> #info iuf has heard back from the Internation Unicycling Federation (IUF). He will be listed as the official rep from January.
+18:25:48 <iuf> I am affraid thats as far as its got..... they havent told me what info thay actually want
+18:25:50 <delcypher> iuf: Did they say anything else? Like what you had to do?
+18:26:08 <delcypher> Ok then. I'll make a note and then move on to a different topic.
+18:26:25 <iuf> I am meeting Olaf in Dusseldorf in April, will get more info then if not before
+18:27:00 <delcypher> #info IUF have not informed iuf rep (Alan Hogan) about the role but he will hopefully find out more when he meets Olaf in April.
+18:27:19 <delcypher> iuf: Anything else to add before we change topic?
+18:27:27 <iuf> No, thats about it
+18:27:31 <delcypher> iuf: Cool.
+18:27:47 <delcypher> #topic Progress report on website improvements.
+18:28:11 <delcypher> #info delcypher has made a simple mock-up that could be used in the future.
+18:28:19 <gkmac> Well I'm pretty impressed with what Dan's done.
+18:28:22 <delcypher> I take it everyone has seen it?
+18:28:33 <gkmac> I do admit I'm a fair bit behind when it comes to jQuery.
+18:28:48 <gkmac> And I thought that "Ajax" was floor polish...
+18:29:33 <delcypher> gkmac: jQuery is awesome :) . Well I've not used the ajax aspect of jQuery in the mock-up. What I've used is its ability to do fade in affects, traverse the DOM and hide elements.
+18:29:39 <gkmac> Seriously though, I'm attempting to fit Dan's menu system into phpBB's styles engine.
+18:29:53 <delcypher> #info The mock up (for those who haven't seen it) is here --> http://www.doc.ic.ac.uk/~dsl11/modern-ui-content-fixedwidth/
+18:30:25 <gkmac> I'll also be personalising the forum look a bit, to make it less like the default prosilver look.
+18:30:30 <arfoll> ok boys take the lovefest offline ;-)
+18:30:51 <gkmac> As for DokuWiki, I think I may have a solution to put wiki content into the current website.
+18:30:58 <delcypher> gkmac: If you haven't already it might be an idea to keep an eye on the github repository for the mock-up as I made some changes (that you might not of seen) which fixes a lot of IE7 problems.
+18:31:24 <gkmac> Yes it's changed several times...
+18:31:38 <gkmac> Because of that and the fact I have to integrate it into phpBB, it may not be exactly the same.
+18:31:41 <delcypher> #action gkmac is currently integrating the mock-up into the phpBB styles engine.
+18:32:26 <delcypher> gkmac: That's fine. I'm not intending to make anymore changes (apart from the text that appears in the menus) so you can safely merge what I've done.
+18:32:34 <gkmac> Note that because I'm a cheapskate, I don't have Windows 7 so I can't test with IE9...
+18:32:57 <delcypher> gkmac: Well when you have something running I'd be quite happy to test it for you.
+18:33:51 <delcypher> gkmac: With regards to the wiki. How long do you think it'll be before you'll have something working? A few weeks, a month??
+18:33:55 <gkmac> delcypher: Thanks Dan, I know you're quite a thorough tester...
+18:34:27 <gkmac> Maybe about 3 weeks I suppose. Since I work for a living, time on working on the website is a little limited.
+18:35:35 <gkmac> So that's the website look and Dokuwiki covered. I think that's all for now.
+18:36:41 <delcypher> #info Kris Abraham - UUU Chairperson has just joined.
+18:36:47 <delcypher> and we've lost joe...
+18:37:00 <arfoll> hi Guest98982
+18:37:20 <Guest98982> for some reason it just changed kris to guest 98982?
+18:37:20 * gkmac thinks using Internet over wi-fi is just asking for dropouts...
+18:37:24 <delcypher> #info gkmac thinks approximate 3 weeks for Doku Wiki integration.
+18:37:53 <delcypher> gkmac: Was there anything else you wanted to say about the website? If not I'll move on?
+18:38:14 <gkmac> No nothing else really. As soon as I think something is ready for testing I'll e-mail the committee.
+18:38:19 <delcypher> ok.
+18:38:25 <arfoll> Guest98982: just type /nick Kris
+18:38:37 <delcypher> #topic UUU Events calendar
+18:39:03 <arfoll> Guest98982: but names have to be unique on the freenode network, so if someone else has kris and is logged in, your name will get changed
+18:39:05 <delcypher> #info delcypher suggested to the committee a few weeks ago about having their own events calendar (powered by Google Calendar)
+18:39:25 <delcypher> Did anyone have a play with the calendars I set up?
+18:39:27 <arfoll> delcypher: yeah that was a decent idea, personally would help me organise myself
+18:39:30 <chairperson> arfoll: it said kris was already taken?
+18:39:59 <arfoll> chairperson: read the comment above, try variations on kris. We're one channel on a *huge* network
+18:40:26 <chairperson> ok cool im happy with this for now
+18:40:34 <delcypher> My idea would essentially would be for us (the committee) the manage the shared calendar that would be visible on our website as a widget or as a ICAL feed.
+18:40:35 <arfoll> chairperson: you can 'register' a nick on the network to avoid the problem
+18:40:56 <arfoll> chairperson: http://freenode.net/faq.shtml#registering
+18:41:39 <delcypher> Those we REALLY trust could have access to the calendar too to add their own events. For those we aren't sure about we can create the event on the calendar for them and then make them a guest which gives them ability to edit their event and their event ONLY.
+18:41:53 <chairperson> delcypher: i liked the callender i think it works well, one callender for the website would be cool though coluour coded for diffewrent disiplines of unicycling events
+18:42:06 <delcypher> JoeBaxter: We're on the topic of the UUU calendar.
+18:42:17 <JoeBaxter> Sorry I got kicked out at 18.33
+18:42:57 <delcypher> chairperson: There's a slight problem with that that occured to me a few days ago. I've done a seperate calendar for disciplines e.g. muni, road...
+18:43:37 <delcypher> If you have an event (like BUC or Eurocycle) that has multiple disciplines then things get messy. Google Calendar won't let you have an event that spans multiple calendars.
+18:43:59 <delcypher> Also it would look really messy on the website because the same event would be repeated for each calendar.
+18:44:39 <JoeBaxter> I agree
+18:44:54 <delcypher> I see two solutions. 1. have a single calendar and just note in the event name what discipline it is.
+18:45:11 <delcypher> 2. Have an additional calendar for multi-discipline events
+18:45:13 <arfoll> delcypher: one calendar and event tags [Trials] solves this
+18:45:22 <delcypher> I prefer option 1 as it's a lot simpler
+18:45:29 <arfoll> if someone wants to code it, the widget could colorised events depending on the tag
+18:45:55 <chairperson> delcypher:  ye i just think if people go to the wesite it would be good to see whats on in febuary, and not have to go to each individual calender to see that teres a muni event on in febuary and then go to the road callender and see its empty up untill july or somthing seems as we dont have a jam packed calkender making lots of them seems a little silly, maybe if there is a multi disiplin event like buc it could be a notther colour?
+18:46:23 <arfoll> chairperson: but in reality theres loads of multidiscipline events, like trials/street is probably the most common event type...
+18:46:55 <chairperson> arfoll: true
+18:47:24 <CJCrates> Having 1 calendar for it all would be easier to find the events you want though I think
+18:47:58 <delcypher> Are we in agreement then? We'll just have a single calendar and put all events on it. We just have to make sure we put the discipline in the event name.
+18:48:21 <gkmac> #agreed a single calendar will be easier to manage
+18:48:25 <chairperson> that sounds best to me
+18:48:30 <arfoll> #agreed ;-)
+18:48:40 <delcypher> Ok I'll sort that out tonight.
+18:48:41 <CJCrates> #agreed
+18:48:42 <JoeBaxter> It's not like there are so many events its going to be hard finding a muni ride amongst trials meets haha
+18:49:12 <delcypher> #action delcypher will merge all event calendars into a single event calendar and share this calendar with other committee members.
+18:49:26 <delcypher> #action delcypher will write documentation on how to add events to google calendar
+18:50:07 <delcypher> gkmac: Once this is sorted would you be happy to put the calendar widget (plus ical links) on the current website?
+18:50:25 <gkmac> I would need an example of the embed code to do it.
+18:50:54 <delcypher> gkmac: A rough example is here --> http://www.doc.ic.ac.uk/~dsl11/calendar-widget.html
+18:51:16 <delcypher> gkmac: I'll provide you with the actual code once I've fixed the calendars
+18:51:17 <gkmac> Thanks.
+18:51:33 <gkmac> Once again, delcypher is far ahead of the webmaster game than gkmac could ever be...
+18:51:33 <delcypher> #action delcypher will provide gkmac with the code for calendar widget and ical links.
+18:52:25 <delcypher> gkmac: I wouldn't say that. I'm just trying to get stuff done fast. I had several months of so I had free time to do all this stuff. I've just started my PhD though so my time is much more limited but I'm committed to seeing this through.
+18:52:38 <delcypher> s/of/off
+18:52:49 * gkmac wonders if delcypher will enter "Dance your Ph D"
+18:53:36 <delcypher> Jason just messaged me. He's in a business meeting.
+18:54:01 <delcypher> Ok, anything more on calendars or shall we move on?
+18:54:04 <gkmac> No worries Dan. It's good gaining knowledge from your skills.
+18:54:15 <gkmac> I think we should move on...
+18:54:29 <delcypher> #topic Gaining control of the UUU Bank account
+18:54:36 <delcypher> JoeBaxter: Where are we on this?
+18:55:32 <chairperson> JoeBaxter: i still havent recived anything from HSBC
+18:55:36 <delcypher> #info JoeBaxter has contacted HSBC and is getting the signatories changed which requires each new signator to visit a HSBC branch and prove their identity.
+18:56:00 <delcypher> #info JoeBaxter chairperson and delcypher are to be the signatories.
+18:56:16 <delcypher> JoeBaxter: Did HSBC ever tell you how they would contact me or Kris?
+18:56:38 <JoeBaxter> No
+18:57:07 <delcypher> When you last spoke with them did they say they were sending the paperwork to Kris?
+18:57:10 <JoeBaxter> I've been trying to contact Julia at hsbc but without success. I have left messages for her to get back to me but she hasn't yet
+18:57:39 <JoeBaxter> She isnt based in one branch so catching her is awkward
+18:58:15 <delcypher> JoeBaxter: Ok. Do you think there's anymore we can do, or do we just need to wait for her to contact us?
+18:58:37 <JoeBaxter> Yeah. She said she was sending the paperwork to the hsbc branch kris said would be most convenient.
+18:58:55 <JoeBaxter> I will get in touch with her this week, somehow
+18:59:07 <delcypher> JoeBaxter: Ok. Thanks.
+18:59:19 <JoeBaxter> There is nothing we can do until they are signed
+18:59:38 <delcypher> #info JoeBaxter is having trouble contacting the correct person at HSBC (not returning calls). JoeBaxter will continue to try and make contact.
+19:00:39 <chairperson> JoeBaxter: should i go to the hsbc i mentioned and see if they know anything then?4
+19:01:37 <JoeBaxter> Could do
+19:02:02 <JoeBaxter> Ill keep you posted if I ear from Julia
+19:02:22 <delcypher> #action chairperson will ask if his HSBC branch knows anything.
+19:02:28 <delcypher> Right shall we move on?
+19:02:39 <chairperson> JoeBaxter: whaqyts the account name?
+19:02:54 <chairperson> so i have somthing to ask the branch!
+19:04:19 <chairperson> delcypher: move on i will discuss with joe the finer points later
+19:04:45 <JoeBaxter> Union of UK unicyclists
+19:05:05 <delcypher> #topic registering UUU as a charity
+19:05:24 <chairperson> JoeBaxter: cool ill look in to it thanks joe
+19:05:45 <delcypher> #info This will not be sorted out by the time BUC comes around because HMRC have 6-8 week turn around time and because the bank account needs sorting first.
+19:06:28 <delcypher> Something ocurred to me the other day about this that concerns me. Do we want make membership mandatory for competiting in competitions. If so legally we can't claim gift aid on membership.
+19:07:14 <arfoll> I suggest we stop getting caught up in these details
+19:07:17 <delcypher> Thoughts?
+19:07:38 <arfoll> can be easily avoided, for example making membership be obligatory as part of signup to BUC
+19:08:08 <delcypher> arfoll: True. Okay moving on...
+19:08:10 <chairperson> agrree withe arfoll we will find a way arround it.
+19:08:39 <delcypher> #topic Progress report on finding lvel testers, a record of achievers and certificate templates
+19:08:49 <delcypher> Sam____: I take it no progress right?
+19:09:12 <Sam____> no progress
+19:10:04 <Sam____> sorry. but I will get on it,  i wouldn't reccomend setting me much else to do this meeting if you want it done asap.
+19:10:07 <CJCrates> can I ask how you're planning to do the level assessments?
+19:10:32 <Sam____> I've been working on the freestyle description https://docs.google.com/a/unicycle.org.uk/document/d/1IG2S0kfWE_zPns13PlU2EHo3UTJ8S1CQAAspdkjGLTM/edit
+19:10:46 <delcypher> CJCrates: Currently have no plan. There was a system in place but we're not sure if we're going to follow it.
+19:11:04 <arfoll> CJCrates: there are IUF skills levels defined here : http://www.unicycle.org.uk/uuu/freestyle/skills_levels
+19:11:34 <CJCrates> I know of the skill levels, I just didn't know if they had any meaning other than a personal gauge
+19:12:22 <delcypher> Sam____: Thanks I will read later.
+19:12:45 <Sam____> on the unicyclist forum a while ago I think it was agreed that the benefit of levels is to encourage beginners and new riders
+19:13:17 <delcypher> Sam____: Have you e-mailed JUST, Connie Cotter or Sarah Miller yet? If not do you want me to do it?
+19:14:24 <Sam____> I haven't if you think you can do it sooner than I can then please go ahead. Right now I'm massively multitasking. But I will perfect the freestyle description for the site
+19:14:50 <delcypher> Sam____: I can do it tonight. Do you have Connie Cotter's email address though. I don't have it.
+19:15:58 <delcypher> Does anyone think I should contact anyone else about the levels other than JUST, Sarah Miller and Connie Cotter?
+19:16:09 <Sam____> i'll message it to you 2 seconds
+19:16:18 <delcypher> Sam____: Ok.
+19:18:26 <Sam____> i thought i had it, it was a unicon email adress she messaged me from
+19:18:47 <delcypher> JoeBaxter: You don't happen to know Connie Cotter's e-mail address do you?
+19:19:18 <JoeBaxter> No I don't think so. I can check
+19:19:27 <JoeBaxter> I'll let you know if I find it
+19:19:33 <delcypher> Ok.
+19:20:07 <delcypher> #action delcypher will attempt to contact JUST, Sarah Miller and Connie Cotter (if e-mail address can be located) about unicycle skill levels system.
+19:20:30 <Sam____> if not i will message philipp (swiss freestyle rider stayed with connie) and ask him.
+19:20:37 <delcypher> I'm going to skip the Sports England topic. Save that for another time.
+19:21:12 <delcypher> #topic How are committee members selected.
+19:21:27 <delcypher> arfoll: You added this to the agenda so please talk about it.
+19:21:51 <arfoll> well basically how are members added to this comittee? When are they voted in/selected?
+19:22:26 <chairperson> I would have no problem with a public vote @ BUC and any one can contest any position anualy
+19:22:27 <CJCrates> any idea how bigger groups do it?
+19:22:32 <arfoll> this is a serious question, the road/hockey positions have basically been offered on private emaisl, which i dont believe is what has been stated in the constitution and not how I understood we would elect people
+19:23:08 <arfoll> i dont really care, but I think we need to make the process official one way or another
+19:23:25 <CJCrates> because from my perspective it seems that other sports federateions are more like businesses
+19:23:33 <chairperson> arfoll: agreed but initaialy its difficult to find individuals to fill the roles
+19:23:51 <delcypher> arfoll: The constitution is currently in draft form and so not in effect. But you're right we shouldn't offer positions privately. Perhaps until BUC comes around we could publically ask if anyone wants the road rep role?
+19:24:08 <arfoll> chairperson: possible, however offering the position publicly would at least be a better start no?
+19:24:21 <chairperson> giving the roles away now and reinforcing tham at BUC seems like a easy option
+19:24:27 <delcypher> arfoll: And when BUC comes around have people vote that they agree with constitution and then from that point onwards follow the constitution.
+19:24:38 <chairperson> but your right we shoyuld advertise themn on the forum and FB
+19:25:24 <arfoll> chairperson: are you suggesting we will have a vote for *all* positions at buc?
+19:25:29 <delcypher> I agree. We should advertise commitee positions.
+19:25:33 <chairperson> delcypher: Hockey rep still required? maybe we could advertise it on FB and the forum
+19:25:42 <delcypher> chairperson: It's always been done that way.
+19:26:21 <chairperson> arfoll: yes if anyone wants to contest the chair role at buc then bring it on and if the union membvers vote me out and the contender in so be it
+19:26:31 <delcypher> chairperson: Barry said he was sort of stepping down but would find a replacement. I've not heard anything from him so I don't know what's happening. I could ask him what's going on and if wants to step down we can publically ask for a replacement.
+19:26:55 <chairperson> delcypher: ok ill ask on tuesday
+19:27:04 <CJCrates> I think getting reps sorted early is the best approach
+19:27:04 <arfoll> chairperson: i'm not suggesting anyone step down lol, but what I mean is that we need to make sure our 'election' process is clean
+19:27:17 <arfoll> atm offering positions in private emails makes *me* feel uncomfortable
+19:27:20 <CJCrates> Then as the UUU gets bigger make it a slightly more closed system
+19:27:21 <arfoll> hence why I raised it
+19:27:28 <delcypher> #action chairperson will speak to Barry Gates and see if he wishes to continue being hockey rep.
+19:27:36 <arfoll> CJCrates: closed system? No way
+19:27:42 <CJCrates> well
+19:27:55 <CJCrates> imagine if the UUU had a million+ members
+19:28:00 <chairperson> arfoll: agreed but im just saying every position should be contestable at BUC
+19:28:05 <CJCrates> ask each of them who wants to be rep?
+19:28:10 <arfoll> CJCrates: i would still vote to have public meetings and public elections
+19:28:34 <arfoll> chairperson: cool, thats no problem with me :-) (in fact I think its a good idea)
+19:28:54 <delcypher> #action Committee positions will be publically offered (by Facebook and forum) until BUC. At BUC the draft constitution can be voted on and then put into effect which establishes the system for voting, etc...
+19:28:57 <chairperson> arfoll: ye i like that approach too keeps everyone on there toes
+19:29:15 <arfoll> CJCrates: currently elections where basically raise your hand&count style at BUC AGMs, which I think is good enough for what we need. You dont turn up to BUC, you don't get a vote...
+19:29:46 <CJCrates> arfoll: yeah, I think with its current size and state that's completely appropriate
+19:30:08 <delcypher> CJCrates: If you're interested please take a look at the draft constitution for the UUU and give us feedback. It can be found here --> https://docs.google.com/document/d/17U-XwTTyu0S56Tb2kEyesPfuxvSyAGGWsOlqzMb8Qw8/pub
+19:30:09 <chairperson> delcypher: from now on can we advertise for a possition on the forum and FB we could set up a FB vote to decide who gets it outside of buc
+19:30:25 <delcypher> chairperson: Yeap I'm fine with that.
+19:30:42 <arfoll> personally i'd rather the contenders came on our next IRC meeting and presented themselves
+19:30:45 <Sam____> Do you think anyone else would step forward for Freestyle rep?
+19:30:50 <arfoll> then invite anyone interested on irc to vote
+19:31:10 <arfoll> facebook votes would be more like a popularity contest with a select group of individuals
+19:31:19 <gkmac> FB votes can only be voted for by FB slaves...
+19:31:20 <delcypher> arfoll: I agree with that. If they are reliable enough to turn up to the meeting they probably shouldn't be a committee member.
+19:31:29 <arfoll> delcypher: ;-)
+19:31:35 <chairperson> delcypher: agreed
+19:31:39 <chairperson> arfoll: agreed
+19:31:42 <arfoll> Sam____: no. you're stuck with the position. Don't leave us?
+19:31:49 <delcypher> gkmac: We could use a public voting website instead.
+19:31:52 <arfoll> Sam____: we <3 u too much
+19:32:08 <Sam____> @arfoll bugger haha
+19:32:55 <chairperson> gkmac: agreed with gk use a differant platform for voting if required maybe here but advertise the possitions on the forum and FB
+19:33:15 <arfoll> i think voting on irc makes more sense...
+19:33:38 <arfoll> also stops everyone voting twice, only people interested enough to turn up on irc vote (possible bias to internet savy people...)
+19:34:04 <chairperson> irc aint hard if i can use it
+19:35:25 <delcypher> Well it's only temporary. So I guess it'll do. Are we agreed that until BUC we'll advertise positions on forum/facebook. Voting for positions will be done on IRC (open to all).
+19:36:05 <delcypher> ?
+19:36:28 <chairperson> agreed
+19:36:47 <gkmac> #agreed
+19:37:11 <gkmac> Sorry guys dinner has been served...
+19:37:20 <gkmac> I'll leave this open in case I come back...
+19:37:37 <delcypher> gkmac: Ok cool. My dinner's going to be ready in 10minutes as well so I have to go soon.
+19:37:44 <delcypher> gkmac: Enjoy your dinner!
+19:37:53 <arfoll> gkmac: delcypher: dinner can be had on irc... dedication!
+19:38:02 * arfoll feeds ##uuu
+19:38:20 <delcypher> arfoll: Are you in agreement too?
+19:38:32 <delcypher> iuf: Do you agree?
+19:38:42 <iuf> Yes :)
+19:38:47 <delcypher> JoeBaxter: Do you agree?
+19:39:16 <arfoll> delcypher: yes
+19:40:47 <delcypher> #action Until BUC (when the constitution can be decided on) new committee positions will be publicly offered (via Forum/Facebook/Twitter). Voting will take place on IRC (open to all).
+19:41:10 <delcypher> #topic Should we have a Road unicycling representative?
+19:41:41 <delcypher> #info We have reps for most other disciplines, but not road unicycling.
+19:42:00 <CJCrates> At some point, yes
+19:42:22 <chairperson> CJCrates: the question is, is that point now?
+19:42:43 <arfoll> delcypher: might as well advertise for one, i dont see the harm in having one
+19:42:51 <CJCrates> It depends how much power the UUU currently has at organising things
+19:42:58 <delcypher> I don't think there's any harm in having a road rep. It would certainly nice to have one. Maybe we should publically offer the position and if no-one responds then we won't bother.
+19:43:09 <arfoll> ^my view
+19:43:28 <chairperson> you two type to fast i was gonna say that
+19:43:31 <delcypher> CJCrates: We don't really have any power because everything is a bit of a mess (because of the transition), but at some point we will officially govern the unicycling disciplines.
+19:44:01 <delcypher> Are we agreed that we'll advertise for a road rep then?
+19:44:06 <chairperson> #agreed
+19:44:12 <CJCrates> #agreed
+19:44:50 <canadam_> sorry to be off topic but I'm new to the uuu and just wanted to check out the meeting. hey everyone! ps i agree with the above
+19:44:59 <iuf> agreed .... I would be happy to do it but I am very far north which make even getting to BUC difficult
+19:45:00 <chairperson> perhaps give julian page a nudge at the same time!
+19:45:07 <arfoll> canadam_: hi and welcome to our meeting :)
+19:45:16 <chairperson> canadam_: good to see some new faces
+19:45:22 <JoeBaxter> Sorry I was kicked out again. I won't be irc on ipad again.
+19:45:34 <gkmac> I'm back now.
+19:45:42 <JoeBaxter> What were you asking if I agreed with just before?
+19:45:46 <canadam_> thank you!
+19:45:53 <arfoll> JoeBaxter: try use a dedicated IRC app for ipad, not just the web client
+19:46:00 <chairperson> canadam_: whats your diciplin / interest?
+19:47:11 <chairperson> canadam_: are you in Canadia? :-)
+19:47:55 <delcypher> JoeBaxter: We were asking if we should adverstise for a road rep.
+19:47:56 <canadam_> trials, to be honest i'm still quite new to unicycling so far from good. but i'm hooked!
+19:48:14 <delcypher> canadam_: Awesome. That's what we like to hear!
+19:48:24 <canadam_> i live in london now but i moved from there :)
+19:48:34 <CJCrates> got to head off guys. Got to start making myself dinner. Hope to see you all next weekend. ;)
+19:48:43 <arfoll> CJCrates: see you!
+19:48:48 <canadam_> bye CJ!
+19:48:52 <chairperson> CJCrates: Tuesday
+19:48:55 <arfoll> canadam_: coming to the ride next weekend in london?
+19:49:06 <delcypher> #action The UUU will publically advertise for a road representative position
+19:49:12 <canadam_> yes, can't wait!
+19:50:22 <chairperson> YoYo Joe
+19:50:45 <delcypher> #topic Promoting events on facebook/twitter. Should we have each discipline rep responsible for posting about events for their discipline.
+19:50:48 <arfoll> chairperson: if you could use IRC you'd know he's quit ;-)
+19:51:19 <delcypher> #info If an event is multi-discipline obviously only one rep needs to post about it
+19:51:20 <arfoll> delcypher: isnt that obvviouslty already the case?
+19:51:24 <chairperson> lol i can type and read thats the extent of it
+19:51:34 <arfoll> and does facebook autopost to twitter?
+19:51:46 <delcypher> arfoll: Yes it does automatically.
+19:52:07 <chairperson> good no need for me to join twitter then!
+19:52:08 <arfoll> delcypher: cool. well in that case i think the obvious answer is yes
+19:52:26 <delcypher> arfoll: Okay let's do it (even though most of the discipline reps aren't here)
+19:52:29 <gkmac> Two events have been announced in the forums. Would the rep be responsible for posting links to those on the facebook wall?
+19:52:50 <delcypher> gkmac: In an ideal world yes. For the moment I've been doing it.
+19:53:16 <chairperson> i dont agree if a event comes up on the forum the first FB admin to see it should post it
+19:53:27 <arfoll> tbh UUU should advertise all events so *who* actually does it is irrelevant
+19:53:48 <arfoll> but reps shoudl be alert and try advertise events in their discipline (i mean thats kinda their job desc...)
+19:53:52 <arfoll> chairperson++
+19:53:59 <chairperson> no offence to som of our reps but there not as active as others if i hear about a event and the rep is slow to advertise it i will on his behalf
+19:54:03 <gkmac> I agree with chairperson, any committee member can relay posts in forum to the facebook wall.
+19:54:18 <gkmac> (apart from myself of course)
+19:54:40 <arfoll> I object. i refuse to advertise street rides
+19:54:48 <iuf> I should get going :(
+19:54:50 <chairperson> arfoll: lol
+19:54:58 <JoeBaxter> Haha fair enough
+19:55:05 <arfoll> iuf: cyao
+19:55:06 <chairperson> im out soon to
+19:55:15 <chairperson> iuf c u soon
+19:55:20 <iuf> Bye
+19:55:37 <arfoll> delcypher: shall we just end it there?
+19:55:38 * gkmac thinks we should start to wrap things up if lots are people are leaving for dinner...
+19:56:02 <chairperson> BUC?
+19:56:03 <arfoll> pack of info sounds very boring - and frankly I dont think we have ressources for that
+19:56:19 <chairperson> all we need is a sports hall and then we can advertise it right?
+19:56:19 <arfoll> chairperson: uhm yes - anything about that?
+19:56:38 <arfoll> whats the status on getting the nofitstate venue?
+19:56:53 <chairperson> no fit state is a goer
+19:56:58 <chairperson> all we need is hockey
+19:57:09 <delcypher> #action to be resolved later.
+19:57:13 <delcypher> #topic BUC
+19:57:28 <chairperson> i intend to follow through with this next week and possibly book somwhere
+19:57:31 <delcypher> #info Awaiting on hockey hall
+19:57:41 <arfoll> ok awesome, good to know that still all good
+19:57:45 <chairperson> its a chouce of two
+19:58:06 <chairperson> ill send a email to all comitte members with the pros and cons of the two venues
+19:58:19 <chairperson> help decide
+19:58:29 <chairperson> and pay???4
+19:58:38 <delcypher> #info Liam McNally has been spending his time (thanks Liam!) finding a hall for us. Cardiff and Vale College looks promising.
+19:58:51 <arfoll> i suggested all comittee members pay their BUC fees early for the hall cost
+19:59:00 <chairperson> can we get all members to stump up there £50
+19:59:04 <delcypher> chairperson: I've looked at the pics. I've just realised I've been there before.
+19:59:26 <chairperson> delcypher: its not ideal for viewing but no were seems to be
+20:00:04 <delcypher> Pictures are now on google docs at https://drive.google.com/a/unicycle.org.uk/#folders/0B2RZnOajrg2DbWlsTC01Q2xDLVU
+20:00:38 <chairperson> ok thats it iv got to go
+20:00:44 <delcypher> Ok.
+20:00:53 <chairperson> will send email about this next week
+20:01:09 <delcypher> I think we'll have to call it a day. There are a few topics left but I need to eat and everyone's leaving.
+20:01:13 <chairperson> if anyone else wants a coppy email me chairperson@unicycle.org.uk
+20:01:28 <chairperson> delcypher: agreeed
+20:01:31 <chairperson> bye bye
+20:01:43 <canadam_> ok guys, hope to see u some of you next weekend, in the snow!
+20:01:56 <arfoll> kk cyao
+20:02:07 <arfoll> canadam_: see you next w/e
+20:02:08 <delcypher> #info Ending meeting, there are a few topics left so we'll have to deal with them next time
+20:02:15 <delcypher> #endmeeting

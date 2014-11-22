@@ -8,7 +8,10 @@ iterating other the list of pages matching a particular
     {% for p in sorted_pages %}
       {% assign current_top_level_dir = p.dir | split:"/" [1] %}
       {% if current_top_level_dir[1] == include.tld %}
-      <li><a href="{{ p.dir | prepend:site.baseurl}}/">{{p.menu_bottom}}</a></li>
+        {% if current_top_level_dir[3] == null %}
+          {% comment %} Only directories that go one level deep {% endcomment %}
+          <li><a href="{{ p.dir | prepend:site.baseurl}}/">{{p.menu_bottom}}</a></li>
+          {% endif %}
       {% endif %}
     {% endfor %}
   </ul>

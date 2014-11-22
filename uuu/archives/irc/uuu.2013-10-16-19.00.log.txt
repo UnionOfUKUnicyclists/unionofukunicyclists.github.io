@@ -1,0 +1,333 @@
+19:00:44 <delcypher> #startmeeting 10th UUU meeting
+19:00:44 <izqit> Meeting started Wed Oct 16 19:00:44 2013 UTC and is due to finish in 60 minutes.  The chair is delcypher. Information about MeetBot at http://wiki.debian.org/MeetBot.
+19:00:44 <izqit> Useful Commands: #action #agreed #info #idea #link #topic #startvote.
+19:00:44 <izqit> The meeting name has been set to '10th_uuu_meeting'
+19:00:59 <delcypher> #topic present
+19:01:03 <delcypher> arfoll: W00t
+19:01:06 <delcypher> right let's go
+19:01:28 <delcypher> #info delcypher is Dan Liew (Secretary)
+19:01:46 <gkmac> #info gkmac is Gavin MacGregor (Webmaster)
+19:02:08 <Big_> #info Big_ is Joe Baxter
+19:02:12 <jimmy__> #info jimmy_ is James Sandercock (Road)
+19:02:55 <VoodooJason> #info Jason Auld (Street yo)
+19:03:09 <delcypher> #info KrisChairAbraham is Kris Abraham (Chairperson)
+19:03:27 <delcypher> #topic Street, trials, freestyle, flatland, muni and road reps need to take ownership of their website sections ( and learn how to edit it). Should we add a muni one? Note Flatland section is now there
+19:03:39 <KrisChairAbraham> Im here Now!
+19:03:44 <delcypher> KrisChairAbraham: Okay.
+19:03:55 <delcypher> I guess we should tackle the Muni question first.
+19:04:14 <delcypher> Do we want a Muni section on the website? Joe, you'd be responsible for maintaining it?
+19:04:25 <KrisChairAbraham> #info krischairabraham is kris Abraham
+19:04:25 <gkmac> I thought there was a Muni section...
+19:04:33 <Big_> yeah there can be
+19:04:58 <delcypher> arfoll: Ohh, my memory is bad... sorry
+19:04:59 <Big_> im guilty of still not submitting a new page with info and photos etc
+19:05:14 <gkmac> The Muni page is still the old one copied from the previous website.
+19:05:21 <gkmac> http://www.unicycle.org.uk/muni
+19:05:22 <Big_> yes
+19:05:23 <delcypher> gkmac: Would you be able to explain to others how to take control of their sections
+19:05:49 <delcypher> okay
+19:05:54 <gkmac> It would mostly reference the DokuWiki documentation I guess.
+19:06:08 <gkmac> If logged into the forum, then the pages should become editable for all committee members.
+19:06:23 <VoodooJason> Aye, I'm totally clueless. I recall trying this in the past and finding it like reading Chinese. Apologies for my ignorance
+19:06:25 <delcypher> gkmac: Remember K.I.S.S - keep it simple stupid
+19:06:36 <Big_> great
+19:06:49 <VoodooJason> It'd love to K.I.S.S. with all of you
+19:07:05 <gkmac> Having to log in to the forum and then go back out to the main website is the only cryptic bit.
+19:07:05 <delcypher> #action gkmac will send an e-mail to committee members explaining how to edit their discipline pages.
+19:07:26 <VoodooJason> gkmac #hero
+19:07:32 <delcypher> #topic Out of date club listings on website?
+19:07:33 <gkmac> The e-mail will also include info about the "playground", a scratch page that you can try things out on.
+19:07:40 <delcypher> gkmac: Okay cool
+19:07:43 <delcypher> Next topic.
+19:07:44 <Big_> spot on. then ill get it edited
+19:08:30 <Big_> do we have an updated list?
+19:08:37 <delcypher> gkmac: I belive you wanted to say something about this?
+19:08:40 <gkmac> I have proposed for quite a while now to transfer the clubs and riding spots database to the wiki.
+19:08:45 <delcypher> If not I'll skip it.
+19:08:55 <delcypher> gkmac: I have no problem with this.
+19:08:56 <gkmac> This will have many advantages.
+19:09:19 <gkmac> For a start, anyone can edit anyone else's entry so out of date listings can be brought up to date by someone else who attends the same club.
+19:09:47 <gkmac> Also, if an entry is edited, all previous copies are kept. This means if a page is "trashed" by accident, we can restore it from a previous version.
+19:10:17 <gkmac> This has to be done before I can close the forum, as the current club database is too heavily intertwined into the forum code.
+19:10:25 <KrisChairAbraham> sounds good wiki it up
+19:10:43 <delcypher> gkmac: Remind me how you enforce that only someone in the same club can edit the club wiki entry?
+19:10:43 <gkmac> I'd have to find out how to import phpBB's password hashes into DokuWiki, that'll be the hardest bit.
+19:11:16 <arfoll> delcypher: why the negative outlook when we dont have any vandalism cases?
+19:11:37 <gkmac> Vandalism is always possible on wikis, have to be prepared for it just in case.
+19:11:40 <arfoll> our wiki shoudl be semi public
+19:11:59 <arfoll> theres no reason to limit access to a 'member' only list. thats the sure way to always be out of date
+19:12:03 <delcypher> gkmac: You still need a sign-up page so new users can edit the wiki, are you going to use Doku wiki's user registration stuff?
+19:12:10 <gkmac> I chose DokuWiki because different permissions can be assigned to different users.
+19:12:40 <arfoll> this permission'ing up to restrict access to public parts of our community is IMHO a big mistake. how can we be inclusive if we dont allow contributions?
+19:12:48 <gkmac> Probably, though I'll have to investigate things like CAPTCHAs, or questions, or new users put into quarantine until one of the committee approves them.
+19:13:26 <delcypher> gkmac: Okay. I guess it's best if we continue to discuss this by e-mail as this is eatting into the BUC discussion.
+19:13:27 <gkmac> arfoll: I meant that the main UUU pages can still be only editable by us, whereas the club listings can have looser permissions so can be edited by anyone.
+19:14:13 <arfoll> sure. go for it #action gk to migrate clubs to wiki
+19:14:20 <delcypher> #action gkmac will work to move club listings over to doku wiki infrastructure that will be semi-publically editable.
+19:14:39 <gkmac> OK, I'll start researching on how to make DokuWiki use phpBB's password hashes. The rest should be a piece of cake.
+19:14:50 <delcypher> gkmac: Okay, thanks.
+19:14:58 <VoodooJason> gkmac #hero
+19:15:13 <gkmac> VoodooJason: no need to worship me, I'm just a human being...
+19:15:23 <delcypher> #topic BUC meeting With NFS potentially going to be first week in november in London (who can make it?
+19:15:36 <VoodooJason> gkmac: That's what Jesus said
+19:15:38 <delcypher> I think I should just hold a doodle poll for this.
+19:15:53 <gkmac> Doodle polls are open to everyone and very easy to use.
+19:16:17 <arfoll> ok but what are the possible dates?
+19:16:25 <Big_> i wont be able to attend
+19:16:27 <delcypher> arfoll: I have no idea
+19:16:29 <arfoll> well obviously just weekends but we should pick like 5 dates
+19:16:35 <delcypher> KrisChairAbraham: What dates did you have in mind?
+19:16:38 <arfoll> Big_: :( but we need a road ride!
+19:17:11 <KrisChairAbraham> We arent talking about a BUC date here people! we are talking about meeting with NFS this november
+19:17:20 <arfoll> oh that
+19:17:26 <delcypher> arfoll: Big_ 's job is muni jimmy__ is road :p
+19:17:48 <arfoll> oh yeah
+19:17:58 <delcypher> KrisChairAbraham: Perhaps seeing as you are in contact with NFS you could setup the doodle poll?
+19:17:59 <arfoll> woops
+19:18:02 <jimmy__> I'll be able to get there this year, so i can organise the road ride! :D
+19:18:04 <VoodooJason> KrisChairAbraham: I saw your email about a meeting. I'll be in London until November 5th and would be happy to attend if it's before I leave
+19:18:20 <VoodooJason> I'll also be back on November 24th for a week or two
+19:18:34 <KrisChairAbraham> clare said first week in november not sure if thats a week end or week day she's refering to? she's in singapour at the moment and will let us know next week
+19:19:02 <KrisChairAbraham> ok ill find out more about the date next week and then do a doodle pole and involve clare!
+19:19:03 <arfoll> i'll be away for alot of nov but ill try
+19:19:06 <VoodooJason> #awesome #boss
+19:19:28 <KrisChairAbraham> VoodooJason: brilliant you got my back!
+19:19:36 <delcypher> KrisChairAbraham: Okay cool, let me know if you have any issues setting up the doodle poll. I set them up a lot.
+19:19:45 <KrisChairAbraham> delcypher: thanks
+19:20:04 <Big_> cant make the meeting but ill make sure im at buc
+19:20:18 <Big_> il those pics of kris in the hottub... cant believe i wasnt there! x
+19:20:21 <delcypher> #action KrisChairAbraham will find out about NFS meeting dates to discuss BUC and created a doodle for it
+19:20:35 <KrisChairAbraham> Big_: you missed out!
+19:20:49 <delcypher> okay next topic
+19:20:53 <delcypher> #topic BUC DATE, we need to decide on a date or at least a selection of dates that are appropriate for buc 2014, the sooner we do this the better since it’s very hard to advertise without a date.
+19:21:09 <delcypher> this has already been discussed a little bit on the agenda document.
+19:21:12 <KrisChairAbraham> ok again doodle poll
+19:21:15 <VoodooJason> My 2 pence would be don't hold it too close to UNICON
+19:21:21 <Big_> good idea
+19:21:26 <KrisChairAbraham> clare sugests october
+19:21:28 <delcypher> VoodooJason: Definitely. I'd like to go to unicon!
+19:21:39 <delcypher> KrisChairAbraham: It will be cold :(
+19:21:42 <VoodooJason> It will seriously affect attendance. Rather than thinking about fringe riders who juggle, we should focus on dedicated riders who will no doubt be attending UNICON
+19:21:58 <Big_> yeah,
+19:22:27 <KrisChairAbraham> delcypher: i know but our options seem to be last 2 weeks of august first two weeks of sep or october & august is quite close to unicon
+19:22:56 <delcypher> KrisChairAbraham: August is quite a good date because that's school summer holiday.
+19:23:29 <VoodooJason> I know we don't have free reign but I would suggest making it as far away from UNICON as possible. I know Edd and Simon both spoke of not attending BUC because of it being too close. Although 2 people won't affect BUC, I suspect this is the case for a free riders
+19:23:37 <KrisChairAbraham> delcypher: i agree but bank holiday is the second weekend after unicon and the last weekend is close to the start of school
+19:23:44 <VoodooJason> *few
+19:24:33 <KrisChairAbraham> personally if it wasant for unicon the bank hol in august seems best!
+19:25:11 <VoodooJason> Why have we ruled out normal times (April/May)? Are they not bookable?
+19:25:32 <delcypher> KrisChairAbraham: As you commented on the Agenda we need a list of possible dates. Until we have those this is all speculation.
+19:25:51 <KrisChairAbraham> No NFS have other plans up untill july ish
+19:26:21 <VoodooJason> Aaaaah gay
+19:26:26 <arfoll> i think weekend before school is good, nothing else to do
+19:26:39 <KrisChairAbraham> delcypher: we need to sugest our possible dates (any time after july) and then take those possibilitys back to NFS
+19:27:29 <delcypher> KrisChairAbraham: Okay, but I wouldn't suggest a poll for that because the most popular one might not be what NFS can do.
+19:27:34 <arfoll> i think we should get 5-6 weekends, make a doodle and then do NFS
+19:27:44 <arfoll> delcypher: the poll is not a binding contract
+19:27:53 <delcypher> arfoll: Fair point
+19:28:07 <arfoll> but its better to take interest first before making up our midn with a very restricted group
+19:28:10 <delcypher> So should the poll just be for weekends in august and september
+19:28:14 <KrisChairAbraham> i know we select dates NFS select a few of our dates they like and then we hold a doodle?
+19:28:31 <arfoll> there may be things we are not aware/think of, big group shouldbe able to remove sily mistakes - also it makes us look inclusive!
+19:28:48 <arfoll> KrisChairAbraham: no, thats too long, we doodle, go to NFS with a list in order of preference
+19:29:00 <arfoll> plus its a fun question to ask our community
+19:29:15 <arfoll> "What weekend would you like to go to BUC?"
+19:29:23 <delcypher> arfoll: Okay I agree with this.
+19:29:42 <KrisChairAbraham> arfoll:  ok sounds good! we should do it asap though
+19:29:48 <arfoll> totally agree
+19:29:51 <delcypher> Should we go for a poll for weekends in August/September?
+19:29:56 <VoodooJason> #agree
+19:30:01 <KrisChairAbraham> and october
+19:30:08 <KrisChairAbraham> just to see
+19:30:09 <delcypher> KrisChairAbraham: okay and October...
+19:30:17 <VoodooJason> #agreed
+19:30:19 <arfoll> thats too many options IMHO
+19:30:40 <arfoll> we can remove unicon weekend
+19:30:53 <VoodooJason> I'd prefer Oct, so I think we should provide it plus there are school hols
+19:31:04 <KrisChairAbraham> yep last two weekends of august -october
+19:31:23 <arfoll> honestly personal preference is irrelevant at this point - just vote
+19:31:54 <delcypher> Okay so we're going for August (- unicon weekends), september & October. Agreed?
+19:32:03 <gkmac> #agreed
+19:32:04 <VoodooJason> I was merely saying, if I prefer it, it's likely others may too and therefore it's better to provide the option. I wasn't suggesting we should hold a BUC because it suits me best bell piece
+19:32:06 <Big_> cool
+19:32:15 <arfoll> #agreed
+19:32:29 <jimmy__> #agreed
+19:32:32 <VoodooJason> #agreed
+19:32:36 <KrisChairAbraham> #agreed
+19:32:38 <arfoll> VoodooJason: i know, however I was saying that i'm hoping the poll will show wether you are correct ;-)
+19:33:00 <delcypher> Okay cool. I might not use doodle for this. There are loads of public survey tools that might work better for this.
+19:33:12 <KrisChairAbraham> delcypher: is it to late for some one to join the meeting?
+19:33:21 <delcypher> #action delcypher will create a poll for August I
+19:33:26 <delcypher> #undo
+19:33:26 <izqit> Removing item from minutes: <ircmeeting.items.Action object at 0x1fbc610>
+19:34:13 <delcypher> #action delcypher will create a poll for August(minus unicon weekends), september & October. This poll will be promoted on fb/twitter to try and gauge public opinion
+19:34:14 <KrisChairAbraham> sweynh: welcome!
+19:34:20 <delcypher> KrisChairAbraham: Nope, it's not too late
+19:34:24 <sweynh> Hello from Orkney - is this the 10 minute argument?
+19:34:32 <sweynh> Thanks, Kris
+19:34:33 <KrisChairAbraham> delcypher: thats ok he just joined
+19:34:41 <arfoll> sweynh: hi
+19:34:49 <delcypher> sweynh: Oh Hi, I didn't even post about this meeting and you joined. Well done :)
+19:35:06 <VoodooJason> #sweynhisking
+19:35:11 <sweynh> Ha - thanks arfoll - delcypher: I got a tip via FB ;)
+19:35:23 <arfoll> sweynh: sorry who are you?
+19:35:32 <sweynh> You are too kind, VOodooJason :)
+19:35:43 <KrisChairAbraham> arfoll: the orkney massive
+19:35:46 <sweynh> ANyway ... don't let me interuppt .. ahem
+19:35:50 <Big_> #orgasmic
+19:35:57 <arfoll> KrisChairAbraham: who is?
+19:36:06 <arfoll> anyways we where actually doing well! lets continue
+19:36:10 <delcypher> okay moving on
+19:36:19 <delcypher> #topic Muni. I think we should try and incorporate a comp or at least a ride next year.
+19:36:40 <arfoll> this one seemed a bit obvious... Big_ ?
+19:36:45 <KrisChairAbraham> arfoll: sweynh hunter, has a son who came to buc last year
+19:37:00 <delcypher> arfoll: Yeah but we might not be able to do it. It depends on finding a good muni spot near NFS.
+19:37:06 <arfoll> cool. well its awesome to have more people in the meeting :)
+19:37:21 <VoodooJason> Did anyone see Edd Hawkes' post about a muni comp similar to Red Bull Rampage? I think this would be a fantastic idea
+19:37:23 <delcypher> jimmy__: Didn't you look into possible rides for us for BUC2013?
+19:37:24 <Big_> i full intend on arranging a muni comp
+19:37:27 <sweynh> Happy to assist/support - anything short of actually unicycling!!
+19:37:29 <delcypher> VoodooJason: Yes I did.
+19:37:35 <Big_> just when and where is a challenge
+19:37:52 <arfoll> Big_: would a night muni ride be kind of fun?
+19:37:58 <Big_> its only any good arranging a comp somewhere where you know there are good trails
+19:37:59 <VoodooJason> delcypher Big_: Thoughts?
+19:38:11 <delcypher> sweynh: Thanks for the offer. I'll keep it in mind.
+19:38:29 <delcypher> Big_: I sense a Cardiff road trip coming on... to scout out muni spots.
+19:38:42 <KrisChairAbraham> i think every one agrees that MUNI is needed next year Big_  to investigate possibilitys and report back?
+19:38:52 <delcypher> KrisChairAbraham: Sounds good
+19:38:54 <Big_> yes,
+19:39:10 <KrisChairAbraham> #agreed
+19:39:16 <Big_> but i am unable to see what the trails are like around NF
+19:39:30 <delcypher> #action Big_ will investigate the possibility of holding a muni event for BUC2014 in Cardiff.
+19:39:38 <KrisChairAbraham> google earth
+19:39:43 <Big_> someone needs to know the trails and that they are suitable for a comp
+19:40:03 <delcypher> Big_: That's what google earth was invented for. Local knowledge is very important though, you could try finding some locals on forums.
+19:40:05 <Big_> until youre happy with just turning up somewhere
+19:40:23 <Big_> google earth doesnt work for muni trails
+19:40:29 <Big_> #unless
+19:40:39 <arfoll> I agree with Big, i'm happy to go to cardiff a weekend or two and try cycling/uni'ing on some trails but i'm not exactly a muni guy
+19:40:42 <delcypher> There's also http://ridden.it/ ... ah nobody has added cardiff spots
+19:40:46 <Big_> some places look shit that are great and vice versa
+19:41:02 <KrisChairAbraham> Big_: there are alot of Mountain bike trails around, pluss cardiff hockey team may have a few muni riders in it. ask liam for help
+19:41:04 <Big_> ill do research
+19:41:16 <delcypher> Big_: That's why I think we should pay Cardiff a visit to check potential spots.
+19:41:18 <Big_> and we need to plan what type of comp
+19:41:20 <Big_> either race
+19:41:22 <delcypher> Big_: Okay cool
+19:41:22 <Big_> or timed
+19:41:50 <Big_> all out mass race would be easist
+19:42:02 <Big_> otherwise then we need timing chips etc
+19:42:23 <delcypher> Big_: But an all out race on narrow trails would be a mess would it not?
+19:42:41 <KrisChairAbraham> Big_: ok investigate and discuss further via email before next meeting
+19:42:42 <Big_> could be fun...
+19:42:49 <Big_> #agreed
+19:43:34 <delcypher> #action Big_ will also investigate the different methods of running a muni comp
+19:43:47 <delcypher> #topic Assistance and delegation (we really need more help from attendees)
+19:44:28 <delcypher> #info BUC2013 was seriously under-staffed. We need to be a lot better about this and delegate!
+19:44:41 <Big_> #info - logging onto Paddy Power and putting a £10 on Edd winning Muni... he wins everything else!
+19:44:42 <KrisChairAbraham> I think this is obvious we just need to ask more people for help next year and deligate tasks.
+19:44:44 <arfoll> its hard though, i think the easiest is to ask our friends nicely
+19:45:54 <delcypher> Although I enjoyed BUC2013 I definitely felt overworked. We did have a list of tasks that needed to be deligated, but in the end nobody used it and most tasks were left with Brendan, Kris & I
+19:45:58 <KrisChairAbraham> delcypher: ok lets put a section on the pre reg form again and get as many helpers as we can!
+19:45:59 <VoodooJason> Create incentives/rewards for helping? Not sure what they'd be but it works at UNICON and EUC
+19:46:04 <sweynh> As an outsider, it was clear that there were a few people run off their feet, and loads of people who might have been willing to help, if asked - but it's a hard thing to get right, when there is so much going on!
+19:46:45 <sweynh> I recommend ruthless exploitation of parents/non-riders ;)
+19:46:46 <KrisChairAbraham> Son Kicking off big style BRB
+19:46:51 <delcypher> VoodooJason: I don't want to do the free t-shirt thing again. Not after what Cameron did (took a t-shirt but then didn't run the workshop he was supposed to run)
+19:47:31 <Big_> who gave him the tshirt before he did the workshop?
+19:47:35 <Big_> silly billy
+19:47:44 <Big_> #YOLO
+19:47:56 <VoodooJason> #oopiloo
+19:48:50 <delcypher> sweynh: I think better planning is the key. We have more time this year so hopefully we can make a realistic list of tasks and then start to deligate and also draw in people willing to help before and after online registration.
+19:48:57 <arfoll> we where too lenient with tshirts which where our only barter chip thats true
+19:49:09 <sweynh> delcypher: I agree
+19:49:41 <sweynh> krischairabraham: wb
+19:49:42 <delcypher> krischairabraham: Did you son disconnect you?
+19:49:58 <krischairabraham> Lol im Back
+19:50:23 <delcypher> Okay I think we need to move on.
+19:50:33 <krischairabraham> but cant see any of the previous comments!!!! QAnoying
+19:50:41 <krischairabraham> yep move on
+19:50:47 <delcypher> krischairabraham: You can read the minutes later.
+19:50:53 <sweynh> [20:48] <delcypher> sweynh: I think better planning is the key. We have more time this year so hopefully we can make a realistic list of tasks and then start to deligate and also draw in people willing to help before and after online registration. [20:48] <arfoll> we where too lenient with tshirts which where our only barter chip thats true [20:49] <sweynh> delcypher: I agree
+19:51:04 <sweynh> There!
+19:51:05 <krischairabraham> delcypher: looking forward to it ;-)
+19:51:35 <delcypher> I guess everyone would happy if I started a spreadsheet with tasks again... But then we actually try and use it this time?
+19:52:16 <krischairabraham> Definatly we have learned from last year
+19:52:43 <delcypher> #action delcypher will create a spreadsheet for BUC tasks/assignment
+19:52:51 <delcypher> #topic Bank account status
+19:53:01 <delcypher> Thought I'd quickly sneak this in.
+19:53:30 <delcypher> Big_: What's the status on this Joe? I got the signatories changed but Luke Dutton tells me they've screwed up changing the addresses?
+19:53:39 <Big_> yeah
+19:53:48 <krischairabraham> delcypher: i think the last points on the agend dont realy require much comment at the moment this is better!
+19:54:03 <Big_> all signatories are changed, but in HSBC's wisdom, they sent the new documents to Luke...
+19:54:22 <krischairabraham> Big_: HSBC strikes again
+19:54:25 <delcypher> Big_: Have you managed to get them to fix it?
+19:54:48 <Big_> I emailed Luke
+19:54:59 <Big_> He was going to post the documents to me
+19:55:08 <Big_> but i have received nothing yet..
+19:55:16 <Big_> i will get back onto him and chase it up
+19:55:20 <krischairabraham> Big_: what about online banking? any news?
+19:55:25 <delcypher> Big_: yes, but you probably need to contact HSBC too because clearly they've fucked up...again!
+19:55:33 <Big_> no, no new online banking
+19:55:53 <delcypher> Big_: I gave them the forms for that. They should of set it up by now.
+19:56:03 <Big_> i have not heard anything
+19:56:14 <Big_> i am going into the branch tomorrow anyways, so i
+19:56:20 <Big_> will speak to them
+19:56:25 <Big_> theyre fucking useless
+19:56:27 <delcypher> Big_: Okay cool, please let us know what happens
+19:56:34 <Big_> will do
+19:56:51 <delcypher> #action Big_ will visit his local HSBC branch soon to try and resolve the banking SNAFU
+19:57:04 <delcypher> #topic Payment options – Can we sort out our own payment this year to make the process
+19:57:07 <delcypher> Okay this will be our last topic
+19:57:22 <delcypher> The NFS payment system was too clunky in my opinion.
+19:57:22 <krischairabraham> delcypher: good idea!
+19:57:48 <krischairabraham> delcypher: i agree but i worked in the end and we got money off them!
+19:58:01 <delcypher> delcypher: I'd much rather we did this ourselves but it required several things: a working bank account (sigh!), a secure online system for taking payments.
+19:58:17 <delcypher> paypal might be an option but I'm sure there must be others.
+19:58:20 <arfoll> delcypher: I wholeheartedly disagree
+19:58:23 <arfoll> let NFS do it
+19:58:25 <krischairabraham> if we take the money ourselfs we will need to pay NFS at the end
+19:58:36 <sweynh> delcypher: It was slightly unusual from a customer PoV, but worked and they were very friendly about it - do you/we need the hassle of taking this on?
+19:58:57 <arfoll> also by letting them do it, forced them to have someone signing people in, which we couldnt handle
+19:59:23 <VoodooJason> If it ain't broke, don't fix it
+19:59:49 <Big_> if we were to do it
+20:00:04 <Big_> we would need someone on it full time, and i for one wouldnt be able to commit to that
+20:00:06 <delcypher> arfoll: Okay. But I think we should do it the other way round. They sign up first and then we pass them on to NFS.
+20:00:17 <krischairabraham> The best bit is NFS take all the responsibility of cost i think we can make it smother next year but stick with the old system
+20:00:19 <Big_> yeah sounds like it would work
+20:00:23 <arfoll> delcypher: why? then we have no idea who paid
+20:01:09 <delcypher> arfoll: We had no idea with NFS either because they didn't send us up-to-date information.
+20:01:13 <Big_> they register with us, we pass them to NFS then make sure our reg list matches their paid list..
+20:01:27 <delcypher> Big_: Yes that's what I was getting at.
+20:01:50 <arfoll> delcypher: tbh we only need to know on the day whos coming, before then rough estimates are cool but frankly not eneded
+20:02:42 <sweynh> They are set up to take bookings, payments, answer queries - is there a system you/we could put in place that could do that reliably, online and on the phone?
+20:02:54 <delcypher> arfoll: Rough estimates are very useful because
+20:03:04 <delcypher> sweynh: Not on the phone, the best we could do is online.
+20:03:22 <arfoll> delcypher: sure rough estimates. but we can convince NFS to be better at syncing, much easier than processing payments
+20:03:29 <delcypher> arfoll: ...because you can work out who is going to do what comp.
+20:03:31 <krischairabraham> exactly people a;lways have virbal questions lets leave it to them
+20:03:56 <Big_> #9pm ;)
+20:04:05 <krischairabraham> 9.04
+20:04:09 <delcypher> arfoll: I'm not suggesting we do our own payments anymore. I'm suggesting that the registration process simply be done in a different order. We take their details first and then we pass them on to NFS (opposite of what we did last time)
+20:04:21 <delcypher> krischairabraham: Okay... we'll have to leave this one unresolved.
+20:04:37 <arfoll> delcypher: so youre suggesting we take bank details?
+20:04:50 <arfoll> eitehr way I see no difference, there will be two registration steps
+20:05:07 <krischairabraham> delcypher: really the general consensus seems to be to leave it to NFS just stream line the process
+20:05:11 <delcypher> arfoll: No. They register will us and then they pay NFS.
+20:05:23 <arfoll> delcypher: and why not the other way around?
+20:05:24 <sweynh> .. and if we think someone has registered, and something goes wrong with payment, there is scope for confusion and argument ... not necessarily a good thing
+20:05:31 <arfoll> i'd rather we missed the registration and not the payment
+20:05:57 <arfoll> and frankly it makes little difference how many people turn up to the comps because on the day it all changes and we roughly know already
+20:06:00 <delcypher> arfoll: Because we had it the other way round last time and I thought it was a disaster.
+20:06:23 <delcypher> Anyway we're out of time so I'm going to end the meeting here
+20:06:25 <arfoll> delcypher: i just dont see how you think it'll be better the other way around
+20:06:38 <Big_> cool
+20:06:41 <Big_> i think that was good
+20:06:44 <Big_> x x x x x
+20:06:44 <krischairabraham> cool thanks guys good meeting!!!
+20:06:47 <sweynh> Thanks, guys - looking forward to how it all develops!
+20:06:50 <delcypher> #info Not resolved in time. Will be discussed next time.
+20:06:50 <Big_> #love you all deeply
+20:06:52 <delcypher> sweynh: Thanks.
+20:06:54 <delcypher> #endmeeting

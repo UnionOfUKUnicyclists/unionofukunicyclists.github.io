@@ -1,0 +1,12 @@
+{{content | markdownify }}
+{% assign sortedOnlineMeetings = site.data.online_meetings | sort:"date" %}
+
+<ul>
+  {% for i in sortedOnlineMeetings reversed %}
+    <li>
+      {{i.date}}
+      <a href="{{i.agenda_url}}">Agenda</a>
+      <a href="{{i.minutes_url}}">Minutes</a>
+  </li>
+  {% endfor %}
+</ul>

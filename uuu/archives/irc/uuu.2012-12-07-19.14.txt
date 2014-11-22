@@ -1,0 +1,242 @@
+=============
+##uuu Meeting
+=============
+
+
+Meeting started by delcypher at 19:14:24 UTC.  The full logs are
+available at uuu/2012/uuu.2012-12-07-19.14.log.html .
+
+
+
+Meeting summary
+---------------
+
+* note present members  (delcypher, 19:14:35)
+  * delcypher is Dan Liew - Secretary  (delcypher, 19:14:44)
+  * arfoll is Brendan Le Foll - Trials  (arfoll, 19:15:04)
+  * ChairmanKris is Kris Abraham  (ChairmanKris, 19:15:15)
+  * BigSexyJasonAuld is Big Sexy Jason Auld - Street Rep
+    (BigSexyJasonAuld, 19:15:38)
+  * SamGoodburn is Sam Goodburn - Freestyle Rep  (SamGoodburn, 19:15:52)
+  * SimonBerry is Simon Berry, boy who rides flatland. I also have to
+    leave at 19:45, unless i get this working on my phone  (SimonBerry,
+    19:16:33)
+  * joe_____ is Joe Baxter - Treasurer  (joe____, 19:16:55)
+
+* Should the doodle poll be made simpler?  (delcypher, 19:17:56)
+  * The doodle poll often has > 60 options which takes a long to fill
+    in. Should I just switch to asking people for their availibility at
+    weekends?  (delcypher, 19:18:34)
+  * ACTION: delcypher will do future doodle polls for friday (evening) +
+    saturday and Sunday evenings.  (delcypher, 19:20:53)
+
+* Progress report for temporary content for website from arfoll
+  SimonBerry joe____ BigSexyJasonAuld  (delcypher, 19:21:38)
+  * Discipline reps (hockey, flatland, freestyle, muni, trials, street)
+    agreed to do temporary content for website.  (delcypher, 19:22:51)
+  * AGREED:   (delcypher, 19:26:45)
+  * ACTION: SimonBerry BigSexyJasonAuld SamGoodburn joe____ arfoll and
+    Barry Gates will put their content on google docs for the rest of
+    the committee to see and edit.  (delcypher, 19:34:49)
+
+* Website improvements  (delcypher, 19:35:05)
+  * Gavin is not present but he has informed us that little progress has
+    been made due to forum spamming which needed to be delt with.
+    (delcypher, 19:35:31)
+  * At the request of delcypher and ChairmanKris Twitter & Facebook
+    links have been added to the site.  (delcypher, 19:35:52)
+
+* progress on IUF role  (delcypher, 19:36:04)
+  * Alan isn't present but has informed me that the IUF have not got
+    back to him.  (delcypher, 19:36:19)
+  * delcypher also tried contacting the IUF with no success.
+    (delcypher, 19:36:34)
+
+* Progress report gathering results from previous unicycle events
+  (delcypher, 19:36:56)
+  * delcypher has gathered trials, street and freestyle results from
+    various sources which are now available online.  (delcypher,
+    19:37:35)
+  * discpline reps arfoll BigSexyJasonAuld SamGoodburn have been given
+    write access to their disciplines results  (delcypher, 19:38:06)
+  * Results can now be found in the links in this forum post
+    http://www.unicycle.org.uk/forum/viewtopic.php?f=10&t=828#p7771
+    (delcypher, 19:39:42)
+  * ACTION: SamGoodburn will ask Lucas Wintercrane & Trevor ??? if they
+    know some of the missing freestyle results.  (delcypher, 19:40:16)
+  * Trevor ??? is Trevor Schofield  (delcypher, 19:41:06)
+  * ACTION: arfoll BigSexyJasonAuld SamGoodburn will be responsible for
+    their results from now on.  (delcypher, 19:44:19)
+
+* Progress report gaining control of UUU bank account  (delcypher,
+  19:45:06)
+  * delcypher has started examining the membership database and has
+    discovered we has 19 members currently and there are some financial
+    discrepancies that need resolving.  (delcypher, 19:46:52)
+  * ACTION: joe____ will open a new bank account for the UUU and have
+    money from old UUU account transferred over due to long time it
+    would take to hand over ownership of the old UUU bank account
+    (delcypher, 20:05:37)
+  * ACTION: joe____ will look in to the financial descrepancies visible
+    in the UUU membership database.  (delcypher, 20:07:31)
+  * ACTION: joe____ will e-mail monthly statements to committee members
+    to show our current financial state.  (delcypher, 20:10:32)
+
+* Registering the UUU as something  (delcypher, 20:10:40)
+  * delcypher looked into what we could register the UUU as something
+    (delcypher, 20:11:13)
+  * presently it looks like it would be best if we became an
+    "unincorporated charity with an income < £5000"  (delcypher,
+    20:11:38)
+  * We would not need to register with the Charity commission but we can
+    register with HMRC to get tax benefits.  (delcypher, 20:12:19)
+  * I believe this would let us have discounted paypal as well.
+    (delcypher, 20:12:39)
+  * Information about tax benefits for charities can be found at
+    http://www.hmrc.gov.uk/charities/tax/  (delcypher, 20:13:20)
+  * Becomming a charity requires us to have a proper constitution. If
+    everyone agrees I'll start writing a draft based on a template.
+    (delcypher, 20:19:02)
+  * ACTION: delcypher and joe____ will look into making the UUU an
+    unincorporated charity  (delcypher, 20:20:28)
+  * ACTION: delcypher will write a draft constitution for the UUU which
+    is necessary for us to be a charity.  (delcypher, 20:20:50)
+  * Report on finding a host for the next BUC  (delcypher, 20:24:38)
+  * delcypher contacted JUST asking if they would like to host. They
+    declined.  (delcypher, 20:24:58)
+  * delcypher contacted Steve Grainger (as suggested by Barry Gates) and
+    heard nothing back.  (delcypher, 20:25:18)
+  * delcypher also posted to the UUU forums asking for hosts. There has
+    been one positive responce from "No Fit State"  (delcypher,
+    20:25:51)
+  * ChairmanKris has been doing some good work communicating with Lynn
+    from "No fit state" recently.  (delcypher, 20:26:28)
+  * Finer points need to be finalised but Nofitstate are willing to Host
+    BUC 2013 on the last bakholiday in May (24th-27th) a visit is
+    planned to discuss in person the finer points possibly next friday
+    the 14th of december  (ChairmanKris, 20:29:21)
+  * AGREED: Street and Trials results from VUC (2011) and Voodoo Street
+    & Trials league (2012) will be considered official as there was no
+    BUC in those years. Next year assuming BUC takes place Vooodoo
+    organised competitions will be seperate from BUC  (delcypher,
+    20:40:06)
+  * ACTION: SamGoodburn has been collecting e-mail addresses of people
+    who might be interested in BUC. He will share the list as a google
+    docs spreadsheet with the rest of the committee.  (delcypher,
+    20:48:09)
+  * ACTION: joe____ will speak to Roger from unicycle.com and ask him if
+    he'd be interested in helping us promote BUC via flyers in orders
+    and possibility on the website.  (delcypher, 20:48:37)
+  * ACTION: ChairmanKris will add the e-mail addresses he has to the
+    Google Docs spreadsheet.  (delcypher, 20:53:15)
+  * ACTION: delcypher arfoll and GK will speak about having a mailing
+    list  (delcypher, 20:54:16)
+
+* Level testing  (delcypher, 20:54:24)
+  * In the past the UUU organised level testing but we (the new
+    committee) know very little about it.  (delcypher, 20:54:53)
+  * We need to find out who the qualified level testers are  (delcypher,
+    20:55:14)
+  * We need find out who has been awarded what level in the past
+    (delcypher, 20:55:36)
+  * We need to get hold of certificate templates too  (delcypher,
+    20:56:16)
+  * we need to find out how to become a qualified tester  (delcypher,
+    20:56:35)
+  * ACTION: SamGoodburn will find out who the qualitifed level testers
+    are  (delcypher, 21:05:17)
+  * ACTION: SamGoodburn will find the record of who was awarded what
+    (delcypher, 21:05:36)
+  * ACTION: SamGoodburn will find out what level testing system the UUU
+    was using... and maybe what we should be using instead?  (delcypher,
+    21:06:10)
+  * ACTION: SamGoodburn will try to find level testing certificate
+    templates.  (delcypher, 21:06:48)
+
+
+
+Meeting ended at 21:08:16 UTC.
+
+
+
+Action items, by person
+-----------------------
+
+* arfoll
+  * SimonBerry BigSexyJasonAuld SamGoodburn joe____ arfoll and Barry
+    Gates will put their content on google docs for the rest of the
+    committee to see and edit.
+  * arfoll BigSexyJasonAuld SamGoodburn will be responsible for their
+    results from now on.
+  * delcypher arfoll and GK will speak about having a mailing list
+* BigSexyJasonAuld
+  * SimonBerry BigSexyJasonAuld SamGoodburn joe____ arfoll and Barry
+    Gates will put their content on google docs for the rest of the
+    committee to see and edit.
+  * arfoll BigSexyJasonAuld SamGoodburn will be responsible for their
+    results from now on.
+* ChairmanKris
+  * ChairmanKris will add the e-mail addresses he has to the Google Docs
+    spreadsheet.
+* delcypher
+  * delcypher will do future doodle polls for friday (evening) +
+    saturday and Sunday evenings.
+  * delcypher and joe____ will look into making the UUU an
+    unincorporated charity
+  * delcypher will write a draft constitution for the UUU which is
+    necessary for us to be a charity.
+  * delcypher arfoll and GK will speak about having a mailing list
+* joe____
+  * SimonBerry BigSexyJasonAuld SamGoodburn joe____ arfoll and Barry
+    Gates will put their content on google docs for the rest of the
+    committee to see and edit.
+  * joe____ will open a new bank account for the UUU and have money from
+    old UUU account transferred over due to long time it would take to
+    hand over ownership of the old UUU bank account
+  * joe____ will look in to the financial descrepancies visible in the
+    UUU membership database.
+  * joe____ will e-mail monthly statements to committee members to show
+    our current financial state.
+  * delcypher and joe____ will look into making the UUU an
+    unincorporated charity
+  * joe____ will speak to Roger from unicycle.com and ask him if he'd be
+    interested in helping us promote BUC via flyers in orders and
+    possibility on the website.
+* SamGoodburn
+  * SimonBerry BigSexyJasonAuld SamGoodburn joe____ arfoll and Barry
+    Gates will put their content on google docs for the rest of the
+    committee to see and edit.
+  * SamGoodburn will ask Lucas Wintercrane & Trevor ??? if they know
+    some of the missing freestyle results.
+  * arfoll BigSexyJasonAuld SamGoodburn will be responsible for their
+    results from now on.
+  * SamGoodburn has been collecting e-mail addresses of people who might
+    be interested in BUC. He will share the list as a google docs
+    spreadsheet with the rest of the committee.
+  * SamGoodburn will find out who the qualitifed level testers are
+  * SamGoodburn will find the record of who was awarded what
+  * SamGoodburn will find out what level testing system the UUU was
+    using... and maybe what we should be using instead?
+  * SamGoodburn will try to find level testing certificate templates.
+* SimonBerry
+  * SimonBerry BigSexyJasonAuld SamGoodburn joe____ arfoll and Barry
+    Gates will put their content on google docs for the rest of the
+    committee to see and edit.
+
+
+
+People present (lines said)
+---------------------------
+
+* delcypher (156)
+* ChairmanKris (70)
+* arfoll (68)
+* SamGoodburn (48)
+* joe____ (48)
+* BigSexyJasonAuld (21)
+* SimonBerry (7)
+* izqit (5)
+
+
+
+Generated by `MeetBot`_ 0.1.4

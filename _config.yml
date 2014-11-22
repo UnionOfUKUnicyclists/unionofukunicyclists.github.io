@@ -29,6 +29,13 @@ defaults:
       menu_top: "UUU"
   -
     scope:
+      path: "uuu/archives"
+      type: "pages"
+    values:
+      menu_top: "UUU"
+      menu_bottom: "Archives"
+  -
+    scope:
       path: "flatland"
       type: "pages"
     values:

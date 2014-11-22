@@ -1,0 +1,331 @@
+20:20:52 <delcypher> #startmeeting
+20:20:53 <izqit> Meeting started Sun Oct 28 20:20:52 2012 UTC.  The chair is delcypher. Information about MeetBot at http://wiki.debian.org/MeetBot.
+20:20:53 <izqit> Useful Commands: #action #agreed #help #info #idea #link #topic.
+20:21:10 <delcypher> Could each commitee member note who they are and what their name is like so...
+20:21:18 <delcypher> #info delcypher is Dan Liew - Secretary
+20:21:27 <gkmac> #info gkmac is Gavin MacGregor - Webmaster
+20:21:27 <arfoll> #info arfoll is Brendan Le Foll - Trials
+20:21:49 <SamGoodburn> #info SamGoodburn is Sam Goodburn - Freestyle
+20:21:49 <iuf> Alan Hogan ... IUF rep
+20:22:04 <arfoll> Hi Barrygat
+20:22:14 <delcypher> #info Barrygat is Barry Gates - Hockey rep
+20:22:16 <Barrygat> hi all sorry I am late#
+20:22:22 <delcypher> joe_____: Are you alive?
+20:22:35 <Barrygat> No I am dead from too much hockey!
+20:23:11 <delcypher> joe_____: wakey, wakey?
+20:24:23 <arfoll> #info joe_____ is Joe Baxter - Treasurer
+20:24:44 <Barrygat> I don't know if this is any use but I have frefone audio conferencing available from a work set up. Obviously doesn't log like this.
+20:24:53 <delcypher> Meh... well this a bit of a fail. I'll skip joe's bits
+20:24:57 <joe_____> joe Baxter
+20:25:10 <delcypher> Barrygat: There is no Audio for this. It's just text.
+20:25:14 <arfoll> delcypher: lets move faster, if people dont respond.. skip
+20:25:21 <delcypher> joe_____: Are you here now?
+20:25:22 <Barrygat> Shame.
+20:25:29 <joe_____> yeah cheers
+20:25:41 <delcypher> #topic Progress report on bank account transfer
+20:25:57 <delcypher> So joe any progress on getting control of the UUU's bank account?
+20:26:22 <joe_____> spoke to sarah miller who sadis he will be back in touch with details once she isnt so busy... hopefully this coming week. Yet to hear back from Luke Dutton
+20:26:52 <delcypher> ]#info joe_____ spoke to Sarah Miller who will get in touch when less buss. No responce from Luke Dutton
+20:27:05 <delcypher> #topic Progress report about how membership fees can be handled online
+20:27:27 <delcypher> Any progress on this topic joe? Don't worry if there isn't. It's only been a week.
+20:28:08 <joe_____> not much. I think we could pssobily apply for the lower paypal rates but i need to look into it more before i can confirm if its a go.
+20:28:44 <delcypher> #info not much progress so far. joe_____ will continue to look into this
+20:29:10 <delcypher> joe_____: I take it you saw my message about not setting up a paypal account?
+20:31:26 <delcypher> #info Note we should probably not setup paypal account until UUU's legal status is sorted.
+20:31:37 <delcypher> #topic Previous IUF rep
+20:31:42 <iuf> It was keith griffiths
+20:31:55 <iuf> I e-mailed olaf fro IUF]
+20:32:06 <iuf> I need to be voted on by them
+20:32:27 <iuf> If you guys are happy to have me
+20:32:43 <delcypher> iuf: That's odd because Kris spoke to Johnathan Marshall (a.k.a Rocket) and he said he was the previosu rep. The UUU minute meetings also show he was the last person to hold the role.
+20:32:46 <joe_____> yeah. Who needs to vote? The IUF vote you in??
+20:32:51 <arfoll> sorry i dont understand, they vote for their members?
+20:33:31 <arfoll> delcypher: i remember hearing that rocket was a last minute replacement because keith was not going to Unicon so he may not have been the official rep
+20:33:47 <iuf> The IUF have to agree that I am ok for the role ....... Olaf seemed pretty convinced that it was keith
+20:33:53 <delcypher> arfoll: Ah!
+20:34:17 <iuf> shouldnt be a problem
+20:34:25 <delcypher> iuf: Okay it may be necessary to speak to both Keith and Johnathan then to find out what actually happened
+20:34:40 <iuf> ok... I will contact them
+20:34:44 <delcypher> iuf: I am very happy for you to be IUF rep.
+20:34:56 <arfoll> ok so who needs to get an emai with your nomination? Maybe Kris/chairman can email them saying you are our candidate for IUF rep
+20:35:05 <Barrygat> Might be good to get keith and rocket to send Olaf a mail also
+20:35:28 <delcypher> #info The IUF reported that Keith Grifis was the former IUF rep. However UUU records say that Johnathan Marshall was rep.
+20:35:35 <iuf> Thats probably a good ides
+20:36:16 <delcypher> arfoll: Sounds like a plan.
+20:36:38 <delcypher> iuf: Did you manage to find out from the IUF what the role actually involves because I have no idea what you're supposed to do.
+20:37:01 <delcypher> iuf: Sorry forgot the "?"
+20:37:02 <iuf> No..... kind of stumbled at that point....
+20:37:27 <delcypher> You happy to investigate it? If so I'll note it in the minutes and then move on.
+20:37:30 <Barrygat> I think Rocket gave Kris some info about what was expected...
+20:38:09 <iuf> main thing I saw was about an annual report of memberships/ activities etc
+20:38:15 <delcypher> Barrygat: Yes there was a little bit of information in the e-mail that Kris sent. Did you see that Alan?
+20:38:38 <iuf> yes
+20:38:46 <arfoll> why was that not copied to everyone?
+20:39:14 <delcypher> arfoll: To be honest I thought that should have been put on the forums. Not by e-mail. We are trying to be more open!
+20:39:38 <arfoll> so how will that be resolved?
+20:40:46 <delcypher> iuf: Are you happy to continue investigating what the IUF rep is supposed to do and get the relevant info from whoever the former rep was?
+20:41:55 <iuf> yes.... I will contact the former reps to get a history and what was done..... if the chaiman/ secetary could e-mail olaf to say I am the new rep :)
+20:42:26 <delcypher> #action iuf (committee member) will contact the former reps to get the history of what was done.
+20:42:48 <delcypher> #action iuf (committee member) will investigate what the roles of the IUF rep are.
+20:43:03 <delcypher> #action delcypher will inform the IUF that iuf (Alan Hogan) is our new IUF rep.
+20:43:12 <delcypher> iuf: Do you have contact details for the IUF?
+20:43:51 <iuf> cool.... I will give you olafs e-mail ...... hopefull he will be at dusseldorf marathon and I can see him face to face
+20:44:03 <delcypher> iuf: Okay please e-mail the details when you have time.
+20:44:14 <delcypher> #topic Reigstering the UUU as something
+20:44:30 <arfoll> iuf: please CC comittee
+20:44:49 <iuf> will do
+20:45:18 <delcypher> #info I've started investigating registering the UUU as "something". Currently UK law considers the UUU to be a "unincorporated association"
+20:46:10 <delcypher> #info It may be desirable in the future to turn the UUU into a "company limited by guarantee" to protect all members (including committee members) from legal action.
+20:46:19 <arfoll> from what you put on the forum, seems we should organise a constitution and decide wether to call ourselves a charity
+20:46:42 <arfoll> being an unincorporated association sounds gd enough to me
+20:47:05 <delcypher> arfoll: It's okay as long as we don't get into debt or get sued.
+20:47:06 <iuf> Charity registration is a nightmare!!!
+20:47:21 <arfoll> iuf: its not, we dont even need to register...
+20:47:46 <delcypher> iuf: From what I've found so far if income < £5000 we don't have to register. But we can still get "charity" status from the HMRC
+20:47:57 <iuf> hmm... ok
+20:48:20 <arfoll> delcypher: how hard is it to register as a company limited by guarantee?
+20:48:38 <delcypher> I think we should note that we can still be a non-profit organisation without being a charity
+20:48:57 <delcypher> arfoll: I'm sure. My girlfriend's mum recently did it though so I'm going to ask her how hard it is to do.
+20:49:12 <arfoll> the charity status gives us reduced paypal fees...
+20:49:45 <arfoll> delcypher: sounds good, finding out from people with exp. is always good
+20:50:18 <delcypher> arfoll: From what I've read we don't have to be a charity. Paypal will accept non-profit organisations too.
+20:51:00 <arfoll> delcypher: doesnt seem to be whats written here : https://www.paypal.com/uk/charity/
+20:51:12 <arfoll> anyways for another day/meeting - should move on
+20:51:43 <delcypher> Yes I think the issue of the UUU being/not being a charity could be debated a lot. I think should continue the discussion in the forums.
+20:52:08 <delcypher> #info The issue will be discussed in the forums http://www.unicycle.org.uk/forum/viewtopic.php?f=11&t=999
+20:52:28 <delcypher> #topic Writing a constitution
+20:52:51 <arfoll> its 52 past, this can be discussed on forum in same or diff thread
+20:52:57 <delcypher> #info Just a minor note. Whatever course of action we take we will need to write a constitution for the UUU because it doesn't have one.
+20:53:09 <delcypher> #topic Retrieving previous BUC results
+20:53:42 <delcypher> #info delcypher contacted previous organisers of BUCs. Only heard back from Sarah Miller who said she was currently busy but would get back to me.
+20:53:54 <SamGoodburn> Individual BUC websites? Asking Sarah Miller? Asking current Trophy Holders?
+20:54:08 <arfoll> SamGoodburn: most websites have no info
+20:54:24 <SamGoodburn> Current trophy holders then?
+20:54:32 <arfoll> trophy holders could give us the winners, but ideally we'd like more
+20:54:33 <delcypher> SamGoodburn: I don't know any trophy holders so it doesn't help me.
+20:54:38 <arfoll> would be a good backup though
+20:54:40 <gkmac> I have archives of past BUC websites and there's virtually nothing on those websites.
+20:54:44 <joe_____> JUST must have  record of the results for the BUCs they held?
+20:55:10 <delcypher> joe_____: JUST gave a very good record of results for the previous BUC (2010) before that there's practically nothing!
+20:55:38 <arfoll> could possibly look on unicyclist.com results could have been posted on there
+20:56:23 <joe_____> good call
+20:56:24 <delcypher> joe_____: Roger Davies helped organised many of the early BUCs. If you see him at all could you ask him about previous results. I e-mailed him but heard nothing back.
+20:56:30 <SamGoodburn> JUST have the group freestyle, Emily has the pairs, Jake Bulmers currently is in possesion of individual freestyle and voodoo members should have the rest
+20:57:49 <delcypher> #action delcypher will check unicycle.com to see if BUC records are there
+20:58:47 <delcypher> SamGoodburn: Is that for 2010? If so all the results are here : http://www.unicycle.org.uk/buc17/results.html
+20:59:27 <SamGoodburn> Sorry, what I mean is the trophies have the previous winners engraved on them (up to a certain point)
+20:59:55 <delcypher> SamGoodburn: Ah good point. Do the UUU have trophies or do the previous winners have them?
+21:00:10 <SamGoodburn> the last winners have them
+21:00:28 <arfoll> delcypher: only gives us absolute winners... we should try find more detailed records if possible
+21:00:28 <SamGoodburn> trials and street from the last VUC and the rest from the 2010 BUC
+21:00:41 <delcypher> #action delcypher Will contact the last Previous BUC winners to find out what names are engraved on trophies.
+21:01:01 <delcypher> arfoll: I know, but it's a start. At the moment I have no information before 2010
+21:01:10 <delcypher> Anyway let's move on!
+21:01:14 <arfoll> no, it should be the last resort... not the start!
+21:01:49 <delcypher> arfoll: I'm not sure what else I can do. I've tried contacting the previous organisers and not heard anything. I was suprised I didn't here anything from Roger though.
+21:02:22 <delcypher> Anyway shall we move on?
+21:02:23 <SamGoodburn> logging the info on the trophies wouldn't be too much of a struggle though. Worth doing either way.
+21:02:28 <arfoll> trying for one week... and maybe try facebookin' roger or emailing unicycle.com
+21:02:31 <joe_____> #info http://www.unicyclist.com/forums/showthread.php?t=32099&highlight=british+unicycle+results
+21:02:59 <arfoll> nice joe_____
+21:03:06 <delcypher> joe_____: Cool I didn't know about that one. Nice find Joe!
+21:03:17 <delcypher> #info joe_____ Found BUC 2004 results at http://www.unicyclist.com/forums/showthread.php?t=32099&highlight=british+unicycle+results
+21:03:52 <delcypher> joe_____: Do you have any other gems?
+21:04:41 <delcypher> Right let's move on haven't even started discussing BUCs yet!
+21:04:49 <delcypher> #topic Progress report on UUU website
+21:04:59 <delcypher> gkmac: Any progress to report?
+21:06:14 <arfoll> izqit: seen gkmac
+21:06:14 <izqit> arfoll: gkmac was last seen in ##uuu 11 minutes and 33 seconds ago: <gkmac> I have archives of past BUC websites and there's virtually nothing on those websites.
+21:06:19 <gkmac> Well I'm trying to port the UUU website look to Dokiwiki, which is turning out to be a bit trickier than I thought.
+21:07:33 <delcypher> gkmac: Don't feel you have to keep the layout I designed all those years ago! I don't think it's very good (especially by today's standards). So feel free to completly change it.
+21:07:53 <Barrygat> I know this is not UUU website but I am currently working on an extension to unicycle hockey web site that will give a "how to play" list of pages...broken down by beginner, intermediate and advanced. You may want to consider similar for other disciplines of unicycling to encourage interest.
+21:08:23 <gkmac> Well your design was changed somewhat, it was kind of half-merged with phpBB's prosilver look.
+21:08:26 <Barrygat> I hope to link in some videos too.
+21:09:13 <delcypher> Barrygat: Although that is a good idea. Have you considered improving the Unicyclopedia? http://en.wikibooks.org/wiki/The_Unicyclopedia
+21:09:28 <Barrygat> I will look at it.
+21:09:52 <delcypher> Barrygat: There's a lot of good information there but it's become out of date unfortunately.
+21:09:55 <SamGoodburn> Hey Barry, I like that idea, an archive for each discipline with basic tutorial videos.
+21:10:24 <delcypher> SamGoodburn: That sort of thing is already here : http://en.wikibooks.org/wiki/The_Unicyclopedia/Freestyle
+21:10:27 <arfoll> like delcypher said I think thats best put in wikibook or similar since theres nothing particularly 'UK' about it
+21:10:48 <arfoll> doesnt mean we cant help out with doing that obviously
+21:11:29 <Barrygat> Ok, I will try to update the wikibooks and link that in to the unicycle hockey site...hopefully it takes youtube links as well.
+21:12:26 <delcypher> #info gkmac has started looking at using DokiWiki to replace current UUU website. It is proving to be difficult.
+21:12:36 <gkmac> Difficult, but not impossible.
+21:12:49 <gkmac> It's just the look that will take some time.
+21:13:05 <gkmac> Everything else about Dokuwiki is brilliant, it integrates very well with phpBB's user database.
+21:13:41 <arfoll> well i personally think the current look is pretty bad, so if it could be changed/redesigned at the same time...
+21:13:59 <delcypher> gkmac: Although I see you've sort merged by layout with your own I think the organisation and mobile compatibility should be considered.
+21:14:25 <gkmac> phpBB does have a mobile skin which may be a good candidate. Let me see if I can find the link...
+21:14:42 <gkmac> https://www.phpbb.com/customise/db/style/prosilver_mobile/
+21:15:15 <gkmac> Does that look "smartphone"-ish enough?
+21:16:02 <delcypher> That's not bad. As long as it integrates well with the wiki pages too. It is also useful to have a "Desktop view" link somewhere too that will render the desktop page even if you're on a mobile phone.
+21:16:48 <arfoll> looks good to me
+21:17:02 <delcypher> Anyway I think we should move on. We should probably have a meeting just to discuss the UUU website at some point, agreed?
+21:17:05 <arfoll> anyways if you want more feedback ask on forum
+21:17:31 <gkmac> #agreed
+21:17:33 <Barrygat> Yes, agreed
+21:17:49 <delcypher> #info UUU website issues will be discussed at another meeting.
+21:18:14 <delcypher> #topic Discipline reps putting stop gap material on the UUU website
+21:18:34 <delcypher> Have the discipline reps provided gkmac with any material yet?
+21:18:46 <gkmac> I haven't received anything as of yet.
+21:18:49 <SamGoodburn> what is stop gap material?
+21:19:14 <arfoll> SamGoodburn: stop gap as in before the UUU website gets redone
+21:19:29 <delcypher> Just a bit of background for SamGoodburn and Barrygat . In the last meeting we decided that we need to put some up to date material about each discipline on the UUU website.
+21:20:02 <delcypher> We decided that each discipline rep would e-mail gkmac with what they want put on their discipline (e.g. hockey, freestyle) page.
+21:20:19 <Barrygat> Ah, so a one pager on hockey  (fromme)?
+21:20:43 <delcypher> It doesn't need to be anything fancy. In your case Barrygat, we could just link to your website for the time being?
+21:20:59 * arfoll is away
+21:21:04 <delcypher> Barrygat: Yes, essentially a "one pager" on hockey from you.
+21:21:07 <gkmac> On the main hockey page there is a link to www.unicycle-hockey.co.uk in the top paragraph.
+21:21:30 <Barrygat> OK I will put some words down. Yes definitely link to the relelvant intro on unicycle hockey site. I will provide url.
+21:21:42 <SamGoodburn> Thats good! I will find some material and talk to some other freestyle riders about it.
+21:21:50 <delcypher> Okay Sam
+21:22:04 <Barrygat> Leave it to me . I will get back to you. Do I just email UUU?
+21:22:10 <delcypher> #action SamGoodburn will produce some material to go on the UUU website
+21:22:27 <delcypher> #action Barrygat will produce some hockey material to go on the UUU website
+21:22:27 <joe_____> sorry can we move on to BUC site? I need to go very soon
+21:22:37 <delcypher> joe_____: ok
+21:22:44 <Barrygat> Yes, let's talk BUC
+21:22:46 <delcypher> Barrygat: e-mail webmaster@unicycle.org.uk
+21:23:02 <delcypher> #topic BUC: Venue
+21:23:18 <joe_____> possible venues?
+21:23:29 <Barrygat> I would like something central if possible...Birmingham, midlands, etc.
+21:24:07 <delcypher> Okay I don't know how BUC locations have been choosen in the past. Have unicycle groups (like JUST) volunteered or have the UUU just gone ahead and picked a location (like Sarah Miller did in Okehampton one year).
+21:24:07 <joe_____> but who can organise it there?
+21:24:13 <joe_____> this has been the problem in the past
+21:24:15 <iuf> Hmmm thats not central lol
+21:24:17 <SamGoodburn> Central would be best. Perhaps we could talk to the organisers of the Uni-meets.
+21:24:26 <Barrygat> Remember most people will drive but we need to allow train access.
+21:24:48 <Barrygat> How about Steve Graniger's new venue in Worcester?
+21:25:08 <Barrygat> Sorry Sam ...ditto
+21:25:26 <delcypher> SamGoodburn: What Uni-meets are you talking about?
+21:25:29 <gkmac> Steve Grainger organised BUC15 with someone else, so he does have experience.
+21:26:00 <SamGoodburn> His daughter is a very good unicyclist aswell
+21:26:01 <Barrygat> Steve gets very good rate on one big hall and one small hall for a whole day.
+21:26:05 <joe_____> Steve is a good shout
+21:26:21 <SamGoodburn> Is the uni-meets held in a school?
+21:26:34 <Barrygat> There are other interesting bits and pieces at that site.. its hilly. Good for trials, Muni.
+21:26:35 <joe_____> in the past, successful BUCs hve been hosted my volunteer clubs.
+21:27:12 * arfoll is back
+21:27:38 <joe_____> we have tried BUCs in the past, where one person has tried to arrange everything and it hasnt worked too successfully
+21:27:40 <Barrygat> Sam: Yes, its a school
+21:27:50 <joe_____> asking people to do it doesnt woek
+21:28:14 <joe_____> there needs a be a well organised gorup, ideally local to the venue
+21:28:33 <joe_____> this is why JUST BUCs work
+21:28:51 <Barrygat> Perhaps we should do JUST again then?
+21:28:51 <joe_____> they put so much time and effort in. Things dont just happen
+21:29:05 <arfoll> any chance JUST want to organise another one?
+21:29:42 <SamGoodburn> The perhaps contact one of the circus groups to run it. other than that I cant think of any other unicycle clubs than JUST
+21:29:57 <joe_____> someone needs to approach them. I know they have talked about it as a committee but I dont know what the decision was
+21:30:13 <delcypher> joe_____: What are the train links like in Stockton? Any good?
+21:31:58 <joe_____> as far as I know, pretty good. Darlington isnt far away, and thats on the main east coast line
+21:32:07 <SamGoodburn> JUST, Uni-meets, a Unicycle hockey club or one of the large circus groups.
+21:32:10 <arfoll> delcypher: they're not great i know pick ups where arenged when i went to buc14
+21:32:26 <delcypher> Hmm 3-4hrs from London Kings Cross. Not too bad I suppose, but the price is horrific :(
+21:33:01 <arfoll> easy to organise lifts for people down south
+21:33:20 <joe_____> i know how you feel. It was further for Jas and I coming down to Exeter haha
+21:34:26 <arfoll> anyways theres no other organised group in the UK who are so good aat organising the event . i'd love someone else to do it more central but...
+21:34:31 <joe_____> okay, so how about someone from the committee sends out emails to unicycle/circus groups to see if anyone is interested in hosting? Its a start
+21:34:41 <delcypher> I'm happy to do that.
+21:34:47 <joe_____> cool
+21:35:09 <arfoll> +1. do it
+21:35:18 <delcypher> #action delcypher Will find and contact unicycle groups across the country and ask if they are interested in hosting the next BUC.
+21:35:19 <Barrygat> You should ask Steve Grainger anyway....he has a big interest of this sort of thing
+21:35:19 <joe_____> it would be sweet to have something for next spring. I know that isnt far off really.
+21:35:38 <delcypher> Barrygat: Could you give me the contact details of Steve Grainger. I don't know who he is.
+21:35:58 <Barrygat> I will PM you his email.
+21:36:00 <arfoll> delcypher: forum post I think instead of email - then email the link to JUST + steve
+21:36:15 <arfoll> Barrygat: /msg delcypher text
+21:36:19 <joe_____> id say email
+21:36:27 <gkmac> Not polite to post e-mail addresses in forums, opens the floodgates for spam.
+21:36:27 <joe_____> its too impersonally on the forum
+21:37:16 <joe_____> id say email JUST. They can talk about it at their meeting then get back to you.
+21:37:35 <arfoll> i'm not saying postign emails on forums.
+21:37:35 <joe_____> they wouldnt post on the forum without consulting the committee
+21:37:47 <joe_____> no, but instead of a link
+21:38:58 <arfoll> i just think we should have a public post somewhere saying we are contacting clubs/groups and if anyone is interested in organising a BUC
+21:39:02 <delcypher> How about this? I'll put a post on the forums publically asking for offers to host a BUC. I'll e-mail Steve and JUST personally and ask them to either reply in the forum or contact me personally
+21:39:15 <arfoll> delcypher: exactly what I was trying to say...
+21:39:23 <joe_____> spot on
+21:40:00 <Barrygat> BTW, Steve runs a circus skills company..he has a professional interest....http://www.shootingstarscircus.co.uk/
+21:40:19 <delcypher> #action delcypher will make a public post on UUU forums asking for hosts for BUC. JUST and Steve Grainger will be contacted personally and asked to reply in forums or contact secretary.
+21:40:34 <delcypher> Okay let's move on to a few other issues.
+21:40:41 <delcypher> #topic BUC : When should it be held?
+21:41:08 <arfoll> easter holidays is a gd time IMHO
+21:41:10 <delcypher> I remember BUCs being held around easter but that may be too soon considering that we don't have a host yet.
+21:42:08 <arfoll> tbh organisers get to decide i say ;-)
+21:42:08 <delcypher> What do others think?
+21:43:20 <delcypher> arfoll: Of course they will, but it is nice to try and think what would be a suitable time for most unicyclists.
+21:43:45 <delcypher> Anyone else have any thoughts?
+21:44:03 <joe_____> totally up to the organisers
+21:44:05 <delcypher> #info Easter was suggested, but it was noted that the organisers will have the final say.
+21:44:21 <arfoll> most unicyclists != 7 people in this meeting.... maybe a public forum post for people to discuss vote? so organisers can get a feeling of what people think
+21:44:22 <SamGoodburn> I think it doesn't really matter when it is. Depending on how long it takes to organise could be at the end of 2013 if needed.
+21:45:32 <delcypher> arfoll: Okay. Shall I make a post in the forums about it? Or shall I wait until we know if we have a host?
+21:45:37 <joe_____> Easter is always good, but depending on when the venue is available and how quickly the hosts can arrange all aspects of the convention. ie, additional venues, sleeping arrangments, secuity, catering, insurance etc it wont happen until its all in place
+21:45:59 <joe_____> i say wait until someone comes forward to host it
+21:46:10 <joe_____> no point setting a date without a host.
+21:46:12 <gkmac> #agreed wait until someone comes forward to host it.
+21:46:17 <SamGoodburn> leave decisions about when till we find a host
+21:46:19 <delcypher> joe_____: Okay.
+21:46:28 <joe_____> id be happy having it at the end of 2013 than not at all
+21:46:28 <delcypher> #info No decision until a host is found.
+21:46:58 <joe_____> dont want to scare any potential organisers off by saying we want it all sorted for X Date
+21:47:19 <delcypher> #topic BUC: UUU involvement
+21:47:55 <joe_____> support as much as possbile
+21:48:02 <joe_____> advertisment via forum
+21:48:16 <delcypher> joe_____: How involved do you think the UUU should get in organising the BUC? Personally I think our reps should have a say in how their competition/event is run
+21:48:46 <joe_____> each rep should support thier discipline as a minimum
+21:48:58 <SamGoodburn> each discpline representative just help as much as possible with organisation of each displine
+21:49:00 <delcypher> joe_____: For example Joe. I'm sure you'd like to have a big say in how the Muni event is run.
+21:49:18 <joe_____> yeah.
+21:49:53 <joe_____> maybe we could alocate the job of discpline organiser to each rep?
+21:50:06 <joe_____> this way its much less or the organisers to deal with
+21:50:11 <SamGoodburn> agreed
+21:50:41 <delcypher> #agreed UUU should advertise via forum
+21:50:41 <joe_____> the rep can allocate jobs to others, so its all broken down into little bits basicly
+21:50:53 <delcypher> joe_____: I agree with this. arfoll ?
+21:51:22 <joe_____> ie Trials rep is in charge of arranging the trials comp
+21:51:27 <SamGoodburn> or at the very least they should be responsible for finding a replacement to organise the disciplin
+21:51:35 <arfoll> sounds good to me
+21:51:47 <joe_____> he allocates colecting gear to build course to a couple of people
+21:52:01 <joe_____> allocates building to another few people
+21:52:23 <joe_____> someone else to sort score cards,
+21:52:28 <joe_____> etc etc
+21:52:33 <delcypher> Barrygat: Any opinions?
+21:52:37 <arfoll> dunno at some level i think the collecting of gear will need organisers to try get materials etc...
+21:52:44 <joe_____> that way many hands make light work
+21:52:51 <arfoll> but as far as building/scoring etc... sure
+21:52:59 <joe_____> yeah, but the rep can sort that with the organisers
+21:54:10 <joe_____> maybe say to them, if you supply X Y and Z in way of materials for the course, they can oversee the building and running of the whole comp.
+21:54:10 <joe_____> I think trials is the most compliczted to run
+21:54:15 <delcypher> #agreed UUU discipline reps should help organise their events (or at least find some to organise it)
+21:54:21 <joe_____> due to the amount of building work and materials required
+21:54:26 <Barrygat> Hmm, thinking about this. Hockey is a tricky one. It requires exclusive use of an expensive resource. I am happy to organise it but feel there may be a "rate card" needed in registration where people express an interest in each discipline. So different discipline costs differing amounts...is this too complicated?
+21:54:45 <arfoll> uhm yes i  agree materials/building for trials is not that simple
+21:54:51 <delcypher> arfoll: If we get BUC running. I'm willing to help you. I want an awesome trials course :D
+21:55:14 <joe_____> whats the expensive resource Barry?
+21:55:45 <Barrygat> TBH, I can probably organise a hockey tournament anywhere...just need to book a hall. Its the hall that is expensive.
+21:55:45 <delcypher> joe_____: I think he's refferring to the two halls that a unicycle hockey tournament uses ALL DAY!
+21:55:49 <SamGoodburn> do you think people would mind partly playing hockey in an outdoor court if there isn't enough hall space?
+21:56:11 <Barrygat> Sam: good shout....worth thinking about.
+21:56:29 <joe_____> okay. But the hall will (hopefully) be part of the venue
+21:57:09 <SamGoodburn> I do think there needs to be hall space for beginners, freestyle and socialising though.
+21:57:11 <Barrygat> Joe: Yes, that has traditionally been the way it works but it causes scheduling difficulties
+21:57:21 <joe_____> we can only speculate for now, until anyone comes forward with a proposed venue
+21:57:33 <delcypher> One issue that did come up a previous BUC is scheduling conflicts. At one BUC, trials was held at the same time as hockey... I wanted to do both :(
+21:57:37 <Barrygat> Joe: I agree...let's park it for now.
+21:57:42 <delcypher> Okay
+21:58:02 <arfoll> i dont think there should be different prices for different events, very hard to police and could make inidvidual event costs like hockey go sky high
+21:58:04 <SamGoodburn> BUC 09 when there was hockey all day in the only hall and it was raining and no trials course allowed there wasnt much space for other people to go.
+21:58:16 <SamGoodburn> *2009
+21:58:28 <delcypher> Shall we discuss the last points of the agenda ( Some of the ideas that have been suggested)? Or shall we end the meeting?
+21:58:40 <joe_____> yeah, i say sent the emails and post up on the forum. hopefully by next meeting there is some interest, or at least gets the ball rolling
+21:59:04 <arfoll> i need to go so I say end the meeting ;-)
+21:59:14 <delcypher> joe_____: There's already been a post on forum. I'm proactive --> http://www.unicycle.org.uk/forum/viewtopic.php?f=2&t=996
+21:59:20 <Barrygat> Yes, footie calls!
+21:59:24 <joe_____> what a guy!
+21:59:28 <joe_____> yeah, bed calls!
+21:59:36 <delcypher> #info A post on the UUU forum asking for BUC idea has been put up at http://www.unicycle.org.uk/forum/viewtopic.php?f=2&t=996
+21:59:40 <delcypher> okay let's finish
+21:59:43 <delcypher> #endmeeting

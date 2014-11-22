@@ -1,0 +1,156 @@
+=============
+##uuu Meeting
+=============
+
+
+Meeting started by delcypher at 20:20:52 UTC.  The full logs are
+available at uuu/2012/uuu.2012-10-28-20.20.log.html .
+
+
+
+Meeting summary
+---------------
+
+* delcypher is Dan Liew - Secretary  (delcypher, 20:21:18)
+* gkmac is Gavin MacGregor - Webmaster  (gkmac, 20:21:27)
+* arfoll is Brendan Le Foll - Trials  (arfoll, 20:21:27)
+* SamGoodburn is Sam Goodburn - Freestyle  (SamGoodburn, 20:21:49)
+* Barrygat is Barry Gates - Hockey rep  (delcypher, 20:22:14)
+* joe_____ is Joe Baxter - Treasurer  (arfoll, 20:24:23)
+* Progress report on bank account transfer  (delcypher, 20:25:41)
+
+* Progress report about how membership fees can be handled online
+  (delcypher, 20:27:05)
+  * not much progress so far. joe_____ will continue to look into this
+    (delcypher, 20:28:44)
+  * Note we should probably not setup paypal account until UUU's legal
+    status is sorted.  (delcypher, 20:31:26)
+
+* Previous IUF rep  (delcypher, 20:31:37)
+  * The IUF reported that Keith Grifis was the former IUF rep. However
+    UUU records say that Johnathan Marshall was rep.  (delcypher,
+    20:35:28)
+  * ACTION: iuf (committee member) will contact the former reps to get
+    the history of what was done.  (delcypher, 20:42:26)
+  * ACTION: iuf (committee member) will investigate what the roles of
+    the IUF rep are.  (delcypher, 20:42:48)
+  * ACTION: delcypher will inform the IUF that iuf (Alan Hogan) is our
+    new IUF rep.  (delcypher, 20:43:03)
+
+* Reigstering the UUU as something  (delcypher, 20:44:14)
+  * I've started investigating registering the UUU as "something".
+    Currently UK law considers the UUU to be a "unincorporated
+    association"  (delcypher, 20:45:18)
+  * It may be desirable in the future to turn the UUU into a "company
+    limited by guarantee" to protect all members (including committee
+    members) from legal action.  (delcypher, 20:46:10)
+  * The issue will be discussed in the forums
+    http://www.unicycle.org.uk/forum/viewtopic.php?f=11&t=999
+    (delcypher, 20:52:08)
+
+* Writing a constitution  (delcypher, 20:52:28)
+  * Just a minor note. Whatever course of action we take we will need to
+    write a constitution for the UUU because it doesn't have one.
+    (delcypher, 20:52:57)
+
+* Retrieving previous BUC results  (delcypher, 20:53:09)
+  * delcypher contacted previous organisers of BUCs. Only heard back
+    from Sarah Miller who said she was currently busy but would get back
+    to me.  (delcypher, 20:53:42)
+  * ACTION: delcypher will check unicycle.com to see if BUC records are
+    there  (delcypher, 20:57:49)
+  * ACTION: delcypher Will contact the last Previous BUC winners to find
+    out what names are engraved on trophies.  (delcypher, 21:00:41)
+  *
+    http://www.unicyclist.com/forums/showthread.php?t=32099&highlight=british+unicycle+results
+    (joe_____, 21:02:31)
+  * joe_____ Found BUC 2004 results at
+    http://www.unicyclist.com/forums/showthread.php?t=32099&highlight=british+unicycle+results
+    (delcypher, 21:03:17)
+
+* Progress report on UUU website  (delcypher, 21:04:49)
+  * gkmac has started looking at using DokiWiki to replace current UUU
+    website. It is proving to be difficult.  (delcypher, 21:12:26)
+  * LINK: https://www.phpbb.com/customise/db/style/prosilver_mobile/
+    (gkmac, 21:14:42)
+  * UUU website issues will be discussed at another meeting.
+    (delcypher, 21:17:49)
+
+* Discipline reps putting stop gap material on the UUU website
+  (delcypher, 21:18:14)
+  * ACTION: SamGoodburn will produce some material to go on the UUU
+    website  (delcypher, 21:22:10)
+  * ACTION: Barrygat will produce some hockey material to go on the UUU
+    website  (delcypher, 21:22:27)
+
+* BUC: Venue  (delcypher, 21:23:02)
+  * ACTION: delcypher Will find and contact unicycle groups across the
+    country and ask if they are interested in hosting the next BUC.
+    (delcypher, 21:35:18)
+  * ACTION: delcypher will make a public post on UUU forums asking for
+    hosts for BUC. JUST and Steve Grainger will be contacted personally
+    and asked to reply in forums or contact secretary.  (delcypher,
+    21:40:19)
+
+* BUC : When should it be held?  (delcypher, 21:40:41)
+  * Easter was suggested, but it was noted that the organisers will have
+    the final say.  (delcypher, 21:44:05)
+  * No decision until a host is found.  (delcypher, 21:46:28)
+
+* BUC: UUU involvement  (delcypher, 21:47:19)
+  * AGREED: UUU should advertise via forum  (delcypher, 21:50:41)
+  * AGREED: UUU discipline reps should help organise their events (or at
+    least find some to organise it)  (delcypher, 21:54:15)
+  * A post on the UUU forum asking for BUC idea has been put up at
+    http://www.unicycle.org.uk/forum/viewtopic.php?f=2&t=996
+    (delcypher, 21:59:36)
+
+
+
+Meeting ended at 21:59:43 UTC.
+
+
+
+Action items, by person
+-----------------------
+
+* Barrygat
+  * Barrygat will produce some hockey material to go on the UUU website
+* delcypher
+  * delcypher will inform the IUF that iuf (Alan Hogan) is our new IUF
+    rep.
+  * delcypher will check unicycle.com to see if BUC records are there
+  * delcypher Will contact the last Previous BUC winners to find out
+    what names are engraved on trophies.
+  * delcypher Will find and contact unicycle groups across the country
+    and ask if they are interested in hosting the next BUC.
+  * delcypher will make a public post on UUU forums asking for hosts for
+    BUC. JUST and Steve Grainger will be contacted personally and asked
+    to reply in forums or contact secretary.
+* iuf
+  * iuf (committee member) will contact the former reps to get the
+    history of what was done.
+  * iuf (committee member) will investigate what the roles of the IUF
+    rep are.
+  * delcypher will inform the IUF that iuf (Alan Hogan) is our new IUF
+    rep.
+* SamGoodburn
+  * SamGoodburn will produce some material to go on the UUU website
+
+
+
+People present (lines said)
+---------------------------
+
+* delcypher (122)
+* joe_____ (60)
+* arfoll (55)
+* Barrygat (32)
+* SamGoodburn (25)
+* iuf (18)
+* gkmac (16)
+* izqit (3)
+
+
+
+Generated by `MeetBot`_ 0.1.4

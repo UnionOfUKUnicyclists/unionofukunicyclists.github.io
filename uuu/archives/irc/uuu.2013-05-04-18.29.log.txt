@@ -1,0 +1,304 @@
+18:29:37 <delcypher> #startmeeting Seventh IRC UUU meeting. BUC2013
+18:29:37 <izqit> Meeting started Sat May  4 18:29:37 2013 UTC.  The chair is delcypher. Information about MeetBot at http://wiki.debian.org/MeetBot.
+18:29:37 <izqit> Useful Commands: #action #agreed #info #idea #link #topic #startvote.
+18:29:37 <izqit> The meeting name has been set to 'seventh_irc_uuu_meeting__buc2013'
+18:29:54 <delcypher> #topic trials/street course design
+18:30:04 <arfoll> ok, I started something
+18:30:05 <delcypher> arfoll: Any luck with coming up with a list
+18:30:07 <arfoll> let me share it
+18:30:17 <delcypher> arfoll: Ok. Gdocs?
+18:30:19 <arfoll> im not on my pc so will take 1
+18:31:11 <delcypher> Shall we discuss something else whilst Brendan is sorting that out?
+18:31:18 <arfoll> yes plz
+18:31:32 <delcypher> #action Discuss later
+18:31:41 <delcypher> #topic Hockey relocation
+18:32:20 <delcypher> #info Just incase people here aren't aware. Hockey for BUC is being relocated to the NFS building because we haven't had enough hockey people sign-up.
+18:32:41 <arfoll> i think thats sensible
+18:32:51 <chairperson> iv spoken to Liam who is in agreement and seems hapy with the idea
+18:33:02 <delcypher> chairperson: Kris are you happy to contact the CAVC people and tell them we don't want the hall anymore?
+18:33:36 <chairperson> need to send a email to the hocky lot (BC) to explain incase there planning on showing up on the day
+18:33:40 <chairperson> delcypher: yes
+18:34:03 <delcypher> #action chairperson will contact CAVC and inform them we no longer wish to hire the hall.
+18:34:36 <delcypher> chairperson: I intend to update the website with a bunch of information too, but we need to sort a bunch of stuff out before we do that.
+18:35:24 <chairperson> ok
+18:35:32 <delcypher> #info There's a draft e-mail in the works that informs convention goers of various things. https://docs.google.com/a/unicycle.org.uk/document/d/1qVX3ZtqH2pT1V3DHSD12oO_90RUGnMBofMr11V59_xk/edit?usp=drive_web
+18:35:42 * arfoll has just emailed the current BUC trials plan
+18:36:03 <delcypher> chairperson: There's a small bit for you to fill in about the hockey. You're better at putting a positive spin on these things.
+18:37:09 <delcypher> chairperson: Can you get that done by Monday so I can send it off?
+18:37:31 <chairperson> delcypher: ye iv seen it sorry for the delay iv been buisy but will do befor tuesday
+18:37:41 <chairperson> ok monday :-)
+18:38:01 <chairperson> arfoll: 10 cable reels might be pushing it
+18:38:23 <delcypher> arfoll: Cool I'm just opening up your document. I've moved it into our shared BUC2013 folder.
+18:38:51 <arfoll> chairperson: I know, thats why its got the tilde
+18:39:15 <arfoll> but anyways, its my ideal wishlist, well see what happens. Also there are very small reels
+18:39:35 <delcypher> right let's move on.
+18:39:56 <delcypher> #topic Trials/Street course. Materials and design.
+18:40:22 <arfoll> so both of you already saw the document
+18:40:34 <delcypher> #info arfoll has prepared a list of materials and a rough design for the trials course.
+18:40:39 <arfoll> i'm being hopeful obviously, tbh i'll make do with what turns up on the day
+18:40:48 <arfoll> I need to know how many pallets jason wants
+18:41:09 <arfoll> 30-40 is not so many for me and I guess he'll want at least 10
+18:41:34 <delcypher> arfoll: When Kris & I spoke to Clare from NFS she told us it's unlikely that they'll be able to get hold of a car :(
+18:41:37 <chairperson> arfoll: is ~ a tilde? you learn somthing every day!
+18:41:48 <arfoll> chairperson: aye
+18:41:53 <arfoll> delcypher: well that sucks
+18:42:10 <arfoll> lets add +10 pallets and well make a car out of pallets then
+18:42:21 <arfoll> I will also phone scrap yard and see if we cant get one
+18:42:27 <arfoll> I'd reallz like a scrap car
+18:42:44 <delcypher> arfoll: How would we get rid of it afterwards?? Drive home what's left of it?
+18:42:49 * arfoll is on swiss keyboard so sorry...
+18:43:19 <arfoll> delcypher: no, pay a scrappy to loan us a dead car. We'd pay for the transport of it, he gets money for doing nothing... i'm hoping we can convince one
+18:43:37 <delcypher> okay.
+18:43:39 <arfoll> and at the end of the day, the metal of the car would still be the same
+18:43:50 <arfoll> but NFS said they could get us one when we went there
+18:43:58 <arfoll> cause thez had connectinons to scrappy
+18:44:12 <arfoll> it was their idea to start with hence why im really pushing it
+18:44:41 <delcypher> arfoll: Are you happy to nag Jason and find out what he needs for the street course? He's not that easy to get hold of.
+18:45:03 <delcypher> arfoll: I can provide a sidehop bar by the way.
+18:45:15 <arfoll> delcypher: cool that would be good for high jump
+18:45:16 <chairperson> arfoll: it was lyns idea and now we are dealing with clare, have to see what stuff she comes back with but we need materials asap
+18:45:36 <arfoll> chairperson: could we not ping Lynn about it?
+18:46:04 <arfoll> delcypher: ok I can do that,
+18:46:12 <delcypher> arfoll: I can do what?
+18:46:18 <chairperson> ye we will, lets see what clare comes up with next week and then go to lyn in nesissary. i have faith in clare though
+18:46:33 <arfoll> delcypher: contact jason
+18:46:42 <delcypher> fine.... grumble.
+18:46:45 <arfoll> and please lets push teh car thing, dont start with I thought we couldnt
+18:46:57 <delcypher> #action delcypher will nag jason to give proper details of required street course
+18:47:07 <arfoll> delcypher: I meant i will do that!
+18:47:26 <delcypher> #undo
+18:47:26 <izqit> Removing item from minutes: <ircmeeting.items.Action object at 0x5786f0>
+18:47:35 <delcypher> #action arfoll will nag jason to give proper details of required street course
+18:47:46 <arfoll> ungrumpb?
+18:48:35 <delcypher> Ok, great we have a list. So shall we send it to Clare once we've all had a proper read of it?
+18:48:52 <delcypher> SimonBerry: Are you alive?
+18:49:02 <SimonBerry> Very much so
+18:49:13 <arfoll> #agreed
+18:49:19 <chairperson> delcypher: im happy with the list if you guys are obviously i have nothing to add
+18:49:19 <SimonBerry> I agree that a car would be sick for trials, could base a lot of lines around it
+18:49:28 <delcypher> SimonBerry: Cool, just checking.
+18:49:33 <arfoll> I know ie asked for a lot, but you cant get what you dont ask for!
+18:49:58 <delcypher> Alright. I'll have a full read of it tonight and then I'll send it to Clare
+18:50:23 <delcypher> #action delcypher will send the trials list to Clare from NoFitState tonight.
+18:50:28 <arfoll> btw obstacles are just ideas, it totally depends on what we end up with/sizes
+18:50:59 <delcypher> SimonBerry: You know more about street that us? Jason mentioned one of the things that is difficult to sort out is a grind box. Do you have any suggestions?
+18:51:08 <arfoll> SimonBerry: will yuou need anything for flat?
+18:51:25 <arfoll> delcypher: couldnt the voodoos grind box be used?
+18:51:26 <delcypher> SimonBerry: Some bangin' beats?
+18:51:54 <SimonBerry> For flat I just need a decent sized flat space, usage of the PA, and a few judges.
+18:51:54 <delcypher> SimonBerry: I don't know stopwatches maybe... I presume people are timed.
+18:52:08 <arfoll> delcypher: phones phones phones
+18:52:20 <SimonBerry> Stopwatches/phone with stopwatch, whatever really
+18:52:28 <delcypher> SimonBerry: We're hoping to use part of the front car park as a space for flatland.
+18:52:51 <delcypher> SimonBerry: Does the voodoo rig have a grindable box?
+18:53:01 <SimonBerry> Sick. I might put loads of bangin' gangsta beats on my laptop or phone and bring that for music, we can also stopwatch from that
+18:53:43 <SimonBerry> I think Edd has been modifiying one box to be grindable but i'm not sure. IMO we need enough pallets to make a 3set, 5set and simple manny pad, then maybe a voodoo box.
+18:54:17 <arfoll> SimonBerry: how many pallets does that make?
+18:54:33 <delcypher> Do most street comps have stair sets of different sizes?
+18:55:14 <SimonBerry> Yes most have a 3/5/7, or a 3 and a 5, or a 5 and a 7. But with the level of british riders (no offense) a 3 and a 5 is more ridable
+18:57:20 <arfoll> well i need a number of pallets you want
+18:57:56 <delcypher> Oh something I forgot to mention. Clare mentioned that it may be possible to borrow some equipment from the Council. Apparently they have a "mobile" skate park. she said we shouldn't rely on this though as the council are really bad at communicating.
+18:58:39 <SimonBerry> I'll try and figure it out. Someone who organises EUC or something will know how many pallets are needed.
+19:00:31 <delcypher> I've slapped together a document for the street course. https://docs.google.com/a/unicycle.org.uk/document/d/1q6x0u5Q6sSjAtt5kQc9nVU2Iam7V-_SAawJ6jM8eDi8/edit
+19:00:50 <delcypher> #action SimonBerry and Jason will work out what materials are needed for the street course a.s.a.p
+19:01:16 <delcypher> SimonBerry: Cool could you get this done soon as we're running out of time to get this sorted?
+19:01:31 <SimonBerry> Yeah i'll send a few messages around
+19:02:12 <delcypher> Street happens before trials so we could actually make the street course part of the trials course.
+19:02:49 <delcypher> arfoll: Or is that sacrilege?
+19:02:55 <SimonBerry> Yeah, reuse the pallets for sure
+19:03:28 <arfoll> SimonBerry: not reuse, we wont have the time to build stuff in between
+19:03:32 <delcypher> SimonBerry: I don't mean disassemble (that'll take too long). I meant make the stair set part of the trials course (e.g have to hop/ride down it)
+19:03:57 <arfoll> we could use the stair sets as part of trials, but then we need to have trials in the same place as street (is that the case?)
+19:04:22 <delcypher> Yeah they are both being built at the front of NoFitState in the car park, right?
+19:04:47 <SimonBerry> if you're using stair sets in trials though presumably you only need the stairs and not a 3 rev run up. So those pallets could be taken out and used
+19:05:04 <arfoll> ok then sure, we can incorporate the obstacles, but I still need to know roughly hoy many pallets they want for my plans
+19:05:29 <arfoll> SimonBerry: we can just place the stair set conveniently closer to the street place
+19:05:48 <arfoll> and the 3 rev run up is cool for other things
+19:06:03 <delcypher> #action Trials course will share some parts of street course.
+19:06:11 <arfoll> anyways if you want a 3set & 5 set with a 3 rev run up you will need a lot of pallets
+19:06:52 <delcypher> Is there anything else about this you want to talk about? If not I'm going to move on.
+19:07:55 <arfoll> im good I just want to make it clear that if I get only 30 pallets there will be no street obstacles
+19:08:24 <arfoll> it sounds like they need at least 20
+19:09:33 <delcypher> arfoll: Perhaps the council lending us a mobile street course will save us?
+19:09:51 <arfoll> they wont have a stair case with a 3 run up
+19:10:02 <arfoll> probably half pipe ish stuff which is a bit useles for us
+19:10:03 <delcypher> that's a point.
+19:10:18 <delcypher> grind rail might be nice though.
+19:10:31 <delcypher> Anyway I'm running out of time. So I'm going to move on
+19:10:41 <delcypher> #topic Workshop and hockey scheduling.
+19:10:42 <SimonBerry> Yeah a mobile skate park will probably be a grind box, maybe manny pad and some mini ramps
+19:11:14 <delcypher> #info Now that hockey is going to be at NFS on saturday we need to work out how to schedule this along with the workshops and a "muck around" space.
+19:11:27 <delcypher> chairperson: What was your plan?
+19:11:56 <chairperson> if there is 30 ish people and hockey is in the nfs hall then i think 10-3 is ample time especialy as some people will want to leve and go trials
+19:12:16 <chairperson> leave
+19:12:36 <delcypher> chairperson: What I meant is do you want to make some of the scheduled "workshop" slots hockey slots or do you want to keep them totally seperate?
+19:13:30 <delcypher> i.e. so hockey stuff runs in parallel with other workshops?
+19:13:47 <chairperson> I think we could schedule hockey 10-3 but also run othe workshops along side that
+19:13:54 <chairperson> ye run them in paralle
+19:13:59 <delcypher> okay
+19:14:15 <chairperson> we can play it by ear a bit on the day as well
+19:14:22 <delcypher> #action Hockey will be run from 10-3 in parallel with workshops
+19:14:28 <delcypher> chairperson: Which hall will you want to use?
+19:14:54 <chairperson> up stairs
+19:14:59 <delcypher> Okay.
+19:15:33 <delcypher> So we're using the large downstairs hall for workshops/silly games and as a "muck-around" space?
+19:15:43 <chairperson> yes
+19:16:19 <delcypher> #action Downstairs hall will be used for workshops/sillygames/muck-around space on Saturday
+19:16:54 <delcypher> chairperson: There was mention of some hockey workshops too. Would you like some to be scheduled on Sunday?
+19:16:55 <arfoll> action -> info?
+19:17:07 <delcypher> arfoll: Oops..
+19:17:12 <delcypher> #undo
+19:17:12 <izqit> Removing item from minutes: <ircmeeting.items.Action object at 0x58c3b0>
+19:17:14 <delcypher> #undo
+19:17:14 <izqit> Removing item from minutes: <ircmeeting.items.Action object at 0x58c0b0>
+19:17:31 <delcypher> #info Hockey will be run from 10-3 in parallel with workshops
+19:17:57 <delcypher> #info Downstairs hall will be used for workshops/sillygames/muck-around space on Saturday
+19:18:23 <delcypher> right I'm going to have to go soon, so I'm going to do a few other things quickly.
+19:18:26 <delcypher> #chair arfoll
+19:18:26 <izqit> Current chairs: arfoll delcypher
+19:18:42 <delcypher> #topic Video competition
+19:18:55 <arfoll> i thought this was allread sorted?
+19:19:20 <delcypher> #info There is going to be a video competition which we need to announce a.s.ap. Is everyone okay with the rules. They can be found in https://docs.google.com/a/unicycle.org.uk/document/d/1qVX3ZtqH2pT1V3DHSD12oO_90RUGnMBofMr11V59_xk/edit
+19:19:23 <arfoll> its fine, lets no worry too much aboutt he rules
+19:19:42 <SimonBerry> Seems fine :)
+19:20:00 <arfoll> i jsut added no violence
+19:20:08 <chairperson> im happy
+19:20:10 <delcypher> #action delcypher will send out emails/facebook/twitter info about video comp
+19:20:32 <delcypher> Will Voodoo king of the road videos actually pass these rules?
+19:21:34 <arfoll> well who knows... anyways no one here to answer that
+19:21:44 <delcypher> #topic Day tickets
+19:22:11 <arfoll> again, i dont care about this, NFS suggestion is fine
+19:22:12 <delcypher> #info We will be selling day tickets (£25) for non-competitors to attend for one day.
+19:22:38 <delcypher> #topic Mock up t-shirt designs for organisers
+19:22:49 <chairperson> i like the idea of day rticketts £25 no competition entry but workshops and messabout on the trials course on sunday ect
+19:22:59 <chairperson> to slow wev moved on ok
+19:23:07 <delcypher> #info A quick mockup for organiser t-shirt design has been made. Thoughts?
+19:23:10 <arfoll> tshirts cost alot of money
+19:23:21 <arfoll> why are we not spending it on cooler stuff?
+19:23:22 <delcypher> chairperson: Hopefully we'll have some trials workshops that will be open to all.
+19:23:27 <chairperson> t-shirts nice idea but i think we will have to pay for them
+19:24:06 <delcypher> chairperson: I don't mind that but if people don't really care we can use NFS's bright pink bibs instead.
+19:24:12 <chairperson> arfoll: we could make money out of T-shirts but we would need to front the money to make it
+19:24:32 <arfoll> chairperson: only the 3 of us where willing to part with any upgront moneys...
+19:24:52 <chairperson> delcypher: i reALY want one of your t-shirts
+19:25:12 <delcypher> arfoll: We have that £200 left over from the hockey hall?
+19:25:13 <arfoll> if someone designs one, i'll buy one but im not willing to pay upfront for a bunch
+19:25:29 <arfoll> delcypher: realisaticallz thats only 20 tshirts
+19:25:30 <delcypher> arfoll: I threw together a mockup for a t-shirt. Have you seen it?
+19:25:38 <arfoll> no, link?
+19:25:47 <delcypher> Give me a sec
+19:25:59 <SimonBerry> i saw it, looked good
+19:26:46 <delcypher> ]https://docs.google.com/a/unicycle.org.uk/file/d/0B2RZnOajrg2DTmU3eG9kQ1JGc1U/edit?usp=sharing
+19:26:53 <delcypher> https://docs.google.com/a/unicycle.org.uk/file/d/0B2RZnOajrg2DTmU3eG9kQ1JGc1U/edit?usp=sharing
+19:27:00 <chairperson> delcypher: if you still have the £200 then im happy for us to use that to buy 20 T's keep on each for those that payed up and sell the others for a tenner, they will definatly sell
+19:28:05 <arfoll> uhm... ok, why not
+19:28:31 <arfoll> im not really a huge fan of the design, can we get slighly nice quality oens though?
+19:28:44 <delcypher> okay. Does anyone have any idea how long it takes to get t-shirts made?
+19:28:52 <arfoll> no idea
+19:29:07 <arfoll> guessing its pretty quick
+19:29:10 <chairperson> i got a simonberry T-shirt made in 4hrs for a tenner
+19:29:37 <delcypher> arfoll: Feel free to improve the design. I made it in <5 minutes.
+19:29:43 <chairperson> we could get 20 made in a week easy
+19:29:51 <SimonBerry> We could just have a Simon Berry T shirt for BUC?
+19:30:06 <chairperson> polo shirts would look better but again alot more expencive
+19:30:12 <arfoll> i hate polo shirts
+19:30:20 <delcypher> I also don't like polo shirts
+19:30:27 <SimonBerry> rifing in polo shirts would make me feel way too private school
+19:30:48 <chairperson> collar up and your cool!
+19:30:58 <chairperson> lol polos out then
+19:32:21 <delcypher> Well if it takes ~1 week to have t-shirts made shall we delay making them for a week just incase we need more money for trials/street course?
+19:32:53 <chairperson> delcypher: good idea in the mean time we could find out exactly how much the cost and how long it takes ect
+19:32:54 <arfoll> i think it would be wise
+19:33:44 <delcypher> #action delcypher will look into how much it will cost to produce 20-30 t-shirts. Purchasing will be delayed until we know more about trials/street course as we may need money for that.
+19:33:57 <delcypher> Before I switch topic. Are we happy with yellow?
+19:34:24 <arfoll> sure
+19:34:40 <delcypher> arfoll: I figured you wouldn't mind as you have a bright yellow EUC t-shirt.
+19:35:01 <chairperson> yellow's good
+19:36:14 <delcypher> Wait if we plan on selling these. How are people meant to distinguish organisers from people who just buy a t-shirt?
+19:37:02 <delcypher> I suppose we could print on different colour t-shirts for the ones to sell but it'll work out more expensive.
+19:37:20 <arfoll> its not really a big deal
+19:37:25 <arfoll> lets move on
+19:37:39 <chairperson> delcypher: probably not, they will have loads of t-s of various colours
+19:37:44 <chairperson> i will find out
+19:38:13 <delcypher> chairperson: Wait am I doing this, or are you? I'm happy to give you the task of sorting out t-shirts. I've got enough on my plate at the moment.
+19:38:40 <chairperson> ok ill do a little reasearch and get back to you
+19:38:43 <delcypher> ok
+19:38:45 <delcypher> #undo
+19:38:45 <izqit> Removing item from minutes: <ircmeeting.items.Action object at 0x4fa470>
+19:39:41 <delcypher> #action chairperson will look into how much it will cost to produce 20-30 t-shirts (possibly different colours: one for organisers and another of people to buy). Purchasing will be delayed until we know more about trials/street course as we may need money for that.
+19:39:51 <delcypher> #topic Printed information (first aid, food, water points, map..etc.) leaflets/timetables for attendees.
+19:40:02 <delcypher> Right so who should be responsible for this?
+19:40:18 <delcypher> I'm happy to design it but I probably won't be able to print.
+19:40:41 <chairperson> ok you design send it to me an i will prind 200 coppys
+19:41:08 <delcypher> #action delcypher will design leaflets to give to attendes with info on
+19:41:14 <delcypher> #action chairperson will print them
+19:41:39 <delcypher> chairperson: How much notice will you need? We probably won't be able to print until last minute (as timetable will keep changing).
+19:42:22 <chairperson> thursday afternoon - the 23rd or whatever the date is i will print at work
+19:42:38 <delcypher> ok cool
+19:43:04 <delcypher> Right do we want to talk about the PA ( I skipeed that point earlier). Or shall we sort that out by e-mail/facebook with Edd & Jason?
+19:43:16 <arfoll> i dont get this
+19:43:27 <delcypher> arfoll: You don't get what?
+19:43:30 <chairperson> email and fb with edd, after all its thee pa
+19:43:39 <arfoll> the PA situation seems easy, PA indoors is NFS and PA outdoors is voodoos?
+19:44:07 <arfoll> since we only need a PA for flat & street & maybe trials (im not that bothered)
+19:44:08 <delcypher> That's our plan. I don't think that's exactly what Clare had in mind but I can't see her objecting to our plan.
+19:44:17 <arfoll> what did clare have in mind?
+19:44:25 <delcypher> #topic PA
+19:45:19 <delcypher> Clare thought that the voodoo PA would be in inside the lobby (front entrance) but the speakers will face towards the door/outside so music can be held outside.
+19:45:34 <arfoll> why would we do that??
+19:45:34 <delcypher> *music can be heard outside
+19:46:00 <arfoll> sounds rubbish, we dont need loud music indoors anyways
+19:46:04 <delcypher> I like our/voodoo's plan better so I'll contact clare about it
+19:46:26 <delcypher> #action delcypher will Contact Clare from NFS about revised plan for PA.
+19:46:46 <delcypher> #topic Judges need for Street, flatland and freestyle
+19:47:06 <SimonBerry> tbh depending on the competition it wouldn't be hard to move the PA if we needed to as long as there's a power supply
+19:47:07 <delcypher> Are we going totally ad-hoc for this or is it better to find people beforehand willing to judge?
+19:47:48 <arfoll> ad-hoc. I can try judge some stuff but I probs wont have time
+19:48:02 <chairperson> ad-hoc  is just going to be easier
+19:48:35 <delcypher> SimonBerry: Are you happy to choose you judge ad-hoc, or do you want specific people to judge?
+19:48:55 <SimonBerry> Seems like it would be easier to just pick some people on the day
+19:49:29 <delcypher> I could ask the people who have registered and who have said they are happy to help organise if they would be interested in judging?
+19:50:01 <arfoll> whats the point, we dont know who they are, what they know, and how do they kjnow what they will choose to do?
+19:50:32 <arfoll> better to ask people you know at least a little
+19:50:39 <delcypher> alright then I'll leave it. I guess we can ask when people register on the day.
+19:50:57 <delcypher> Moving on...
+19:51:00 <delcypher> #topic Certificates for competition winners? Trophies yes/no? Award during show?
+19:51:17 <delcypher> I think certificates is a given, but I'm not sure about trophies.
+19:51:30 <arfoll> no, trophies are wated money, award during show
+19:51:49 <delcypher> #info certificates will be awarded during show
+19:51:55 <arfoll> i thought we already discussed this before?
+19:52:19 <delcypher> arfoll: I think we did but not everyone was around... then again there are even less people here than normal!
+19:52:47 <arfoll> well people that arent at meetings cant make decisions... we cant wait for them
+19:53:07 <delcypher> SimonBerry: Do have an opinon on this? If not I'm going to move on.
+19:53:24 <delcypher> chairperson: Do you have an opinion on this? If not I'm moving on.
+19:54:01 <chairperson> yep certificates given out in the show
+19:54:08 <delcypher> okay...
+19:54:12 <chairperson> no trophys, next year maybe
+19:54:16 <delcypher> #topic Hockey mini-tournament
+19:54:26 <delcypher> this isn't the agenda but I've just had a thought.
+19:54:29 <arfoll> thats not on the agenda+
+19:54:59 <delcypher> does the hockey mini-tournament count as a competition? I.e. will we allow non-competitors to take part? my guess is yes?
+19:55:19 <arfoll> yes but who organises, keeps score?
+19:55:32 <delcypher> arfoll: I think Kris will.
+19:55:52 <delcypher> Although if Kris is doing that we will need someone else to oversee running workshops.
+19:55:54 <chairperson> i think the reality is that hockey will be one long worshop with people coming and going all day
+19:56:14 <chairperson> we will have mini tournements but nothing to seriouse
+19:56:33 <delcypher> #info The hockey mini-tournament is not regarded as a competition so non-competitiors may take part.
+19:56:37 <delcypher> okay last item
+19:56:41 <delcypher> #topic How are we going to go about splitting tasks between ourselves and volunteers so we know who should be where and when.
+19:56:53 <delcypher> So how do we want to co-ordinate this?
+19:57:05 <arfoll> as for using volunteers, we can ask at registration if people would like to volunteer and then point them at things. I'll just be on the trials course 95% of the day
+19:58:00 <arfoll> i dont see us getting many volunteers anyways
+19:58:27 <delcypher> arfoll: Well we already know a bunch of people who have volunteered to help. Should I not try to use this information to see when people plan to be free so I have a very rough idea how many people we have available to help and when.
+19:58:38 <arfoll> sure
+19:58:53 <delcypher> 14 people volunteered to help organise (more than workshops volunteers which was only 6!)
+19:59:21 <arfoll> i want loots of people to help with building and 10+ judges for trials comp
+19:59:21 <chairperson> cool well we can allocate those 14 a task
+19:59:47 <arfoll> im doubtful well reallz get 14 people but...
+19:59:51 <arfoll> can try
+20:00:25 <delcypher> Right I guess we need fix the schedule first (which is not correct right now) and then we can work out where each of us will be during the day and then try to figure out what other jobs need doing. After that I guess we can ask for help
+20:01:17 <chairperson> yep
+20:01:44 <delcypher> #action delcypher will try to fix the schedule, then workout what tasks need doing and then workout where each committee member/NFS staff will be during the day. Finally we can then contact the people who volunteered and see if they'd be interested in doing any of the remaining tasks.
+20:01:47 <arfoll> we done? its 2100 and Im starving
+20:01:52 <delcypher> yeah we're done
+20:01:55 <delcypher> #endmeeting
