@@ -36,6 +36,12 @@ defaults:
       menu_bottom: "Archives"
   -
     scope:
+      path: "clubs"
+      type: "pages"
+    values:
+      menu_top: "Clubs"
+  -
+    scope:
       path: "flatland"
       type: "pages"
     values:

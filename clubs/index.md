@@ -1,6 +1,6 @@
 ---
-menu_top: "Clubs"
 title: "Clubs"
+content_template: "clubs.html"
 ---
 
 # Clubs

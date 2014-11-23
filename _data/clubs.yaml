@@ -1,0 +1,308 @@
+# vim: set ts=2 sw=2 softtabstop=2 expandtab:
+#
+# This file stores our known list of clubs in the YAML format.
+#
+# We use the following schema:
+#
+# name:<string> : Name of club
+# address:<string> : Address of club
+# latitude:<float>: Latitude co-ordinate
+# longitude:<float>: Longitude co-ordinate
+# website:<string>: [Optional] Website URL
+# contact:<dictionary>
+#   name:<string>: [Optional]  Contact's name
+#   email:<string>: [Optional] Contact email adress
+#   phone:<string>: [Optional] Contact phone number
+# text:<string>: Description of club in markdown format.
+
+- name: "Aylesbury QPC"
+  address: "Queens Park, Aylesbury, Buckinghamshire, HP21 7RT"
+  latitude: 51.814494
+  longitude: -0.803397
+  contact:
+    email: "info@qpc.org"
+  text: |
+    Queens Park Centre Aylesbury, Monday 7.30-9.30pm term time. Not
+    specifically a Unicylcle club, its a circus drop in. A few of us Unicycle
+    here and anybody is welcome to join, space to practise with like minded
+    people :)
+
+- name: "Brightlinsea Unicycle Club"
+  address: "The Scout Hall, Lower Park Road, Brightlingsea, Essex CO7 0HD"
+  # FIXME: add correct co-ordinates
+  latitude: 0
+  longitude: 0
+  contact:
+    name: "Ellie Stockwell"
+    phone: "01206 305097"
+    email: "gerryandjostockwell@talktalk.net"
+  text: |
+    Come and join our Unicycle Club for Beginners to Experts, Every Monday
+    Evening from 6.45pm - 8.15pm, Unicycles Provided or Bring Your Own, All Ages
+    Welcome, Refreshments Available £3.00 per session.
+
+- name: "Cambridge Community Circus"
+  address: "Citylife House, Sturton St, Cambridge CB1 2QF"
+  latitude: 52.207064
+  longitude: 0.139464
+  website: "http://www.camcircus.org/"
+  contact:
+    email: "contact@camcircus.org"
+  text: |
+    We run circus workshops every Sunday (except in July & August) at the Citylife
+    Building (previously Howard Mallett Centre), corner of Sturton Street and New
+    Street. Juggling, unicycling and aerial skills, with a beginners??? hour from 5
+    - 6pm and general practice from 6 - 8pm.
+
+- name: "Cambridge Unicycle Hockey"
+  address: "Cambridge Regional College, Kings Hedges Road, Cambridge. CB4 2QT"
+  latitude: 52.235093
+  longitude: 0.13532
+  website: "http://www.camunihockey.co.uk/"
+  contact:
+    name: "Dave Wise"
+  text: |
+    We meet for a practice session on Fridays from 6pm until 7pm in the sports
+    hall at Cambridge Regional College.
+
+- name: "Cardiff Unicycle Hockey Club"
+  address: "Nofit State Circus John Street Cardiff CF10 5PE Wales"
+  latitude: 51.476321
+  longitude: -3.172866
+  contact:
+    name: "Alex Howard"
+    email: "alexghoward@hotmail.com"
+  text: |
+    Thursday, Beginners 7.30-8.45, Hockey 8.45-10.00 (then off to the pub...).
+    Additional circus activities are available on site.
+
+- name: "Circus of the Absurd"
+  address: "Harrogate High School, Ainsty Road, Harrogate, North Yorkshire, HG1 4AP"
+  latitude: 53.999646
+  longitude: -1.520893
+  website: "http://www.circusoftheabsurd.co.uk/"
+  contact:
+    email: "circusoftheabsurd@gmail.com"
+  text: |
+    Originally started out as a juggling club but the unicycling presence is
+    increasing as well as a number of other circus skills, anyone welcome!
+    
+    We also run a number of workshops at various events, some performances etc.
+
+    We meet at Harrogate High School on Thursday evenings (see map)
+
+    * Juniors: 18:45-20:00
+    * Seniors: 20:00-21:30
+    
+    [View the calendar to check dates](http://www.circusoftheabsurd.co.uk/calendar.htm)
+
+- name: "Concrete Circus"
+  address: "Holmwood School, Kensington Drive, Great Holm, Milton Keynes"
+  latitude: 52.036821
+  longitude: -0.798129
+  website: "http://www.concrete-circus.com/"
+  contact:
+    name: "Nigel Roder"
+    email: "nigel@itshim.co.uk"
+  text: |
+    A youth circus aimed at 7 - 18 year olds. We teach unicycle as one of our
+    major skills. Always interested in seeing other unicyclists who can help our
+    kids learn.
+
+- name: "EMU - East Midlands Unicyclists"
+  address: "Derby Rd, Long Eaton Nottingham, NG10 4AD"
+  latitude: 52.934151
+  longitude: -1.475784
+  website: "http://www.emunicyclists.info/"
+  contact:
+    email: "Fatkid13@googlemail.com"
+  text: |
+    The hockey team in the East Midlands. Practice sessions every Tuesday night
+    from 1900 to 2100. Newcomers always welcome. First week free. We also ride
+    Muni and go to the pub.
+
+    **Outdoor address**: Old Chester Road, Chester Green, Derby, DE1 3SA
+
+- name: "Hackney Freewheelers"
+  # FIXME: I guessed this address from the old description.
+  address: "The Urswick Shcool, Paragon Rd, London, E9 6NR"
+  latitude: 51.5448755
+  longitude: -0.0539949
+  contact:
+    email: "1wheel@talktalk.net"
+  # FIXME: This text looks out of date.
+  text: |
+    We run a begginers session on wednesday evenings(6.15 to 7.30pm) at The
+    Hackney Free & Parochial School on Paragon Road Hackney.We teach people to
+    ride in the hope that they will play hockey,the club is free to attend .We
+    also have a joint practice with the Lunis at The Queensbridge Sports center
+    on Holly St on tuesday (9 till 10pm)
+
+- name: "HUHA"
+  address: "The Weald School Station Rd, Billingshurst, West Sussex RH14, UK"
+  latitude: 51.016828
+  longitude: -0.452902
+  contact:
+    email: "chris@baker-household.co.uk"
+  text: |
+    We meet on a Thursday night between 8 -10pm. We teach individuals to ride
+    unicycles and play unicycle hockey. The first hour we have half of the
+    sports hall and teach individuals to ride including hockey practice. The
+    second hour we have the complete hall and play hockey. Anyone is welcome
+    but please make arrangements before turning up.
+
+- name: "IWheel - The South East’s largest Mountain Unicycle (MUni) Club"
+  address: "Kent, UK"
+  latitude: 0
+  longitude: 0
+  website: "http://www.iwheel.org/"
+  # FIXME: No contact details at all!
+  contact:
+  text: |
+    Aiming for organizing at least 3-4 day rides a year, and perhaps in the
+    future a weekender.  We have members from Kent, Essex, Hampshire, Surrey and
+    Sussex.
+
+- name: "JUST - Juggling Unicycling Stockton on Tees"
+  address: "Billingham Campus Sports Centre, (beside Billingham Campus School), Marsh House Avenue, Billingham, TS23 3HB"
+  latitude: 54.619192
+  longitude: -1.283137
+  website: "http://www.justonline.org.uk/"
+  contact:
+    email: "stocktonuni.juggle@gmail.com"
+  text: |
+    Juggling Unicycling Stockton-on-Tees meet every Thursday evening to practice
+    unicycling, juggling and other circus skills and play unicycle hockey. We
+    meet from 6:30 to 9:00.
+
+- name: "LUNIs"
+  address: "Queensbridge Leisure Centre, 30 Holly Street, Dalston, Hackney, E8 3XW"
+  latitude: 51.542328
+  longitude: -0.071529
+  website: "http://www.unicycle-hockey.co.uk/"
+  contact:
+    name: "Barry Gates"
+    email: "barry.s.gates@gmail.com"
+    phone: "07767 312806"
+  text: |
+    See main unicycle hockey page for more info.  We meet every tuesday 9:00pm
+    to 10:00pm and every thursday 8:00pm to 10:00pm. Costs are £4 per hour or
+    £2.50 per hour for students/OAPs/unemployed.
+
+- name: "M.U.C.K - Mountain Unicycle Club Kernow"
+  # FIXME: Add proper address
+  address: "Falmouth, Helston - Cornwall"
+  latitude: 50.148746
+  longitude: -5.059204
+  contact:
+    name: "Kevin Callaby"
+    phone: "07828 013482"
+  text: |
+    We ride off road most weekends. Friendly bunch always willing to help new
+    riders get to grips with Cornish terrain.
+
+- name: "Manc Unicycles"
+  address: "Harpurhey Neighbourhood Project, Carisbrook Street,Moston, M9 5UX"
+  latitude: 53.508257
+  longitude: -2.212967
+  website: "https://www.facebook.com/MancUnicycles"
+  # FIXME: No contact details!
+  contact:
+  text: |
+    MancUnicycles is an all New group for Unicycle Enthusiasts Do you own a
+    Unicycle, are you sick of Riding alone?
+    
+    This group has been set up for people, who want to practise with other
+    people.  The Group Meets up, Wednesday's 6pm till 10pm FREE ENTRY For any
+    Futher Information Please Contact us via Facebook.
+
+- name: "Scottish Unicycling Club"
+  address: "Edinburgh and Glasgow"
+  # FIXME: Add proper address
+  latitude: 0
+  longitude: 0
+  contact:
+    email: "keith_guitar1@hotmail.co.uk"
+  text: |
+    We meet up usually in Edinburgh and usually on a Tuesday nights, ride trails
+    and street but all types are welcome.
+
+- name: "Severn Wheelers"
+  address: "St Pauls Sports Academy, Newfoundland Road, Bristol, BS2 9NH"
+  latitude: 51.462446
+  longitude: -2.580328
+  website: "http://www.bristolcircus.co.uk/unicyclehockey/"
+  contact:
+    name: "Richard Loxley"
+    email: "richard@bristolunicycle.com"
+  text: |
+    Bristol's premier unicycle hockey team. All skill levels welcome. Meets
+    every Wednesday at 8:30pm
+
+    We also have a [Facebook Group](https://www.facebook.com/groups/6205936970/)
+
+# FIXME: I think this is stale
+- name: "South Cost Unicycle Meets"
+  address: "Carter Community School, Blandford Close Hamworthy, Poole, Dorset, BH15 4BQ"
+  latitude: 50.714996
+  longitude: -2.002913
+  contact:
+    name: "Sam Goodburn"
+    email: "samgoodburn@googlemail.com"
+  text: |
+    We do Freestyle and Hockey, Beginners and jugglers welcome. We also do some
+    muni & trials on different days. Sessions start from 28st of April on
+    Tuesday evenings 7-9pm - date will have to change come august so If you plan
+    on attending email me in case dates are altered.
+
+# FIXME: I think this is stale, that website is very out of date!
+- name: "South West Unicycle Meets"
+  # FIXME: Add proper address
+  address: ""
+  latitude: 0
+  longitude: 0
+  website: "http://uk.unicyclist.com/swum.html"
+  contact:
+    name: "Sarah Miller"
+    email: "sarah.miller@unicyclist.com"
+  text: |
+    Currently running a primary school club in rural devon, also drop sessions
+    in local parks.
+
+- name: "Southampton Penguins Unicycle Hockey Club"
+  address: "Cantell Maths & Computing College Violet Road Southampton SO16 3GJ"
+  latitude: 50.941143
+  longitude: -1.397056
+  website: "https://www.facebook.com/groups/2239628570/"
+  contact:
+    email: "annaats@googlemail.com"
+  text: |
+    We usually practice on Sunday afternoons from 3-4.30pm at Cantell Maths and
+    Computing College, Southampton, but please check times before traveling. We
+    welcome anyone to come along, from beginers to experienced, have lots of
+    spare sticks and some amazing new red goals! Check practice times and join
+    our 'group' on Facebook.
+
+- name: "Unicycle North West"
+  # FIXME: Add proper address
+  address: ""
+  latitude: 0
+  longitude: 0
+  website: "http://www.facebook.com/groups/279495208832571/"
+  contact:
+    name: "Julian Page"
+  text: |
+    A “facebook” group of active unicycle riders in the North West.
+
+- name: "Whitstable Unicycle Hockey"
+  # FIXME: Add proper address
+  address: "Corner of Westmeads Rd and Wheatley Rd, Whitstable Kent, CT5"
+  latitude: 51.359438
+  longitude: 1.032768
+  contact:
+    name: "Euan Hill"
+    phone: "07774 987764"
+    email: "euan@cheechmiller.co.uk"
+  text: |
+    Meets Wednesdays 6-8pm Corner of Westmeads Rd and Wheatley Rd, Whitstable
+    Kent, CT5 during summertime. Still looking for an indoor home for winter.
