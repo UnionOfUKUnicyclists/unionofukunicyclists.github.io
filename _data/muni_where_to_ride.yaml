@@ -1,0 +1,89 @@
+# vim: set ts=2 sw=2 softtabstop=2 expandtab:
+#
+# Schema
+# name : <string> Name of location
+# latitude: <float> Latitude co-ordinate
+# longitude: <float> Longitude co-ordinate
+# postcode: <string> UK Postcode
+# address: <string> [Optional] Address of location (not containing postcode)
+# tags: <List of strings> [Optional]. Currently accepted values "muni", "flatland", "street", "trials", "xc"
+# text: <string> Markdown text describing location
+
+- name: "Alton Water Reservoir"
+  latitude: 51.973629
+  longitude: 1.137686
+  postcode: "IP9 2RY"
+  address: "Holbrook Road, Ipswich, Suffolk"
+  tags: ["xc"]
+  text: |
+    Alton Water Reservoir is the largest reservoir in Suffolk. It is surrounded
+    by an eight mile cycle/pedestrian track making for a very nice non-technical
+    ride for beginners who want to start to build up distance, although at busy
+    times it can be crowded with children (some on foot, some on wheels)
+    families and dog walkers. One ideally could get there on a weekday early in
+    the morning or late in the evening to avoid most of the crowds.
+    
+    The map icon points to Stutton car park, the largest one with a café and
+    [cycle hire facilities](http://www.altoncyclehire.co.uk/) in case any
+    non-unicyclists want to join in. At the time of writing the car park charge
+    is £3 per day peak and £2 per day off-peak, but there are some smaller car
+    parks on the route which might be free.
+    
+    [An online map of the route.](http://www.altoncyclehire.co.uk/Maps.html)
+    
+    Since this is a distance route at least a 24“ wheel is recommended, with a
+    knobbly-tyred 29er probably being the best for this one.
+    
+    Most people start the route at the Stutton car park and go round clockwise.
+    The first three miles are good quality level tarmac in wide open spaces
+    leading to Lemons Hill Bridge, but after this you enter the woods and a sign
+    at this point shows an “easier” route to the left and a “challenging” route
+    to the right; the easier route will take you straight onto a public road so
+    it's advised to stay on the “challenging” route.
+    
+    The challenge is that the track changes to a very thin line in the grass
+    which is a little uneven and can get runny here and there in damp
+    conditions. There are sandy sections and a few short steep hills to contend
+    with, but if you have to walk these it won't be a minute or two before you
+    can remount. Once the trees open out and you see the car park on the other
+    side it returns to even terrain (although still on grass) and the dam
+    crossing awaits, giving a grand straight finish to the ride albeit slightly
+    bumpy due to the concrete grid surface.
+
+- name: "Aspley Woods"
+  latitude: 51.998618
+  longitude: -0.648312
+  postcode: "MK17 9HZ"
+  address: "Woburn Sands, Bedfordshire"
+  tags: ["xc", "muni"]
+  text: |
+    Aspley woods is an area of pine woodland near Woburn Sands. There is a
+    large area of dirt jumps and downhill tracks that are mostly unsuitable for
+    unicycles but the rest of the woods are great! Quite a lot of cross country
+    tracks if thats your thing, but there are also hidden gems of single track
+    dotted about everywhere. You could get lost for hours without going down
+    the same path twice.
+
+    [Heres a video made entirely at Aspley Woods](http://www.youtube.com/watch?v=v1rrwP3IAPY)
+
+- name: "Bedgebury"
+  latitude: 51.072276
+  longitude: 0.44930
+  postcode: "TN17 2SJ"
+  address: "Bedgebury Road, Goudhurst, Nr Cranbrook, Kent"
+  tags: ["muni"]
+  text: |
+    Bedgebury Forestry has
+
+    * 10km sign posted family trail,
+    * 13km of man made single track, graded red,
+    * one short section single track graded black, (I'm yet to try this on a Muni!)
+    * a freeride area, which has a jumps section (In the past there was two
+      sections of North Shore at Bedgebury, but this has been removed, with no
+      indication of if it will be replaced).
+
+    There is no cost to use the cycle track, but parking is £8.50! (Jan 2012),
+    so car sharing is definitely recommended. At the car park there is Cafe,
+    which is quite reasonably priced, and is quite nice.
+  
+    More information can be found [here](http://www.forestry.gov.uk/forestry/INFD-6LJHU5)
