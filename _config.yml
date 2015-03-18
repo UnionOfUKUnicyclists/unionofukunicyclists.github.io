@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.unicycle.org.uk" # the base hostname & protocol for your site
 twitter_username: UUUnicyclists
-github_username:  UnionOfUKUnicyclists
+github_username:  unionofukunicyclists
 facebook_page: theunionofukunicyclists
 
 # Build settings
