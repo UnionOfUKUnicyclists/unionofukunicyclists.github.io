@@ -56,8 +56,8 @@ This could let us do some neat things.
 
 * Adding/removing or editing club entries is now really simple. Some just needs to edit this file
   and it will automatically appear on the website. Asking people to do pull requests on GitHub
-  might be asking too much so we may need to take contributions manually (e.g. by e-mail) and then
-  add them ourselves.
+  might be asking too much so we may need to take contributions manually by e-mail or on our
+  [issue tracker](https://github.com/UnionOfUKUnicyclists/unionofukunicyclists.github.io/issues).
 
 * We could generate JSON files from this data and in effect provide a JSON API that others
   could pull in. This would be really cool because it means that there is **ONE DEFINITIVE LIST**
