@@ -15,13 +15,13 @@ I decided it didn't make much sense to use any server side scripting at all.
 
 Instead I went down the route of using a [static site generator](https://staticsitegenerators.net/).
 I also decided I'd like to try using [GitHub pages](https://pages.github.com/) for hosting which
-limited my choice to using [Jekyll](http://jekyllrb.com/)
+limited my choice to using [Jekyll](http://jekyllrb.com/).
 
-This gives us many advantages
+Doing this gives us many advantages
 
 * The content generated is static HTML so it is portable. It can be dumped on to
   any webserver and it should just work.
-* We let GitHub worry about the hosting. They do all the load-balencing for us
+* We let GitHub worry about the hosting. They do all the load-balancing for us
   meaning the website should scale to many users without us having to do anything.
   WIN!. It's also free, so we don't pay for web hosting anymore. Sweet!
 * [The code for our website is now GitHub](https://github.com/UnionOfUKUnicyclists/unionofukunicyclists.github.io)
@@ -63,7 +63,7 @@ This could let us do some neat things.
   could pull in. This would be really cool because it means that there is **ONE DEFINITIVE LIST**
   that everyone can use.
 
-* I'd like to add a Google Map's (or OpenStreet Map) widget showing the location of the clubs. I think
+* I'd like to add a Google Maps (or OpenStreet Map) widget showing the location of the clubs. I think
   this is a much better way to visualise the data we have.
 
 ### Modernise the design
