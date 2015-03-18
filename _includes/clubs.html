@@ -5,7 +5,67 @@ If you'd like to add your club or correct errors listed here the please contact
 the <a href="mailto:webmaster@unicycle.org.uk">webmaster</a>.
 </p>
 
-{% comment %} FIXME: Have nice google maps widget showing locations {% endcomment %}
+<script type="text/javascript"
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoPKA9DXHMbdvaqMPWxXGX1rUbAJN5JsI">
+</script>
+<script type="text/javascript">
+  var globalMap = null
+  var globalMapMarkers = []
+  var globalInfoWindows = []
+
+  function showInfoWindow(indexToShow, map) {
+    for (index=0; index < globalInfoWindows.length ; ++index) {
+      if (index == indexToShow) {
+        globalInfoWindows[index].open(map, globalMapMarkers[index]);
+      }
+      else {
+        globalInfoWindows[index].close();
+      }
+    }
+  }
+  function initialize() {
+    var mapOptions = {
+      center: { lat: 55, lng: 0.5},
+      zoom: 5
+    };
+    var globalMap = new google.maps.Map(document.getElementById('map-canvas'),
+        mapOptions);
+
+    {% comment %} Iterate over the clubs adding markers and info windows to the map{% endcomment %}
+    var marker = null
+    var infoWindow = null
+    var infoWindowContentString = null
+    {% for club in site.data.clubs %}
+      marker = new google.maps.Marker({
+          position: new google.maps.LatLng({{club.latitude}}, {{club.longitude}}),
+          map: globalMap,
+          title: '{{club.name}}'
+      });
+      globalMapMarkers.push(marker);
+
+      infoWindowContentString = '<h1>{{club.name}}</h1>' +
+        '<p>{{club.text | markdownify | strip_newlines}}</p>' +
+        '<a href="#{{club.name|uri_escape}}">More info</a>';
+
+      infoWindow = new google.maps.InfoWindow({
+          content: infoWindowContentString
+      });
+      globalInfoWindows.push(infoWindow)
+
+      {% comment %} have to be careful here with the lambda capture{% endcomment %}
+      google.maps.event.addListener(marker, 'click', function() {
+        /* Loop over infoWindows and close all other apart from ours */
+        showInfoWindow({{forloop.index0}}, globalMap);
+      });
+    {% endfor %}
+  }
+  google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+<body>
+<div id="map-canvas" style="height: 400px; margin: 0; padding: 0;"></div>
+
+{% comment %} List of clubs {% endcomment %}
 {% assign sorted_clubs = site.data.clubs | sort:"name" %}
 {% for club in sorted_clubs %}
 <h2>
