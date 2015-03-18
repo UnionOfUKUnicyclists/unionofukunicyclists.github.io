@@ -12,6 +12,9 @@ facebook_page: theunionofukunicyclists
 # Build settings
 markdown: kramdown
 
+# Set the default permalink style
+permalink: '/blog/:year/:month/:day/:title/'
+
 # Pages use the "default.html" layout by default
 defaults:
   -
