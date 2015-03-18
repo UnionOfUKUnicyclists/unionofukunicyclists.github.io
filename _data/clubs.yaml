@@ -306,10 +306,10 @@
     our 'group' on Facebook.
 
 - name: "Unicycle North West"
-  # FIXME: Add proper address
+  # FIXME: Add proper address, the latitude and longitude are a guess.
   address: ""
-  latitude: 0
-  longitude: 0
+  latitude: 53.600512
+  longitude: -2.427540
   website: "http://www.facebook.com/groups/279495208832571/"
   contact:
     name: "Julian Page"
