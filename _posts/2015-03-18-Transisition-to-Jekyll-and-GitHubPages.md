@@ -41,7 +41,7 @@ it's done I think it paves the way for some fun and intersting things we could d
 ### Guest blogs
 
 Jekyll is designed for blogging and it makes doing so very easy. Just take a look at
-[the code for this blog post](https://github.com/UnionOfUKUnicyclists/unionofukunicyclists.github.io/tree/master/_posts/2015-03-18-Transistion-to-Jekyll-and-GitHubPages.md).
+[the code for this blog post](https://raw.githubusercontent.com/UnionOfUKUnicyclists/unionofukunicyclists.github.io/master/_posts/2015-03-18-Transisition-to-Jekyll-and-GitHubPages.md).
 It's very easy to read because it is written using [markdown](http://daringfireball.net/projects/markdown/syntax).
 
 I'm hoping that it's simple enough that we could have something like monthly
