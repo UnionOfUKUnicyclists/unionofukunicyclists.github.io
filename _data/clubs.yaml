@@ -306,3 +306,11 @@
   text: |
     Meets Wednesdays 6-8pm Corner of Westmeads Rd and Wheatley Rd, Whitstable
     Kent, CT5 during summertime. Still looking for an indoor home for winter.
+
+- name: "Unicycle - East Midlands"
+  # FIXME: Find better co-ordinates
+  latitude: 52.947504
+  longitude: -1.147380
+  website: "https://www.facebook.com/eastmidsunicycle/"
+  text: |
+    A “facebook” group of active unicycle riders in the East Midlands
