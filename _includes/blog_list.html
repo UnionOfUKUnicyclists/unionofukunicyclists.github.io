@@ -1,0 +1,10 @@
+{{content | markdownify }}
+<h1>Posts</h1>
+{% for post in site.posts %}
+<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<b>Author: {{post.author}}</b><br/>
+<b>{{post.date | date: "%d/%m/%Y"}}</b><br/>
+{{ post.excerpt }}
+<a href="{{ post.url }}">Read more...</a>
+<hr/>
+{% endfor %}

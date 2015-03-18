@@ -20,6 +20,14 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      content_template: "blog_post.html"
+      menu_top: "Blog"
 # Set menu top level defaults
   -
     scope:
