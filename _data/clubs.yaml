@@ -218,9 +218,9 @@
 
 - name: "Scottish Unicycling Club"
   address: "Edinburgh and Glasgow"
-  # FIXME: Add proper address
-  latitude: 0
-  longitude: 0
+  # FIXME: Add proper address, the latitude and longitude are guesses
+  latitude: 55.954544
+  longitude: -3.188182
   contact:
     email: "keith_guitar1@hotmail.co.uk"
   text: |
