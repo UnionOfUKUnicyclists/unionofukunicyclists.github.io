@@ -8,6 +8,7 @@ url: "http://www.unicycle.org.uk" # the base hostname & protocol for your site
 twitter_username: UUUnicyclists
 github_username:  unionofukunicyclists
 facebook_page: theunionofukunicyclists
+google_maps_api_key: "AIzaSyBoPKA9DXHMbdvaqMPWxXGX1rUbAJN5JsI"
 
 # Build settings
 markdown: kramdown
