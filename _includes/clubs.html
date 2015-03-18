@@ -6,7 +6,8 @@ the <a href="mailto:webmaster@unicycle.org.uk">webmaster</a>.
 </p>
 
 {% comment %} FIXME: Have nice google maps widget showing locations {% endcomment %}
-{% for club in site.data.clubs %}
+{% assign sorted_clubs = site.data.clubs | sort:"name" %}
+{% for club in sorted_clubs %}
 <h2>
   <a name="{{club.name | uri_escape}}">{{club.name}}</a>
   <a href="#{{club.name|uri_escape}}">&#x1f517;</a>
