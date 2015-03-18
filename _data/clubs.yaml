@@ -241,6 +241,28 @@
 
     We also have a [Facebook Group](https://www.facebook.com/groups/6205936970/)
 
+- name: "Solihull Unicycle Club"
+  address: "Lode Heath School Sports Hall, Lode Lane, Solihull, West Midlands B91 2HW"
+  latitude: 52.425701
+  longitude: -1.779322
+  website: "http://solihullunicycleclub.com/"
+  text: |
+    We meet every Sunday night between 5 and 7pm at  Lode Heath School Sports Hall,
+    Lode Lane, Solihull, West Midlands B91 2HW
+
+    We welcome everyone from those who’ve never tried to ride a Unicycle to more
+    experienced riders who want a friendly, sociable and fun group to meet and
+    practice their skills.
+
+    You don’t even need your own unicycle to come along as we have a supply of
+    unicycles of all sizes on which you can learn or you can bring your own unicyle
+    along.
+
+    It costs £5 for one person or £8 for 2 people to come along which simply pays
+    for the hire of our hall.
+
+    We also have a [Facebook page](https://www.facebook.com/solihullunicycleclub)
+
 # FIXME: I think this is stale
 - name: "South Cost Unicycle Meets"
   address: "Carter Community School, Blandford Close Hamworthy, Poole, Dorset, BH15 4BQ"
