@@ -64,7 +64,8 @@ This could let us do some neat things.
   that everyone can use.
 
 * I'd like to add a Google Maps (or OpenStreet Map) widget showing the location of the clubs. I think
-  this is a much better way to visualise the data we have.
+  this is a much better way to visualise the data we have. **UPDATE: This has been done. I went for
+  Google Maps. There is a limit on requests but we're unlikely to hit that.**
 
 ### Modernise the design
 
