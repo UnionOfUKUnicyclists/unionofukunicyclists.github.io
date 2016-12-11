@@ -66,15 +66,14 @@
     hall at Cambridge Regional College.
 
 - name: "Cardiff Unicycle Hockey Club"
-  address: "Nofit State Circus John Street Cardiff CF10 5PE Wales"
-  latitude: 51.476321
-  longitude: -3.172866
+  address: "Cardiff City House of Sport, Clos Parc Morgannwg, Cardiff CF11 8AW"
+  latitude: 51.470819
+  longitude: 3.200126
   contact:
-    name: "Alex Howard"
-    email: "alexghoward@hotmail.com"
+    name: "Ben Tullis"
+    email: "tullis@hypothetical.co.uk"
   text: |
-    Thursday, Beginners 7.30-8.45, Hockey 8.45-10.00 (then off to the pub...).
-    Additional circus activities are available on site.
+    We practice on Sundays at 8:00 pm in the House of Sport hall 3 for 1 hour.
 
 - name: "Circus of the Absurd"
   address: "Harrogate High School, Ainsty Road, Harrogate, North Yorkshire, HG1 4AP"
