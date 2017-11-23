@@ -29,9 +29,8 @@
 
 - name: "Brightlingsea Unicycle Club"
   address: "The Scout Hall, Lower Park Road, Brightlingsea, Essex, CO7 0JX"
-  # FIXME: add correct co-ordinates, these are guesses
-  latitude: 51.813849
-  longitude: 1.032625
+  latitude: 51.811441
+  longitude: 1.017692
   contact:
     name: "Ellie Stockwell"
     phone: "01206 305097"
