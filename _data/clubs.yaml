@@ -67,7 +67,7 @@
 - name: "Cardiff Unicycle Hockey Club"
   address: "Cardiff City House of Sport, Clos Parc Morgannwg, Cardiff CF11 8AW"
   latitude: 51.470819
-  longitude: 3.200126
+  longitude: -3.200126
   contact:
     name: "Ben Tullis"
     email: "tullis@hypothetical.co.uk"
