@@ -14,5 +14,4 @@ We also keep a calendar of upcomming events using google calendar. You can view 
 * Importing an iCal file into your calendar software from the [here](http://www.google.com/calendar/ical/unicycle.org.uk_5plao3qv0mbvvl94csiap2b5n4%40group.calendar.google.com/public/basic.ics)
 * Using the calendar widget below
 
-<iframe title="" src="https://www.google.com/calendar/embed?showTitle=0&amp;amp;showPrint=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=unicycle.org.uk_5plao3qv0mbvvl94csiap2b5n4%40group.calendar.google.com&amp;color=%23711616&amp;ctz=Europe%2FLondon" style="width:98%; height:600px" frameborder="0">
-</iframe>
+<iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=2&amp;src=unicycle.org.uk_8ecvbihh1mqi52843dnpt40f6s%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FLondon" style="border-width:5px" width="90%" height="400px"  frameborder="0" scrolling="no"></iframe>
