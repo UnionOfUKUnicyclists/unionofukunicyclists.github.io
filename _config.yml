@@ -1,96 +1,37 @@
-# Site settings
-title: "The Union of UK Unicyclists"
-email: webmaster@unicycle.org.uk
-description: > # this means to ignore newlines until "baseurl:"
-  The website of the Union of UK Unicyclists
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.unicycle.org.uk" # the base hostname & protocol for your site
-twitter_username: UUUnicyclists
-github_username:  unionofukunicyclists
-facebook_page: theunionofukunicyclists
-google_maps_api_key: "AIzaSyBoPKA9DXHMbdvaqMPWxXGX1rUbAJN5JsI"
+# site settings
+title: The Union of UK Unicyclists
+shorttitle: UUU
+subtitle: The Union of UK Unicyclists
+email: contact@unicycling.org.uk
+description: The Union of UK Unicyclists promotes the sport and art of unicycling in the UK. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city:
+state:
+zip_code:
+country: United Kingdom
+phone:
 
-# Build settings
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 8
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/theunionofukunicyclists/
+github_url:
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
 markdown: kramdown
 
-# Set the default permalink style
-permalink: '/blog/:year/:month/:day/:title/'
-
-# Pages use the "default.html" layout by default
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-      content_template: "blog_post.html"
-      menu_top: "Blog"
-# Set menu top level defaults
-  -
-    scope:
-      path: "uuu"
-      type: "pages"
-    values:
-      menu_top: "UUU"
-  -
-    scope:
-      path: "uuu/archives"
-      type: "pages"
-    values:
-      menu_top: "UUU"
-      menu_bottom: "Archives"
-  -
-    scope:
-      path: "clubs"
-      type: "pages"
-    values:
-      menu_top: "Clubs"
-  -
-    scope:
-      path: "flatland"
-      type: "pages"
-    values:
-      menu_top: "Flatland"
-  -
-    scope:
-      path: "freestyle"
-      type: "pages"
-    values:
-      menu_top: "Freestyle"
-  -
-    scope:
-      path: "hockey"
-      type: "pages"
-    values:
-      menu_top: "Hockey"
-  -
-    scope:
-      path: "muni"
-      type: "pages"
-    values:
-      menu_top: "Muni"
-  -
-    scope:
-      path: "road"
-      type: "pages"
-    values:
-      menu_top: "Road"
-  -
-    scope:
-      path: "street"
-      type: "pages"
-    values:
-      menu_top: "Street"
-  -
-    scope:
-      path: "trials"
-      type: "pages"
-    values:
-      menu_top: "Trials"
+sass:
+  style: compressed
