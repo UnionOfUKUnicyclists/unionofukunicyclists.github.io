@@ -1,9 +1,11 @@
 ---
-title: "Welcome"
-content_template: "blog_list.html"
-menu_top: "Blog"
+layout: home
+title: Home
+landing-title: 'The Union of UK Unicyclists'
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
-Welcome to the website for the Union of UK Unicyclists.
 
-We now have a blog! See our posts below.

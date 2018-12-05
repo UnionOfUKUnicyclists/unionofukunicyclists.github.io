@@ -1,0 +1,35 @@
+<section>
+    {% if include.image %}
+    {% if include.link %}
+    <a href="{{ include.link }}" class="image">
+    {% endif %}
+        <img src="{{ include.image }}" alt="" data-position="center center" />
+    {% if include.link %}
+    </a>
+    {% endif %}
+    {% endif %}
+
+    {% if include.youtube %}
+    <iframe src="{{include.youtube}}" height="315px" width="560px" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="5px" allowfullscreen></iframe>
+    {% endif %}
+
+    {% if include.image %}
+    <div class="content">
+    {% elsif include.youtube %}
+        <div class="content">
+    {% else %}
+    <div class="content-full">
+    {% endif %}
+        <div class="inner">
+            <header class="major">
+                <h3>{{ include.title }}</h3>
+            </header>
+            <p>{{ include.content }}</p>
+            {% if include.link %}
+            <ul class="actions">
+                <li><a href="{{ include.link }}" class="button">{{ include.linktext }}</a></li>
+            </ul>
+            {% endif %}
+        </div>
+    </div>
+</section>
