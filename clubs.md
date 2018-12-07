@@ -28,13 +28,15 @@ show_tile: true
 {% endcapture %}
 
 {% capture filltext %}
-**Address:** [{{club.address}}](https://maps.google.co.uk/?q={{club.latitude}},{{club.longitude}})
+{% if club.address %}
+**Address:** [{{club.address}}](https://maps.google.co.uk/?q={{club.latitude}},{{club.longitude}}) {% endif %}
 {% if club.website %}
 **Website:** [{{club.website}}]({{club.website}}){% endif %}
 {% if club.contact.email %}
 **Email:** [{{club.contact.email}}](mailto:{{club.contact.email}}) {% endif %}
 {% if club.contact.phone %}
 **Phone:** {{club.contact.phone}} {% endif %}
+
 {{ club.text }}
 {% endcapture %}
 

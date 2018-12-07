@@ -5,30 +5,17 @@ subtitle: The Union of UK Unicyclists
 email: contact@unicycling.org.uk
 description: The Union of UK Unicyclists promotes the sport and art of unicycling in the UK. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address:
-city:
-state:
-zip_code:
+url: www.unicycle.org.uk # the base hostname & protocol for your site
 country: United Kingdom
-phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 8
 
 # social settings
-500px_url:
 facebook_url: https://www.facebook.com/theunionofukunicyclists/
-github_url:
-gitlab_url: 
-googleplus_url: 
-instagram_url: https://instagram.com
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+instagram_url: # https://instagram.com/...
+twitter_url: https://www.twitter.com/UUUnicyclists
 
 # build settings
 markdown: kramdown
