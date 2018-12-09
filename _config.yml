@@ -4,9 +4,9 @@ shorttitle: UUU
 subtitle: The Union of UK Unicyclists
 email: committee@unicycle.org.uk
 description: The Union of UK Unicyclists promotes the sport and art of unicycling in the UK. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /unionofukunicyclists.github.io # the subpath of your site, e.g. /blog
 #url: www.unicycle.org.uk # the base hostname & protocol for your site
-url: mchonofsky.github.io/unionofukunicyclists
+#url: mchonofsky.github.io # /unionofukunicyclists.github.io I think site.url is deprecated
 country: United Kingdom
 
 # homepage tiles

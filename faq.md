@@ -3,7 +3,7 @@ layout: landing
 title: FAQ
 priority: 1
 description: You've got questions. We've got answers
-image: assets/images/about.jpg
+image: /unionofukunicyclists.github.io/assets/images/about.jpg
 menu-top: FAQ
 nav-menu: true
 show_tile: true
