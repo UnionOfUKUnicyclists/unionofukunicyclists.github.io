@@ -39,7 +39,24 @@
 	@mixin inner {
 		> .inner {
 			@include padding(4em, 0);
+            margin: 0 auto;
+			max-width: _size(inner);
+			width: calc(100% - 6em);
+
+			@include breakpoint(small) {
+				@include padding(3em, 0);
+				width: calc(100% - 3em);
+			}
+		}
+	}
+
+	@mixin innerbox {
+		> .innerbox {
+			@include padding(2em, 2em);
+			border: white solid 5px;
 			margin: 0 auto;
+            margin-bottom: 2em;
+            margin-top: 2em;
 			max-width: _size(inner);
 			width: calc(100% - 6em);
 
