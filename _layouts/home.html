@@ -33,23 +33,27 @@
         <!-- One -->
         {% include tiles.html %}
 
-        <!-- Two
+        <!-- Two -->
+      <!-- One
+    <div class="inner">
+    </div>
+      -->
         <section id="two">
-            <div class="inner">
+            <div class="innerbox">
                 <header class="major">
-                    <h2>Massa libero</h2>
+                    <h2><a href="news.html">Latest news</a></h2>
                 </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+                {% for post in site.posts %}
+                    {% if post.title != 404 %}
+                    <h4><a href="{{post.url}}">{{ post.title }}</a></h4> 
+                    {% endif %}
+                {% endfor %}
             </div>
         </section>
 
     </div>
-        -->
-    {% include footer.html %}
-
+    <div></div>
+        {% include footer.html %}
 </body>
 
 </html>
