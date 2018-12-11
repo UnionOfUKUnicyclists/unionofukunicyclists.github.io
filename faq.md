@@ -9,10 +9,14 @@ nav-menu: true
 show_tile: true
 ---
 
-This page is a list of some of the most commonly asked questions about unicycling.
-If you have a question and it is not answered here then please feel free to
-e-mail us. A good FAQ list is also given here and an extensive amount of
-information is available on the [Unicyclopedia](http://en.wikibooks.org/wiki/The_Unicyclopedia).
+<section id="one">
+<div class="inner">
+<p>This page is a list of some of the most commonly asked questions about unicycling.
+If you have a question, and it is not answered here, please write to us! Extensive
+information is also available on the [Unicyclopedia](http://en.wikibooks.org/wiki/The_Unicyclopedia).
+</p>
+</div>
+</section>
 
 <section class="spotlights">
 {% capture txt %} There is no one way to learn to unicycle. Some people learn by themselves,
@@ -23,7 +27,7 @@ while others may learn much quicker with someone who can already unicycle. (See 
 * [Tutorial video from Relentless by Fate](https://www.youtube.com/watch?v=pdH0fV4Uxvk)
 * [Tutorial on using a pavement/step to help you learn](https://www.youtube.com/watch?v=3-xaYAkuw7Q)
 
-If you have found a great resouce that helped you learn then please let us know so we can add it here!
+If you have found a great resouce that helped you learn then please let us know.
 {% endcapture %}
 {%capture txt2 %}{{ txt | markdownify }} {%endcapture%}
 

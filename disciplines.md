@@ -5,7 +5,7 @@ priority: 2
 description: Unicycling is a diverse sport. Here's what we do
 image: assets/images/disciplines.jpg
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
 <section class="spotlights">
@@ -13,8 +13,8 @@ show_tile: true
 {% include spotlights.html
 image='assets/images/muniexample.jpg'
 content='Mountain unicycling, or muni, takes place on off-road terrain.
-Muni riders move fast on unpredictable terrain, like mountain bikers, and
-can take on aggressive terrain. Mountain unicycles are built to take all the
+Muni riders move fast, like mountain bikers, on unpredictable and aggressive ground. 
+Mountain unicycles are built to take all the
 abuse of a severe mountain trail.'
 title='Mountain unicycling'
 %}
