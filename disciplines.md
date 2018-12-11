@@ -49,7 +49,7 @@ squeezes, and precarious traverses along tight beams and rails.'
 
 {%include spotlights.html
 title='Road and distance'
-youtube='http://www.youtube.com/embed/K3N98OpqwB0'
+youtube='https://www.youtube.com/embed/K3N98OpqwB0'
 content='Road unicycling is about getting somewhere fast. Distances range from short sprints to long tours of hundreds of kilometers, and many people use it as a form of
 transport. Road unicycling is a fantastic way to see the world.
 
