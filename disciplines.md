@@ -1,6 +1,6 @@
 ---
 layout: landing
-title: Disciplines
+title: Types of unicycling
 priority: 2
 description: Unicycling is a diverse sport. Here's what we do
 image: assets/images/disciplines.jpg
