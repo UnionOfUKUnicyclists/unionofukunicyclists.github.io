@@ -8,9 +8,9 @@ nav-menu: true
 show_tile: true
 ---
 <section class="spotlights">
-
+<!-- a -->
 {% include spotlights.html
-image='assets/images/ThreePeaks-Square.jpg'
+image='/assets/images/ThreePeaks-Square.jpg'
 title='Ride with others'
 content="The UUU keeps a list of unicycling groups throughout the UK. Unicycling with others can help you push yourself to get better. It's also a great way to have fun."
 link='clubs.html'
