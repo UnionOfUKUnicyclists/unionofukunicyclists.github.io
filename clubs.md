@@ -3,7 +3,7 @@ layout: post
 title: Clubs
 priority: 4
 description: The UUU clubs directory
-image: assets/images/uniclub.jpg
+image: assets/images/ThreePeaks-1.jpg
 nav-menu: true
 menu_bottom: "test"
 show_tile: true

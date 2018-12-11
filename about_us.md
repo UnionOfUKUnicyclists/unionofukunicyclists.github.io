@@ -1,63 +1,35 @@
 ---
 layout: post_noimage
-title: About us
+title: Get involved
 priority: 6
-description: Learn about the UUU and get involved
+description: Learn about the unicycling and the UUU
 image: assets/images/faq.jpg
 nav-menu: true
 show_tile: true
 ---
+<section class="spotlights">
 
-## About the UUU
-
-The Union of UK Unicyclists (UUU) is the organising federation for unicyclists in the UK. It was formed by a group of
-unicyclists in April 2001. We work with UK unicyclists and clubs in order to:
-
-* To promote unicycling and unicycle events throughout the UK
-* To share information about unicycling and unicycle events with UK riders
-* To encourage participation in all aspects of unicycling in the UK and abroad by UK riders
-* To further the recognition of unicycling as a sport in the UK
-
-## Contact
-
-You can contact the whole committee using [committee@unicycle.org](mailto:committee@unicycle.org.uk). You can also contact individual members of the committee using the addresses below.
-
-### Specific roles
-
-<table>
-  <thead>
-    <tr>
-      <th>Role</th>
-      <th>Name</th>
-      <th>Contact</th>
-    </tr>
-  </thead>
-{%for person in site.data.committee.named %}
-  <tr>
-    <td>{{person.role}}</td>
-    <td>{{person.name}}</td>
-    <td><a href="mailto:{{person.email}}">{{person.email}}</a></td>
-  </tr>
-{% endfor %}
-</table>
-
-### Other committee members
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Contact</th>
-    </tr>
-  </thead>
-{%for person in site.data.committee.other %}
-  <tr>
-    <td>{{person.name}}</td>
-    <td><a href="mailto:{{person.email}}">{{person.email}}</a></td>
-  </tr>
-{% endfor %}
-</table>
+{% include spotlights.html
+image='assets/images/ThreePeaks-Square.jpg'
+title='Ride with others'
+content="The UUU keeps a list of unicycling groups throughout the UK. Unicycling with others can help you push yourself to get better. It's also a great way to have fun."
+link='clubs.html'
+linktext="See what's around"
+%}
 
 
-## Membership
+{% include spotlights.html
+title='Learn new things'
+content='Unicycling is a great way to have fun, stay active, and push yourself. Popping tricks, speeding down mountains, or just getting to work: why not have a look and see what you could do?'
+link='disciplines.html'
+linktext='Try something new'
+%}
 
-Membership is open to everyone at the rate of £1. 
+{% include spotlights.html
+title='Organising unicyclists in the UK'
+content='The Union of UK Unicyclists was founded in 2001 to promote unicycling as a sport in the UK. Since that time, it has taken a lead
+role in the unicycling community, organising conventions, setting up rides, and promoting the scene. If you would like to help out, we would love to hear from you.' 
+link='uuu.html'
+linktext='Learn more and get in touch'
+%}
+</section>
