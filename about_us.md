@@ -3,7 +3,7 @@ layout: post_noimage
 title: Get involved
 priority: 6
 description: Learn about the unicycling and the UUU
-image: assets/images/faq.jpg
+image: assets/images/bmw_path.jpg
 nav-menu: true
 show_tile: true
 ---
