@@ -58,4 +58,4 @@ You can contact the whole committee using [committee@unicycle.org](mailto:commit
 
 ## Membership
 
-Membership is currently under review. More details will be available here in February 2019.
+Membership is currently under review. More details will be available here in April 2019.
