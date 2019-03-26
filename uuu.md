@@ -42,7 +42,9 @@ You can contact us at [contact@unicycle.org.uk](mailto:contact@unicycle.org.uk).
 ### Other committee members
 
 Behind the UUU is a team of people devoted to building the sport of unicycling, whether that's street disciplines, road racing, or mountain unicycling. For more information, [get in touch](mailto:contact@unicycle.org.uk).
-<!--
+
+{% comment %}
+
 <table>
   <thead>
     <tr>
@@ -57,7 +59,8 @@ Behind the UUU is a team of people devoted to building the sport of unicycling, 
   </tr>
 {% endfor %}
 </table>
--->
+
+{% endcomment %}
 
 ## Membership
 
