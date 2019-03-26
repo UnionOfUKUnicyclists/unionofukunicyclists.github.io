@@ -1,10 +1,10 @@
 named:
   - role: "Chairperson"
-    name: "Kris Abraham"
+    name: "Mark Chonofsky"
     email: "chairperson@unicycle.org.uk"
 
   - role: "Secretary"
-    name: "Daniel Liew"
+    name: "Edd Hawkes"
     email: "secretary@unicycle.org.uk"
 
   - role: "Treasurer"
@@ -12,7 +12,7 @@ named:
     email: "treasurer@unicycle.org.uk"
 
   - role: "Webmaster"
-    name: "Daniel Liew"
+    name: "Mark Chonofsky"
     email: "webmaster@unicycle.org.uk"
 
   - role: "IUF representative"
