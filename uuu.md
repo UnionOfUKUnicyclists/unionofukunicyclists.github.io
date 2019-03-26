@@ -18,7 +18,7 @@ unicyclists in April 2001. We work with UK unicyclists and clubs in order to:
 
 ## Contact
 
-You can contact the whole committee using [committee@unicycle.org](mailto:committee@unicycle.org.uk). You can also contact individual members of the committee using the addresses below.
+You can contact us at [contact@unicycle.org](mailto:contact@unicycle.org.uk). You can also contact individual members of the committee using the addresses below.
 
 ### Specific roles
 
