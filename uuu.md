@@ -18,7 +18,7 @@ unicyclists in April 2001. We work with UK unicyclists and clubs in order to:
 
 ## Contact
 
-You can contact us at [contact@unicycle.org](mailto:contact@unicycle.org.uk). You can also contact individual members of the committee using the addresses below.
+You can contact us at [contact@unicycle.org.uk](mailto:contact@unicycle.org.uk). You can also contact individual members of the committee using the addresses below.
 
 ### Specific roles
 
@@ -40,6 +40,9 @@ You can contact us at [contact@unicycle.org](mailto:contact@unicycle.org.uk). Yo
 </table>
 
 ### Other committee members
+
+Behind the UUU is a team of people devoted to building the sport of unicycling, whether that's street disciplines, road racing, or mountain unicycling. For more information, [get in touch](mailto:contact@unicycle.org.uk).
+<!--
 <table>
   <thead>
     <tr>
@@ -54,7 +57,7 @@ You can contact us at [contact@unicycle.org](mailto:contact@unicycle.org.uk). Yo
   </tr>
 {% endfor %}
 </table>
-
+-->
 
 ## Membership
 

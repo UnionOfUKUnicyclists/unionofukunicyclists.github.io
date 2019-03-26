@@ -21,12 +21,12 @@ named:
 
 # FIXME: These email addresses shouldn't contain roles anymore.
 other:
-  - name: "Brendan Le Foll"
-    email: "trials@unicycle.org.uk"
+    #- name: "Brendan Le Foll"
+    #email: "trials@unicycle.org.uk"
 
-  - name: "James Sandercock"
-    email: "road@unicycle.org.uk"
+    #- name: "James Sandercock"
+    #email: "road@unicycle.org.uk"
 
   # Still active?
-  - name: "Andrew Lenden"
-    email: "road@unicycle.org.uk"
+  #- name: "Andrew Lenden"
+  #email: "road@unicycle.org.uk"
