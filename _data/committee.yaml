@@ -1,7 +1,7 @@
 named:
   - role: "Chairperson"
     name: "Mark Chonofsky"
-    email: "chairperson@unicycle.org.uk"
+    email: "chair@unicycle.org.uk"
 
   - role: "Secretary"
     name: "Edd Hawkes"
@@ -11,11 +11,11 @@ named:
     name: "Joe Baxter"
     email: "treasurer@unicycle.org.uk"
 
-  - role: "Webmaster"
-    name: "Mark Chonofsky"
-    email: "webmaster@unicycle.org.uk"
+    #  - role: "Webmaster"
+    #    name: "Mark Chonofsky"
+    #    email: "webmaster@unicycle.org.uk"
 
-  - role: "IUF representative"
+  - role: "IUF Representative"
     name: "Alan Hogan"
     email: "iuf@unicycle.org.uk"
 
