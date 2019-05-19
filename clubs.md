@@ -33,10 +33,15 @@ show_tile: true
 {% if club.website %}
 **Website:** [{{club.website}}]({{club.website}}){% endif %}
 {% if club.contact.email %}
-**Email:** [{{club.contact.email}}](mailto:{{club.contact.email}}) {% endif %}
 {% if club.contact.phone %}
-**Phone:** {{club.contact.phone}} {% endif %}
-
+**Email and phone number available on request** 
+{% else %} 
+**Email available on request** 
+{% endif %} {% comment %} [{{club.contact.email}}](mailto:{{club.contact.email}}) {% endif %} {% endcomment %}
+{% else %}
+{% if club.contact.phone %}
+**Phone number available on request** {% endif %} {% comment %} {{club.contact.phone}} {% endif %} {% endcomment %}
+{% endif %}
 {{ club.text }}
 {% endcapture %}
 
