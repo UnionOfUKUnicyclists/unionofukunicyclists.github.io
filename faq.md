@@ -101,8 +101,8 @@ A copy of the reply from Hampshire Police is available here as an
 letter confirms that unicycles are included in the definition
 of pedal cycles and thus should be ridden on the road and not on the pavement.
 
-They do not require brakes if they have a fixed drive (as almost all unicycles
-do). They do not require lights and reflectors if they are ridden in the
+They do not require brakes if they have a fixed drive, as almost all unicycles
+do (See [The Pedal Cycles (Construction and Use) Regulations 1983, Section 9](https://www.legislation.gov.uk/uksi/1983/1176/pdfs/uksi_19831176_en.pdf)). They do not require lights and reflectors if they are ridden in the
 daytime, but do require them if they are ridden at night.
 
 This information comes from Hampshire Police, so we can probably infer that the same
