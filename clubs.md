@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Clubs
-priority: 4
+priority: 6
 description: The UUU clubs directory
 image: assets/images/just.png
 nav-menu: true

@@ -1,8 +1,8 @@
 ---
 layout: post_noimage
-title: Get involved
-priority: 6
-description: Learn about the unicycling and the UUU
+title: Learn more
+priority: 4
+description: Read about unicycling and the UUU
 image: assets/images/bmw_path.jpg
 nav-menu: true
 show_tile: true
@@ -17,6 +17,13 @@ link='clubs.html'
 linktext="See what's around"
 %}
 
+
+{% include spotlights.html
+title='Join us'
+content='We connect unicyclists across the UK and '
+link='joinus.html'
+linktext='Try something new'
+%}
 
 {% include spotlights.html
 title='Learn new things'
