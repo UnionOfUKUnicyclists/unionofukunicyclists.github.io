@@ -51,8 +51,7 @@ content=txt2
 This is a list of stores that are in/can deliver to the UK (not definitive).
 If you would like to add yourself as a trader please contact us.
 
-* [Unicycle.com](http://www.unicycle.uk.com/)
-* [Municycle.com](http://www.municycle.com/)
+* [Unicycle.com](http://www.unicycle.co.uk/)
 * [Oddballs](http://www.oddballs.co.uk/)
 {% endcapture %}
 {%capture txt2 %}{{ txt | markdownify }} {%endcapture%}
