@@ -20,7 +20,7 @@ linktext="See what's around"
 
 {% include spotlights.html
 title='Join us'
-content='We connect unicyclists across the UK and '
+content='We connect unicyclists across the UK and provide support for unicycling events.'
 link='joinus.html'
 linktext='Try something new'
 %}
