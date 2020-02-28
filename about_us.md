@@ -22,7 +22,7 @@ linktext="See what's around"
 title='Join us'
 content='We connect unicyclists across the UK and provide support for unicycling events.'
 link='joinus.html'
-linktext='Try something new'
+linktext='Become a member'
 %}
 
 {% include spotlights.html
