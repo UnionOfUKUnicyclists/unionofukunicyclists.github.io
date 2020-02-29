@@ -1,5 +1,5 @@
 ---
 permalink: /agm
 redirect_to:
-    - https://drive.google.com/file/d/1vNgQVSileW3Yml0WoUBryR4qDge-7Qsd/view?usp=sharing
+    - https://drive.google.com/drive/folders/1f9bhjKqRYyeOWyd6IDj1At6Uspus26C7?usp=sharing
 ---
