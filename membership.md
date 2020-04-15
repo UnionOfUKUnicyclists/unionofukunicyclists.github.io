@@ -4,8 +4,8 @@ title: Join us
 priority: 5
 description: Sign up to support British unicycling
 image: assets/images/100km.jpg
-nav-menu: true
-menu_bottom: true
+nav-menu: false
+menu_bottom: false
 show_tile: false
 ---
 

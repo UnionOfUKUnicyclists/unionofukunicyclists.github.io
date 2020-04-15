@@ -4,8 +4,8 @@ title: King of the Lockdown
 priority: 9999
 description: The UUU's lockdown unicycling competition 
 image: assets/images/king_of_the_lockdown_poster.png
-nav-menu: true
-menu_bottom: true
+nav-menu: false
+menu_bottom: false
 show_tile: true
 add_script: assets/js/fill_table_kotl.js
 ---
