@@ -24,7 +24,6 @@ while others may learn much quicker with someone who can already unicycle. (See 
 
 * [Learning to ride from The Unicyclopedia](http://en.wikibooks.org/wiki/The_Unicyclopedia/Learning)
 * [Tutorial video from Relentless by Fate](https://www.youtube.com/watch?v=pdH0fV4Uxvk)
-* [Tutorial on using a pavement/step to help you learn](https://www.youtube.com/watch?v=3-xaYAkuw7Q)
 
 If you have found a great resouce that helped you learn then please let us know.
 {% endcapture %}
@@ -39,9 +38,12 @@ Nearby juggling/circus skill groups are a good place to start. Check out our [cl
 to see if there's a club near you. Unicyclists organise themselves on Facebook and there are a collection
 of regional unicycling Facebook groups which advertise rides. You could also try
 
+* [Facebook: UK Unicycle Chat](https://www.facebook.com/groups/1041382582901319)
+* [Facebook: Unicycle Chat](https://www.facebook.com/groups/115835695144753/)
 * [Unicyclist.com](http://unicyclist.com/) forums
-* [Facebook Unicycle chat group](https://www.facebook.com/groups/115835695144753/)
+
 {% endcapture %}
+
 {%capture txt2 %}{{ txt | markdownify }} {%endcapture%}
 {%include spotlights.html
 title='Where can I find others to ride with?'
@@ -52,11 +54,27 @@ This is a list of stores that are in/can deliver to the UK (not definitive).
 If you would like to add yourself as a trader please contact us.
 
 * [Unicycle.com](http://www.unicycle.co.uk/)
+* [Facebook: UK Unicycles for Sale](https://www.facebook.com/groups/ukunicyclesforsale)
 * [Oddballs](http://www.oddballs.co.uk/)
 {% endcapture %}
+
 {%capture txt2 %}{{ txt | markdownify }} {%endcapture%}
 {%include spotlights.html
 title='Where can I buy a unicycle?'
+content=txt2
+%}
+{% capture txt %}
+When competing at unicycling, the event will follow the rules set by the International Unicycling Federation (IUF).
+Founded in 1982, the IUF is composed of representatives of unicycling nations from around the world, overseeing the sport of unicycling.
+Here, you can find more information about the different types of unicycling and the current rulebook.
+
+* [IUF](https://unicycling.org/)
+* [Current Competition Rulebook](https://unicycling.org/files/iuf-rulebook-2019.pdf)
+{% endcapture %}
+
+{%capture txt2 %}{{ txt | markdownify }} {%endcapture%}
+{%include spotlights.html
+title='Does unicycling have any rules?'
 content=txt2
 %}
 {% capture txt %}
@@ -116,6 +134,3 @@ different since they have subtly different legal systems.
 title='What is the position of unicycles within the law?'
 content=txt2
 %}
-
-
-

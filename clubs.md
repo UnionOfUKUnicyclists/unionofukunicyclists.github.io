@@ -15,6 +15,7 @@ show_tile: true
 
 {% for club in sorted_clubs %}
 
+
 {% capture title %}
 {% if club.website %}
 ## [{{club.name}}]({{club.website}})
@@ -28,21 +29,31 @@ show_tile: true
 {% endcapture %}
 
 {% capture filltext %}
-{% if club.address %}
-**Address:** [{{club.address}}](https://maps.google.co.uk/?q={{club.latitude}},{{club.longitude}}) {% endif %}
+**Region:** {{club.region}}
+{% if club.location %}
+**Town/City:** {{club.location}}{% endif %}
+{% if club.disciplines %}
+**Disciplines:** {{club.disciplines}}{% endif %}
+{% if club.facebook %}
+**Facebook:** [{{club.facebook}}]({{club.facebook}}){% endif %}
 {% if club.website %}
 **Website:** [{{club.website}}]({{club.website}}){% endif %}
+{% if club.text %}
+{{ club.text }} {% endif %}
+{% if club.address %}
+**Address available on request**
+{% comment %} **Address:** [{{club.address}}](https://maps.google.co.uk/?q={{club.latitude}},{{club.longitude}}) {% endcomment %}
+{% endif %}
 {% if club.contact.email %}
 {% if club.contact.phone %}
 **Email and phone number available on request** 
 {% else %} 
-**Email available on request** 
+**Email available on request**
 {% endif %} {% comment %} [{{club.contact.email}}](mailto:{{club.contact.email}}) {% endif %} {% endcomment %}
 {% else %}
 {% if club.contact.phone %}
 **Phone number available on request** {% endif %} {% comment %} {{club.contact.phone}} {% endif %} {% endcomment %}
 {% endif %}
-{{ club.text }}
 {% endcapture %}
 
 {% capture fillHTML %}

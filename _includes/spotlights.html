@@ -3,7 +3,9 @@
     {% if include.link %}
     <a href="{{ include.link }}" class="image">
     {% endif %}
-        <img src="{{ include.image | relative_url }}" alt="" data-position="center center" />
+    <div style="margin-right: 2rem; margin-left: 2rem;">
+        <img src="{{ include.image | relative_url }}" alt="" height="100%" padding-left="100%" style="object-fit: cover;" data-position="center center" />
+     </div>
     {% if include.link %}
     </a>
     {% endif %}

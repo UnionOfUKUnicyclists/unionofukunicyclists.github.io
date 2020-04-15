@@ -31,7 +31,9 @@
 </div>
 
     {% include footer.html %}
-
+    {% if page.add_script %}
+    <script src='{{ page.add_script | relative_url }}'></script>
+    {% endif %}
 </body>
 
 </html>
