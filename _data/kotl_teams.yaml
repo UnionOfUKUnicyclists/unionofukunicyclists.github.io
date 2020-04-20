@@ -1,0 +1,57 @@
+# vim: set ts=2 sw=2 softtabstop=2 expandtab:
+#
+# This file stores the team information for King of the Lockdown in the YAML format.
+#
+# We use the following schema:
+#
+# number:<string> : Team number
+# name:<string>: Name of team
+# members:<string>: Members in team
+
+- number: "Team 1"
+  members: |
+    Tyrone Crankville, Lewie Edwards, Cianna Finkelstein & Matthew Nadin
+
+- number: "Team 2"
+  members: |
+    Simon Berry, Owen Snell, Ellie Stockwell & Lizzy Trubshaw
+
+- number: "Team 3"
+  members: |
+    Sandy Armstrong, Lucas King, Rich Vincent-Spall & Linden Watson
+
+- number: "Team 4"
+  members: |
+    Jordan Butler, Tom Gillard, Edd Hawkes & Rebecca Mayes
+
+- number: "Team 5"
+  members: |
+    Ian Dunn, Duncan Codd, Robbie Gunn & Nathaniel Snell
+
+- number: "Team 6"
+  members: |
+    Ted Epps, Kit Greenwood, Caroline Ponsonby & Marie Schlenker
+
+- number: "Team 7"
+  members: |
+    Jamie Parr, Alistair Skelton, Mike Taylor & Sammy Watson
+
+- number: "Team 8"
+  members: |
+    Colin, Mark Chonofsky, Adam Foley & Ben Scott
+
+- number: "Team 9"
+  members: |
+    Victoria Hilton, Matt Kershaw, Sandro Mattarei & William Stevens
+
+- number: "Team 10"
+  members: |
+    Peter Bates, Caleb Finkelstein, Joe Ford & Gareth Walkom
+
+- number: "Team 11"
+  members: |
+    Joe Baxter, Oli Bolton, Dan Gwynn & Cameron Peacock
+
+- number: "Team 12"
+  members: |
+    Balasz Balough, Elliot Bateman, Jordan Edwards & Rob Terry
