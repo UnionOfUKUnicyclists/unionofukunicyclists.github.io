@@ -4,54 +4,58 @@
 #
 # We use the following schema:
 #
-# number:<string> : Team number
+# id:<string> : Team ID
 # name:<string>: Name of team
 # members:<string>: Members in team
 
-- number: "Team 1"
+- id: "Team 1"
   members: |
     Tyrone Crankville, Lewie Edwards, Cianna Finkelstein & Matthew Nadin
 
-- number: "Team 2"
+- id: "Team 2"
   members: |
     Simon Berry, Owen Snell, Ellie Stockwell & Lizzy Trubshaw
 
-- number: "Team 3"
+- id: "Team 3"
   members: |
     Sandy Armstrong, Lucas King, Rich Vincent-Spall & Linden Watson
 
-- number: "Team 4"
+- id: "Team 4"
   members: |
     Jordan Butler, Tom Gillard, Edd Hawkes & Rebecca Mayes
 
-- number: "Team 5"
+- id: "Team 5"
   members: |
     Ian Dunn, Duncan Codd, Robbie Gunn & Nathaniel Snell
 
-- number: "Team 6"
+- id: "Team 6"
   members: |
     Ted Epps, Kit Greenwood, Caroline Ponsonby & Marie Schlenker
 
-- number: "Team 7"
+- id: "Team 7"
   members: |
     Jamie Parr, Alistair Skelton, Mike Taylor & Sammy Watson
 
-- number: "Team 8"
+- id: "Team 8"
   members: |
     Colin, Mark Chonofsky, Adam Foley & Ben Scott
 
-- number: "Team 9"
+- id: "Team 9"
   members: |
     Victoria Hilton, Matt Kershaw, Sandro Mattarei & William Stevens
 
-- number: "Team 10"
+- id: "Team 10"
   members: |
     Peter Bates, Caleb Finkelstein, Joe Ford & Gareth Walkom
 
-- number: "Team 11"
+- id: "Team 11"
   members: |
     Joe Baxter, Oli Bolton, Dan Gwynn & Cameron Peacock
 
-- number: "Team 12"
+- id: "Team 12"
   members: |
     Balasz Balough, Elliot Bateman, Jordan Edwards & Rob Terry
+
+- id: "Team 13"
+  members: |
+    Lucy Cobb, Liam Herrod & Will Sheppard
