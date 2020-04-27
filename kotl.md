@@ -14,13 +14,13 @@ add_script: assets/js/fill_table_kotl.js
 
 Teams of four, organised virtually, are competing to complete tasks on a central list. Each task nets each team fixed numbers of points.
 
-## Clip of the Week
+## Clip of the week
 <div id="fb-root"></div>
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v6.0"></script>
 
 <div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/860369674475026/" data-show-text="false" data-width=""><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/860369674475026/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/860369674475026/">King of the Lockdown - Clip of the Week</a></blockquote></div>
 
-### Previous Clip of the Weeks
+### Previous clips of the week
 <div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/216253039636451/" data-show-text="false" data-width="300"><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/216253039636451/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/216253039636451/">UUU King of the Lockdown - Clip of the week 1</a></blockquote></div>
 
 ## Current standings
