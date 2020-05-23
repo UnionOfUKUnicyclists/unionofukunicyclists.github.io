@@ -13,7 +13,7 @@ show_tile: false
 
 <div id="wrapper" style="width: 100%; overflow: hidden;">
 <div style="width: 30%; float: left;">
-<h3>There's just one thing more to do. Use PayPal to pay our £5 membership fee with PayPal or your credit or debit card.</h3>
+<h3>There's just one thing more to do. Use this form to pay our £5 membership fee with PayPal or your credit or debit card.</h3>
 </div>
 <div id="paypal-button-container" style="overflow: hidden; width: 60%; float: right; background-color: #a3a6b1; text-align: center;  padding: 20px;  border: thick solid whitesmoke;  border-radius: 10px;"></div>
 </div>
