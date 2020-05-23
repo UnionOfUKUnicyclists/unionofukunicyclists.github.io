@@ -18,7 +18,7 @@ show_tile: false
 <div id="paypal-button-container" style="overflow: hidden; width: 60%; float: right; background-color: #a3a6b1; text-align: center;  padding: 20px;  border: thick solid whitesmoke;  border-radius: 10px;"></div>
 </div>
 
-<script src="https://www.paypal.com/sdk/js?client-id=AXsOPxGOsRnYVukKxUXxDxwrJA8C_x7ga2NylWMcfoND1uaBg9w7z-bcmERPTzGvNxiCv7u4z52jIXGc"> </script>
+<script src="https://www.paypal.com/sdk/js?currency=GBP&client-id=AXsOPxGOsRnYVukKxUXxDxwrJA8C_x7ga2NylWMcfoND1uaBg9w7z-bcmERPTzGvNxiCv7u4z52jIXGc"> </script>
 <script>
   paypal.Buttons({
       style: {
