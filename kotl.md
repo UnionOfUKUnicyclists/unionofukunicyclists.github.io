@@ -6,7 +6,7 @@ description: The UUU's lockdown unicycling competition
 image: assets/images/king_of_the_lockdown_poster.png
 nav-menu: false
 menu_bottom: false
-show_tile: true
+show_tile: false
 add_script: assets/js/fill_table_kotl.js
 ---
 # Game complete

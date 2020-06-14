@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Unicycling skill levels
-priority: 5
-description: Here's how to get into unicycling
+title: UUU Levels Scheme
+priority: 9999
+description: What to learn to get into unicycling
 nav-menu: false
 menu_bottom: false
-show_tile: false
+show_tile: true
 ---
 
 # Learning to unicycle
