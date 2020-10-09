@@ -3,7 +3,6 @@ layout: post_noimage
 title: Virtual Distance League
 priority: 9999
 description: Sign up to the UUU Virtual Distance League
-image: assets/images/virtual_distance_league_full.jpg
 nav-menu: false
 menu_bottom: false
 show_tile: true
