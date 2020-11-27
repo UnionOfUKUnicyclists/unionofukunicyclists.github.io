@@ -32,7 +32,7 @@ $.get(
         var text_entries = data.split('\r\n');
         var tbl = document.querySelector('#first-ten');
         var entry;
-        for (let i = 1; i <= 6; i++) {
+        for (let i = 1; i <= 11; i++) {
             entry = text_entries[i].split(',').slice(0,5);
             var text = '\n<tr><td>' + entry[0] + '</td><td>' + entry[1] + '</td><td>' + entry[2] + '</td><td>' + entry[3] + '</td><td>' + entry[4] + '</td></tr>';
             tbl.innerHTML += text;
@@ -46,7 +46,7 @@ $.get(
         var text_entries = data.split('\r\n');
         var tbl = document.querySelector('#second-ten');
         var entry;
-        for (let i = 1; i <= 6; i++) {
+        for (let i = 1; i <= 11; i++) {
             entry = text_entries[i].split(',').slice(0,5);
             var text = '\n<tr><td>' + entry[0] + '</td><td>' + entry[1] + '</td><td>' + entry[2] + '</td><td>' + entry[3] + '</td><td>' + entry[4] + '</td></tr>';
             tbl.innerHTML += text;
