@@ -9,6 +9,7 @@ These are the sources used to generate the static website.
 We depend on [Jekyll](http://jekyllrb.com/) and [Bundler](http://bundler.io/)
 which are both written in [Ruby](https://www.ruby-lang.org/).  So first you
 need to install Ruby, see the Ruby website on how to do this.
+IMPORTANT: You must install a Ruby version < 2.7 dev, >=2.3
 
 Once you have Ruby installed you then need to install Bundler.  Typically you
 would install Bundler like so
