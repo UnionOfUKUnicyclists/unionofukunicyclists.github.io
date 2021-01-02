@@ -3,7 +3,7 @@ layout: post
 title: UUU Levels Scheme
 priority: 9999
 description: What to learn to get into unicycling
-nav-menu: false
+nav-menu: true
 menu_bottom: false
 show_tile: true
 ---
