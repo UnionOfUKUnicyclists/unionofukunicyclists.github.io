@@ -64,4 +64,4 @@ Behind the UUU is a team of people devoted to building the sport of unicycling, 
 
 ## Membership
 
-Membership is currently under review. More details will be available here in April 2019.
+Want to become a member of the UUU? [Join us](https://unicycle.org.uk/joinus.html).

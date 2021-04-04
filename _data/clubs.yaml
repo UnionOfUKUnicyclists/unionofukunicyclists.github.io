@@ -70,18 +70,21 @@
 
 - name: "East Midlands Unicyclists (EMUs)"
   region: "East Midlands"
-  location: "Long Eaton, Nottingham"
+  location: "Long Eaton, Nottingham, NG10"
   disciplines: "Beginners, Hockey, Muni"
   address: "Derby Rd, Long Eaton Nottingham, NG10 4AD"
+  image: "assets/images/emu_banner.jpg"
   latitude: 52.934151
   longitude: -1.475784
-  website: "http://www.emunicyclists.info/"
+  website: "https://eastmidlandsunicyclists.uk/"
   contact:
-    email: "Fatkid13@googlemail.com"
+    name: "Paul Young"
+    phone: "07974 874519"
+    email: "fatkid13@googlemail.com"
   text: |
     The hockey team in the East Midlands. Practice sessions every Tuesday night
-    from 1900 to 2100. Newcomers always welcome. First week free. We also ride
-    Muni and go to the pub.
+    from 1900 to 2100. Newcomers are always welcome. First week free. We also
+    ride Muni and go to the pub.
 
 - name: "UK Midlands Unicycle Group"
   region: "East Midlands"

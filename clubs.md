@@ -22,6 +22,9 @@ show_tile: true
 {% else %}
 ## {{club.name}}
 {% endif %}
+{% if club.image %}
+![club image]({{club.image}} "Club Image")
+{% endif %}
 {% endcapture %}
 
 {% capture titleHTML %}
@@ -35,9 +38,17 @@ show_tile: true
 {% if club.disciplines %}
 **Disciplines:** {{club.disciplines}}{% endif %}
 {% if club.facebook %}
-**Facebook:** [{{club.facebook}}]({{club.facebook}}){% endif %}
 {% if club.website %}
-**Website:** [{{club.website}}]({{club.website}}){% endif %}
+[![Facebook]({{'assets/images/fb.png'}} "Facebook")]({{club.facebook}})
+[![Website]({{'assets/images/web.png'}} "Website")]({{club.website}})
+{% else %} 
+[![Facebook]({{'assets/images/fb.png'}} "Facebook")]({{club.facebook}})
+{% endif %}{% comment %}{% endif %}{% endcomment %}
+{% else %}
+{% if club.contact.phone %}
+[![Website]({{'assets/images/web.png'}} "Website")]({{club.website}})
+{% endif %}{% comment %}{% endif %}{% endcomment %}
+{% endif %}
 {% if club.text %}
 {{ club.text }} {% endif %}
 {% if club.address %}
