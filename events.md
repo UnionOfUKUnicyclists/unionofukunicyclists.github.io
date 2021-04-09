@@ -15,8 +15,8 @@ show_tile: true
 
 {% capture content %}
 
-* You can also import the calendar into your Google calendar using the URL [miuovfoufbmbkre074km2ugihs@group.calendar.google.com](miuovfoufbmbkre074km2ugihs@group.calendar.google.com)
-* You can extract an iCal file into your calendar software from the link [here](https://calendar.google.com/calendar/ical/miuovfoufbmbkre074km2ugihs%40group.calendar.google.com/public/basic.ics)
+* You can also import the calendar into your Google calendar using the URL [unicycle.org.uk_5plao3qv0mbvvl94csiap2b5n4@group.calendar.google.com](unicycle.org.uk_5plao3qv0mbvvl94csiap2b5n4@group.calendar.google.com)
+* You can extract an iCal file into your calendar software from the link [here](https://calendar.google.com/calendar/ical/unicycle.org.uk_5plao3qv0mbvvl94csiap2b5n4%40group.calendar.google.com/public/basic.ics)
 {% endcapture %}
 {{content|markdownify}}
 </div>
