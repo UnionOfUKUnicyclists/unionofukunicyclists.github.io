@@ -4,7 +4,7 @@ title: King of the Lockdown
 priority: 9999
 description: UUU King of the Lockdown
 image: assets/images/king_of_the_lockdown_poster.png
-nav-menu: true
+nav-menu: false
 menu_bottom: false
 show_tile: false
 add_script: assets/js/fill_table_kotl.js

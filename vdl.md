@@ -3,9 +3,9 @@ layout: post_noimage
 title: Virtual Distance League
 priority: 9999
 description: UUU Virtual Distance League
-nav-menu: true
+nav-menu: false
 menu_bottom: false
-show_tile: true
+show_tile: false
 add_script: assets/js/fill_table_vdl.js
 ---
 
