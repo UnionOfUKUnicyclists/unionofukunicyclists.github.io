@@ -5,7 +5,7 @@ $.get(
         var text_entries = data.split('\r\n');
         var tbl = document.querySelector('#overall-leaderboard');
         var entry;
-        for (let i = 1; i <= 26; i++) {
+        for (let i = 1; i <= 30; i++) {
             entry = text_entries[i].split(',').slice(1,10);
             var text = '\n<tr><td>' + entry[0] + '</td><td>' + entry[1] + '</td><td>' + entry[2] + '</td><td>' + entry[3] + '</td><td>' + entry[4] + '</td><td>' + entry[5] + '</td><td>' + entry[6] + '</td><td>' + entry[7] + '</td><td>' + entry[8] + '</td></tr>';
             tbl.innerHTML += text;
@@ -47,7 +47,7 @@ $.get(
         var text_entries = data.split('\r\n');
         var tbl = document.querySelector('#hockey-leaderboard');
         var entry;
-        for (let i = 1; i <= 5; i++) {
+        for (let i = 1; i <= 22; i++) {
             entry = text_entries[i].split(',').slice(1,14);
             var text = '\n<tr><td>' + entry[0] + '</td><td>' + entry[1] + '</td><td>' + entry[2] + '</td><td>' + entry[3] + '</td><td>' + entry[4] + '</td><td>' + entry[5] + '</td><td>' + entry[6] + '</td><td>' + entry[7] + '</td><td>' + entry[8] + '</td><td>' + entry[9] + '</td><td>' + entry[10] + '</td><td>' + entry[11] + '</td><td>' + entry[12] + '</td></tr>';
             tbl.innerHTML += text;
@@ -75,7 +75,7 @@ $.get(
         var text_entries = data.split('\r\n');
         var tbl = document.querySelector('#street-leaderboard');
         var entry;
-        for (let i = 1; i <= 6; i++) {
+        for (let i = 1; i <= 17; i++) {
             entry = text_entries[i].split(',').slice(1,14);
             var text = '\n<tr><td>' + entry[0] + '</td><td>' + entry[1] + '</td><td>' + entry[2] + '</td><td>' + entry[3] + '</td><td>' + entry[4] + '</td><td>' + entry[5] + '</td><td>' + entry[6] + '</td><td>' + entry[7] + '</td><td>' + entry[8] + '</td><td>' + entry[9] + '</td><td>' + entry[10] + '</td><td>' + entry[11] + '</td><td>' + entry[12] + '</td></tr>';
             tbl.innerHTML += text;
