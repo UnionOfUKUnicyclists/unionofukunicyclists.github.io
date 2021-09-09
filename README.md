@@ -1,4 +1,4 @@
-# The Union of UK Unicyclists website sources
+# Unicycling UK website sources
 
 These are the sources used to generate the static website.
 

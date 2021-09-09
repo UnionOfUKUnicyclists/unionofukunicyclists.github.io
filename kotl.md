@@ -2,7 +2,7 @@
 layout: post_noimage
 title: King of the Lockdown
 priority: 9999
-description: UUU King of the Lockdown
+description: UUK King of the Lockdown
 image: assets/images/king_of_the_lockdown_poster.png
 nav-menu: false
 menu_bottom: false
@@ -23,7 +23,7 @@ Teams of four, organised virtually, are competing to complete tasks on a central
 <div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/246544833092702/" data-show-text="false" data-width="300"><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/246544833092702/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/246544833092702/"></a>Clip of the week 4</a></blockquote></div>
 <div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/2896561930419862/" data-show-text="false" data-width="300"><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/2896561930419862/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/2896561930419862/"></a>Clip of the week 3</a></blockquote></div>
 <div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/860369674475026/" data-show-text="false" data-width="300"><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/860369674475026/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/860369674475026/">King of the Lockdown - Clip of the Week 2</a></blockquote></div>
-<div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/216253039636451/" data-show-text="false" data-width="300"><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/216253039636451/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/216253039636451/">UUU King of the Lockdown - Clip of the week 1</a></blockquote></div>
+<div class="fb-video" style="margin-bottom:2em" data-href="https://www.facebook.com/theunionofukunicyclists/videos/216253039636451/" data-show-text="false" data-width="300"><blockquote cite="https://developers.facebook.com/theunionofukunicyclists/videos/216253039636451/" class="fb-xfbml-parse-ignore"><a href="https://developers.facebook.com/theunionofukunicyclists/videos/216253039636451/">UUK King of the Lockdown - Clip of the week 1</a></blockquote></div>
 
 ## Final standings
 <html>

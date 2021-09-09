@@ -1,14 +1,15 @@
 ---
 layout: post_noimage
 title: Get involved
-description: The UUU
+description: The UUK
 image: assets/images/faq.jpg
 nav-menu: false
 show_tile: false
 ---
-## About the UUU
+## About the UUK
 
-The Union of UK Unicyclists (UUU) is the organising federation for unicyclists in the UK. It was formed by a group of
+Unicycling UK (UUK), previously known as the Unicon of UK Unicyclists (UUU),
+is the organising federation for unicyclists in the UK. It was formed by a group of
 unicyclists in April 2001. We work with UK unicyclists and clubs in order to:
 
 * Promote unicycling and unicycle events throughout the UK
@@ -41,7 +42,7 @@ You can contact us at [contact@unicycle.org.uk](mailto:contact@unicycle.org.uk).
 
 ### Other committee members
 
-Behind the UUU is a team of people devoted to building the sport of unicycling, whether that's street disciplines, road racing, or mountain unicycling. For more information, [get in touch](mailto:contact@unicycle.org.uk).
+Behind the UUK is a team of people devoted to building the sport of unicycling, whether that's street disciplines, road racing, or mountain unicycling. For more information, [get in touch](mailto:contact@unicycle.org.uk).
 
 {% comment %}
 
@@ -64,4 +65,4 @@ Behind the UUU is a team of people devoted to building the sport of unicycling, 
 
 ## Membership
 
-Want to become a member of the UUU? [Join us](https://unicycle.org.uk/joinus.html).
+Want to become a member of the UUK? [Join us](https://unicycle.org.uk/joinus.html).

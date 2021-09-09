@@ -2,7 +2,7 @@
 layout: post_noimage
 title: Skills Challenge
 priority: 9999
-description: UUU Skills Challenge
+description: UUK Skills Challenge
 nav-menu: true
 menu_bottom: false
 show_tile: true

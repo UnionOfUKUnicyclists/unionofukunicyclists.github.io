@@ -2,7 +2,7 @@
 layout: post
 title: Clubs
 priority: 6
-description: The UUU clubs directory
+description: The UUK clubs directory
 image: assets/images/just.jpg
 nav-menu: true
 menu_bottom: "test"

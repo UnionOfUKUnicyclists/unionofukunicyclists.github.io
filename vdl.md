@@ -2,7 +2,7 @@
 layout: post_noimage
 title: Virtual Distance League
 priority: 9999
-description: UUU Virtual Distance League
+description: UUK Virtual Distance League
 nav-menu: false
 menu_bottom: false
 show_tile: false

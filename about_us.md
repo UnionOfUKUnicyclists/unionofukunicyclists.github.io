@@ -2,7 +2,7 @@
 layout: post_noimage
 title: Learn more
 priority: 4
-description: Read about unicycling and the UUU
+description: Read about unicycling and the UUK
 image: assets/images/bmw_path.jpg
 nav-menu: true
 show_tile: true
@@ -12,7 +12,7 @@ show_tile: true
 {% include spotlights.html
 image='/assets/images/ThreePeaks-Square.jpg'
 title='Ride with others'
-content="The UUU keeps a list of unicycling groups throughout the UK. Unicycling with others can help you push yourself to get better. It's also a great way to have fun."
+content="The UUK keeps a list of unicycling groups throughout the UK. Unicycling with others can help you push yourself to get better. It's also a great way to have fun."
 link='clubs.html'
 linktext="See what's around"
 %}
@@ -34,9 +34,9 @@ linktext='Try something new'
 
 {% include spotlights.html
 title='Organising unicyclists in the UK'
-content='The Union of UK Unicyclists was founded in 2001 to promote unicycling as a sport in the UK. Since that time, it has taken a lead
+content='Unicycling UK was founded in 2001 to promote unicycling as a sport in the UK. Since that time, it has taken a lead
 role in the unicycling community, organising conventions, setting up rides, and promoting the scene. If you would like to help out, we would love to hear from you.' 
-link='uuu.html'
+link='uuk.html'
 linktext='Learn more and get in touch'
 %}
 </section>

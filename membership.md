@@ -2,13 +2,13 @@
 layout: post
 title: Join us
 priority: 5
-description: Sign up to support British unicycling
+description: Sign up to support UK unicycling
 nav-menu: false
 menu_bottom: false
 show_tile: false
 ---
 
-# Thank you for joining the UUU
+# Thank you for joining the UUK
 <html>
 
 <div id="wrapper" style="width: 100%; overflow: hidden;">

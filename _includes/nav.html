@@ -2,11 +2,11 @@
   <script>
   jQuery(document).ready(function() {
     /* Set Default menu selection */
-    uuuMenuSetBreadcrumbs('{{page.menu_top}}', '{{page.menu_bottom}}');
+    uukMenuSetBreadcrumbs('{{page.menu_top}}', '{{page.menu_bottom}}');
   });
   </script>
 <header>
-  <div id="uuu_logo">
+  <div id="uuk_logo">
     <a href="/">
       <img src="{{ "/assets/img/site_logo.gif" | prepend:site.baseurl}}"></img>
     </a>
@@ -21,8 +21,8 @@
 {% assign sorted_pages = site.pages | sort:"dir" %}
 <nav>
   <ul id="top_level_nav">
-    <li>UUU
-      {% include bottom_nav_list.html tld="uuu" %}
+    <li>UUK
+      {% include bottom_nav_list.html tld="uuk" %}
     </li>
     <li>
       <a href="{{ "/" | append:site.baseurl }}">Blog</a>

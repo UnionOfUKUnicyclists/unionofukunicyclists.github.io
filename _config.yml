@@ -1,9 +1,9 @@
 # site settings
-title: The Union of UK Unicyclists
-shorttitle: UUU
-subtitle: The Union of UK Unicyclists
+title: Unicycling UK
+shorttitle: UUK
+subtitle: Unicycling UK
 email: contact@unicycle.org.uk
-description: The Union of UK Unicyclists promotes the sport and art of unicycling in the UK. 
+description: Unicycling UK promotes the sport and art of unicycling in the UK. 
 baseurl: #/unionofukunicyclists.github.io # the subpath of your site, e.g. /blog
 url: www.unicycle.org.uk # the base hostname & protocol for your site
 country: United Kingdom
